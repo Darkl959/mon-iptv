@@ -20,12 +20,14 @@ jobs:
       - name: Executer le script
         run: python fusion_globale.py
 
-      - name: Save changes
+            - name: Save changes
         run: |
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
+          touch epg_unique.xml liste_finale.m3u8
           git add --all
-          git commit -m "MAJ EPG REELLE" || exit 0
+          git commit -m "Mise a jour totale forcée" || exit 0
           git push --force origin HEAD:main
+          
           
           
