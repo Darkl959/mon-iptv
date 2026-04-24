@@ -1,33 +1,32 @@
 name: MAJ IPTV AUTO
 on:
   schedule:
-    - cron: '0 * * * *'
-  workflow_dispatch:
+    - cron: '0 * * * *'  # Se lance toutes les heures
+  workflow_dispatch:      # Permet de le lancer manuellement
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - name: Récupérer le code
+        uses: actions/checkout@v3
 
-      - name: Setup Python
+      - name: Installer Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.9'
 
-      - name: Installer les dépendances
+      - name: Installer les bibliothèques
         run: pip install requests
 
-      - name: Executer le script
+      - name: Executer le script de fusion
         run: python fusion_globale.py
 
-            - name: Save changes
+      - name: Sauvegarder les changements (EPG et M3U)
         run: |
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
-          touch epg_unique.xml liste_finale.m3u8
           git add --all
-          git commit -m "Mise a jour totale forcée" || exit 0
+          git commit -m "Mise a jour automatique EPG et M3U" || exit 0
           git push --force origin HEAD:main
-          
-          
           
