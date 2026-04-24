@@ -22,5 +22,5 @@ jobs:
           git config --global user.email "action@github.com"
           git add epg_unique.xml
           git commit -m "MAJ EPG" || exit 0
-          git push
+          git push --force
           
