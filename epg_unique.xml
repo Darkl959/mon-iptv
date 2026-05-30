@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<tv><!--MAJ: 2026-05-30 13:44:32.198518--><channel id="FRBD5100001ZA">
+<tv><!--MAJ: 2026-05-30 15:10:09.707047--><channel id="FRBD5100001ZA">
     <display-name>ADN</display-name>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD5100001ZA_20250610T011318SQUARE.png" />
   </channel>
@@ -2932,27 +2932,6 @@
     <display-name>Wild Side TV</display-name>
     <icon src="https://images.pluto.tv/channels/60b4d6c806ad2a00073b3108/colorLogoPNG.png" />
   </channel>
-  <programme channel="5f8ed0f17564a300082b676a" start="20260530085043 +0000" stop="20260530101505 +0000">
-    <title>Jeff, Who Lives at Home</title>
-    <episode-num system="original-air-date">20120330000000 +0000</episode-num>
-    <desc>Lorsqu'il se fait expulser de chez sa mère, Jeff pense pouvoir enfin découvrir son destin en passant la journée avec son frère à la recherche de sa femme qui semble être infidèle.</desc>
-    <icon src="https://images.pluto.tv/episodes/661e198ebf522d00134fdf8c/poster_1779839281985.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <date>20120330</date>
-    <series-id system="pluto">661e198dbf522d00134fdf6d</series-id>
-    <category>Movie</category>
-    <category>Drama</category>
-    <category>Dramedy</category>
-  </programme>
-  <programme channel="5f8ed0f17564a300082b676a" start="20260530101505 +0000" stop="20260530114750 +0000">
-    <title>Fantastic Mr. Fox</title>
-    <episode-num system="original-air-date">20091008000000 +0000</episode-num>
-    <desc>M. et Mme Renard vivent heureux jusqu'à ce qu'ils préparent un vol de poules.</desc>
-    <icon src="https://images.pluto.tv/episodes/67d3ddc9f456458f6c80375d/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <date>20091008</date>
-    <series-id system="pluto">67d3ddc8f456458f6c80373a</series-id>
-    <category>Movie</category>
-    <category>Drama</category>
-  </programme>
   <programme channel="5f8ed0f17564a300082b676a" start="20260530114750 +0000" stop="20260530143050 +0000">
     <title>Le droit de tuer?</title>
     <episode-num system="original-air-date">19960724000000 +0000</episode-num>
@@ -2960,9 +2939,9 @@
     <icon src="https://images.pluto.tv/episodes/6062fff5918e16001a4fbad5/poster_1777484881857.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
     <date>19960724</date>
     <series-id system="pluto">6062fff3918e16001a4fbacf</series-id>
-    <category>Courtroom Drama</category>
     <category>Movie</category>
     <category>Drama</category>
+    <category>Courtroom Drama</category>
   </programme>
   <programme channel="5f8ed0f17564a300082b676a" start="20260530143050 +0000" stop="20260530162850 +0000">
     <title>School Ties</title>
@@ -2972,8 +2951,8 @@
     <date>19920101</date>
     <series-id system="pluto">64e5b4108f763a00133ec2d2</series-id>
     <category>Movie</category>
-    <category>Drama</category>
     <category>Crime</category>
+    <category>Drama</category>
   </programme>
   <programme channel="5f8ed0f17564a300082b676a" start="20260530162850 +0000" stop="20260530182450 +0000">
     <title>Les mots retrouvés</title>
@@ -3003,8 +2982,8 @@
     <icon src="https://images.pluto.tv/episodes/65c4a085b65b870013f65849/poster_1750680005580.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
     <date>20181109</date>
     <series-id system="pluto">65c4a084b65b870013f65829</series-id>
-    <category>Movie</category>
     <category>Thriller</category>
+    <category>Movie</category>
   </programme>
   <programme channel="5f8ed0f17564a300082b676a" start="20260530221234 +0000" stop="20260530235537 +0000">
     <title>Love And Secrets</title>
@@ -3013,8 +2992,8 @@
     <icon src="https://images.pluto.tv/episodes/674d6ea1c814a900135d1cc2/poster_1768349162860.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
     <date>20090101</date>
     <series-id system="pluto">674d6ea0c814a900135d1ca3</series-id>
-    <category>Movie</category>
     <category>Thriller</category>
+    <category>Movie</category>
   </programme>
   <programme channel="5f8ed0f17564a300082b676a" start="20260530235537 +0000" stop="20260531013644 +0000">
     <title>Traqué</title>
@@ -3023,8 +3002,8 @@
     <icon src="https://images.pluto.tv/episodes/68d42e5d83275eb994d76d67/poster_1758735974913.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
     <date>20030311</date>
     <series-id system="pluto">68d42e5c83275eb994d76d48</series-id>
-    <category>Movie</category>
     <category>Thriller</category>
+    <category>Movie</category>
   </programme>
   <programme channel="5f8ed0f17564a300082b676a" start="20260531013644 +0000" stop="20260531031007 +0000">
     <title>Out of the Wild</title>
@@ -3034,28 +3013,29 @@
     <date>20190101</date>
     <series-id system="pluto">65c49f182e62fe0013004fab</series-id>
     <category>Movie</category>
+    <category>Drama</category>
     <category>Historical Drama</category>
-    <category>Drama</category>
   </programme>
-  <programme channel="5f8ed168f72fcd0007e56269" start="20260530090121 +0000" stop="20260530101021 +0000">
-    <title>Les Chasses du comte Zaroff</title>
-    <episode-num system="original-air-date">19320101000000 +0000</episode-num>
-    <desc>Un maniaque chasse les humains sur une île pour le sport.</desc>
-    <icon src="https://images.pluto.tv/episodes/6228b70f4e4cae001a31e488/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <date>19320101</date>
-    <series-id system="pluto">6228b70d4e4cae001a31e481</series-id>
+  <programme channel="5f8ed0f17564a300082b676a" start="20260531031007 +0000" stop="20260531044707 +0000">
+    <title>Red state</title>
+    <episode-num system="original-air-date">20110101000000 +0000</episode-num>
+    <desc>Trois adolescents vivant dans le Midwest américain répondent sur Internet à une annonce promettant des relations sexuelles. Ils sont loin de se douter qu'ils vont tomber entre les mains d'une secte d’extrémistes religieux aux intentions macabres.</desc>
+    <icon src="https://images.pluto.tv/episodes/612dfaf2dc29d20013b79a9c/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <date>20110101</date>
+    <series-id system="pluto">612dfaf0dc29d20013b79a96</series-id>
     <category>Movie</category>
-    <category>Thriller</category>
+    <category>Action</category>
   </programme>
-  <programme channel="5f8ed168f72fcd0007e56269" start="20260530101021 +0000" stop="20260530121552 +0000">
-    <title>American Beauty</title>
-    <episode-num system="original-air-date">19991001000000 +0000</episode-num>
-    <desc>L'existence de Lester est loin d'être parfaite. Il change quelques choses, devient plus libre, plus heureux. Mais Lester va bientôt apprendre que la liberté totale a un prix.</desc>
-    <icon src="https://images.pluto.tv/episodes/6617cf6b4da6e300139c4722/poster_1776979459836.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <date>19991001</date>
-    <series-id system="pluto">6617cf694da6e300139c4702</series-id>
+  <programme channel="5f8ed0f17564a300082b676a" start="20260531044707 +0000" stop="20260531062107 +0000">
+    <title>Proteus</title>
+    <episode-num system="original-air-date">19951130000000 +0000</episode-num>
+    <desc>Un groupe de trafiquants d'héroïne trouve refuge sur une plate-forme pétrolière abandonnée après l'explosion de leur navire. Ils découvrent bientôt que la plate-forme pétrolière n'était qu'une couverture pour des expériences biologiques.</desc>
+    <icon src="https://images.pluto.tv/episodes/639198361fad0c0013d6defa/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <date>19951130</date>
+    <series-id system="pluto">639198351fad0c0013d6def3</series-id>
+    <category>Science fiction</category>
     <category>Movie</category>
-    <category>Drama</category>
+    <category>Adventure</category>
   </programme>
   <programme channel="5f8ed168f72fcd0007e56269" start="20260530121552 +0000" stop="20260530132452 +0000">
     <title>Les Chasses du comte Zaroff</title>
@@ -3064,8 +3044,8 @@
     <icon src="https://images.pluto.tv/episodes/6228b70f4e4cae001a31e488/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
     <date>19320101</date>
     <series-id system="pluto">6228b70d4e4cae001a31e481</series-id>
-    <category>Movie</category>
     <category>Thriller</category>
+    <category>Movie</category>
   </programme>
   <programme channel="5f8ed168f72fcd0007e56269" start="20260530132452 +0000" stop="20260530143452 +0000">
     <title>La Dernière Femme sur Terre</title>
@@ -3116,9 +3096,9 @@
     <icon src="https://images.pluto.tv/episodes/66192d834da6e30013a5ce70/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
     <date>19681010</date>
     <series-id system="pluto">66192d814da6e30013a5ce51</series-id>
+    <category>Science fiction</category>
     <category>Classic Sci-Fi &amp; Fantasy</category>
     <category>Movie</category>
-    <category>Science fiction</category>
   </programme>
   <programme channel="5f8ed168f72fcd0007e56269" start="20260530220445 +0000" stop="20260531000248 +0000">
     <title>Alfie</title>
@@ -3137,8 +3117,8 @@
     <icon src="https://images.pluto.tv/episodes/6228b7034e4cae001a31e30f/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
     <date>19590101</date>
     <series-id system="pluto">6228b7024e4cae001a31e308</series-id>
-    <category>Movie</category>
     <category>Thriller</category>
+    <category>Movie</category>
   </programme>
   <programme channel="5f8ed168f72fcd0007e56269" start="20260531011448 +0000" stop="20260531025748 +0000">
     <title>Legend</title>
@@ -3147,30 +3127,30 @@
     <icon src="https://images.pluto.tv/episodes/607d7924f96a44001a1deaa5/poster_1779492607389.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
     <date>19851025</date>
     <series-id system="pluto">607d7922f96a44001a1dea9f</series-id>
+    <category>Science fiction</category>
     <category>Classic Sci-Fi &amp; Fantasy</category>
     <category>Movie</category>
-    <category>Science fiction</category>
   </programme>
-  <programme channel="5f8ed1ff5c39700007e2204a" start="20260530082446 +0000" stop="20260530104122 +0000">
-    <title>USS INDIANAPOLIS</title>
-    <episode-num system="original-air-date">20160101000000 +0000</episode-num>
-    <desc>Juillet 1945. Le navire USS INDIANAPOLIS, commandé par le Capitaine McVay, avec à son bord 1196 marins, doit livrer des composants de la bombe atomique. Sur le retour, la navire est torpillé par un sous-marin japonais.</desc>
-    <icon src="https://images.pluto.tv/episodes/65cf22ae6ef49d0013822cd2/poster_1777905001956.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <date>20160101</date>
-    <series-id system="pluto">65cf22ad6ef49d0013822cb2</series-id>
+  <programme channel="5f8ed168f72fcd0007e56269" start="20260531025748 +0000" stop="20260531045448 +0000">
+    <title>La liste noire</title>
+    <episode-num system="original-air-date">19910315000000 +0000</episode-num>
+    <desc>Hollywood au début des années 50. Une commission d’enquête maccarthyste - qui chasse les sympathisants communistes - mène une investigation sur un réalisateur.</desc>
+    <icon src="https://images.pluto.tv/episodes/60794f06f6870e001a5d02f4/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <date>19910315</date>
+    <series-id system="pluto">60794f05f6870e001a5d02ee</series-id>
     <category>Movie</category>
-    <category>Military &amp; War Action</category>
-    <category>Action</category>
+    <category>Drama</category>
+    <category>Courtroom Drama</category>
   </programme>
-  <programme channel="5f8ed1ff5c39700007e2204a" start="20260530104122 +0000" stop="20260530122322 +0000">
-    <title>Paydirt</title>
-    <episode-num system="original-air-date">20200101000000 +0000</episode-num>
-    <desc>Un homme en liberté conditionnelle reforme son ancienne équipe pour retrouver un sac plein d’argent enterré il y a des années lors d’une saisie de drogues qui a mal tourné. C’est sans compter sur un Sheriff à la retraite qui se met à leurs trousses…</desc>
-    <icon src="https://images.pluto.tv/episodes/64b68469d264b00013e80619/poster_1777992841483.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <date>20200101</date>
-    <series-id system="pluto">64b68467d264b00013e805fa</series-id>
+  <programme channel="5f8ed168f72fcd0007e56269" start="20260531045448 +0000" stop="20260531064548 +0000">
+    <title>Blue Steel</title>
+    <episode-num system="original-air-date">19900316000000 +0000</episode-num>
+    <desc>Une nouvelle recrue des forces de police joue au chat et à la souris avec un psychopathe fou de la gâchette, obsédé par elle.</desc>
+    <icon src="https://images.pluto.tv/episodes/624a923d6b411b00137bd213/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <date>19900316</date>
+    <series-id system="pluto">624a923c6b411b00137bd20c</series-id>
+    <category>Thriller</category>
     <category>Movie</category>
-    <category>Action</category>
   </programme>
   <programme channel="5f8ed1ff5c39700007e2204a" start="20260530122322 +0000" stop="20260530140434 +0000">
     <title>VENDETTA</title>
@@ -3200,8 +3180,8 @@
     <icon src="https://images.pluto.tv/episodes/67a5e7b1508662d30b459545/poster_1768421884069.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
     <date>20020101</date>
     <series-id system="pluto">67a5e7b0508662d30b459524</series-id>
-    <category>Movie</category>
     <category>Thriller</category>
+    <category>Movie</category>
   </programme>
   <programme channel="5f8ed1ff5c39700007e2204a" start="20260530181407 +0000" stop="20260530194107 +0000">
     <title>The jungle</title>
@@ -3222,8 +3202,8 @@
     <date>20170210</date>
     <series-id system="pluto">68711e86a53444ef2accb381</series-id>
     <category>Movie</category>
-    <category>Historical Drama</category>
     <category>Drama</category>
+    <category>Historical Drama</category>
   </programme>
   <programme channel="5f8ed1ff5c39700007e2204a" start="20260530212930 +0000" stop="20260530230830 +0000">
     <title>Age Of Heroes FR</title>
@@ -3256,27 +3236,26 @@
     <category>Movie</category>
     <category>Action</category>
   </programme>
-  <programme channel="60812fc8539963000707d1e1" start="20260530092240 +0000" stop="20260530105207 +0000">
-    <title>Kids In Love</title>
-    <episode-num system="original-air-date">20160101000000 +0000</episode-num>
-    <desc>Jack, en quête de sa propre voie, voit sa vie bouleversée par Evelyn, qui l’entraîne dans les soirées sélectives de Londres. Au fil des fêtes et des rencontres, il devra déterminer qui il est et ce qu’il veut vraiment devenir.</desc>
-    <icon src="https://images.pluto.tv/episodes/69832112aa2e528402f154c4/poster_1770201363025.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <date>20160101</date>
-    <series-id system="pluto">69832110aa2e528402f154a5</series-id>
+  <programme channel="5f8ed1ff5c39700007e2204a" start="20260531022939 +0000" stop="20260531041327 +0000">
+    <title>Le Smoking</title>
+    <episode-num system="original-air-date">20020927000000 +0000</episode-num>
+    <desc>Jimmy Tong, simple chauffeur de taxi devenu chauffeur personnel, enfile un smoking d'une valeur de 2 milliards de dollars appartenant à un espion et devient sans le vouloir un fringant agent secret.</desc>
+    <icon src="https://images.pluto.tv/episodes/661f76478b96a6001344bacf/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <date>20020927</date>
+    <series-id system="pluto">661f76468b96a6001344baaf</series-id>
     <category>Movie</category>
-    <category>Independent Drama</category>
-    <category>Drama</category>
+    <category>Action</category>
+    <category>Foreign Action &amp; Adventure</category>
   </programme>
-  <programme channel="60812fc8539963000707d1e1" start="20260530105207 +0000" stop="20260530124906 +0000">
-    <title>Hungry Hearts</title>
-    <episode-num system="original-air-date">20140829000000 +0000</episode-num>
-    <desc>Jude et Mina, un couple fusionnel, voient leur relation basculer quand Mina tombe enceinte. Convaincue que leur bébé est exceptionnel, elle l’isole du monde de façon obsessionnelle, tandis que Jude réalise qu’elle perd pied avec la réalité.</desc>
-    <icon src="https://images.pluto.tv/episodes/698304f4e090dedcb243969d/poster_1770194165505.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <date>20140829</date>
-    <series-id system="pluto">698304f3e090dedcb243967e</series-id>
+  <programme channel="5f8ed1ff5c39700007e2204a" start="20260531041327 +0000" stop="20260531054446 +0000">
+    <title>Nick Of Time</title>
+    <episode-num system="original-air-date">19950101000000 +0000</episode-num>
+    <desc>Un modeste comptable se trouve pris dans un terrible piège lorsque sa fille est enlevée sous ses yeux afin de l'obliger à assassiner une femme politique influente. Il se rend compte que les services de sécurité font partie du complot.</desc>
+    <icon src="https://images.pluto.tv/episodes/661e208aa9f2d20013a9ea92/poster_1776895225187.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <date>19950101</date>
+    <series-id system="pluto">661e2088a9f2d20013a9ea72</series-id>
     <category>Movie</category>
-    <category>Independent Drama</category>
-    <category>Drama</category>
+    <category>Action</category>
   </programme>
   <programme channel="60812fc8539963000707d1e1" start="20260530124906 +0000" stop="20260530145225 +0000">
     <title>Every Thing Will Be Fine</title>
@@ -3317,8 +3296,8 @@
     <icon src="https://images.pluto.tv/episodes/64e47379e675cb00132fa945/poster_1779372721702.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
     <date>20040101</date>
     <series-id system="pluto">64e47377e675cb00132fa926</series-id>
-    <category>Comedy</category>
     <category>Movie</category>
+    <category>Comedy</category>
     <category>Romantic comedy</category>
   </programme>
   <programme channel="60812fc8539963000707d1e1" start="20260530204100 +0000" stop="20260530222443 +0000">
@@ -3328,8 +3307,8 @@
     <icon src="https://images.pluto.tv/episodes/68711d264f8d4a99171ee722/poster_1752246606206.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
     <date>20190428</date>
     <series-id system="pluto">68711d254f8d4a99171ee703</series-id>
-    <category>Comedy</category>
     <category>Movie</category>
+    <category>Comedy</category>
     <category>Romantic comedy</category>
   </programme>
   <programme channel="60812fc8539963000707d1e1" start="20260530222443 +0000" stop="20260531002043 +0000">
@@ -3340,8 +3319,8 @@
     <date>20090101</date>
     <series-id system="pluto">64d0ae62177f70001338c59d</series-id>
     <category>Movie</category>
-    <category>Romantic comedy</category>
     <category>Romance</category>
+    <category>Romantic comedy</category>
   </programme>
   <programme channel="60812fc8539963000707d1e1" start="20260531002043 +0000" stop="20260531022143 +0000">
     <title>Sex List</title>
@@ -3351,30 +3330,28 @@
     <date>20110930</date>
     <series-id system="pluto">606d73dba224c9001bb9488e</series-id>
     <category>Movie</category>
-    <category>Romantic comedy</category>
     <category>Romance</category>
+    <category>Romantic comedy</category>
   </programme>
-  <programme channel="60b4d6c806ad2a00073b3108" start="20260530080443 +0000" stop="20260530102643 +0000">
-    <title>Red eagle</title>
-    <episode-num system="original-air-date">20100102000000 +0000</episode-num>
-    <desc>Une mystérieuse confrérie d’hommes politiques s’apprête à signer un contrat pour la construction d’une centrale nucléaire. Les riverains menacés sont impuissants face à cette organisation. Mais un justicier violent et sans pitié veille sur la cité.</desc>
-    <icon src="https://images.pluto.tv/episodes/6103b04897de650014a2f9a1/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <date>20100102</date>
-    <series-id system="pluto">6103b04797de650014a2f99b</series-id>
+  <programme channel="60812fc8539963000707d1e1" start="20260531022143 +0000" stop="20260531042430 +0000">
+    <title>Nine</title>
+    <episode-num system="original-air-date">20090101000000 +0000</episode-num>
+    <desc>Le célèbre réalisateur Guido Contini lutte pour trouver l'équilibre dans sa vie professionnelle et personnelle, alors qu'il s'engage dans des relations dramatiques avec sa femme, sa maîtresse, sa muse, son agent et sa mère.</desc>
+    <icon src="https://images.pluto.tv/episodes/6980851f00cf117a55c8ca72/poster_1770030368216.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <date>20090101</date>
+    <series-id system="pluto">6980851d00cf117a55c8ca53</series-id>
     <category>Movie</category>
-    <category>Adventure</category>
-    <category>Action</category>
+    <category>Musical</category>
   </programme>
-  <programme channel="60b4d6c806ad2a00073b3108" start="20260530102643 +0000" stop="20260530115343 +0000">
-    <title>The jungle</title>
-    <episode-num system="original-air-date">20140625000000 +0000</episode-num>
-    <desc>Un groupe d'écologistes décide d'explorer une parie de l'impénétrable jungle indonésienne... Objectif de l'expédition : trouver trace du mystérieux léopard de Jan.</desc>
-    <icon src="https://images.pluto.tv/episodes/63c5029deb85c500133880fe/poster_1768497843369.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <date>20140625</date>
-    <series-id system="pluto">63c5029beb85c500133880f7</series-id>
+  <programme channel="60812fc8539963000707d1e1" start="20260531042430 +0000" stop="20260531060748 +0000">
+    <title>LES VIES PRIVÉES DE PIPPA LEE</title>
+    <episode-num system="original-air-date">20090204000000 +0000</episode-num>
+    <desc>Pippa Lee s'est construite une vie confortable dans une atmosphère feutrée. Elle est dévouée à son mari plus âgé, ainsi qu'à ses enfants déjà adultes. Mais à l'approche de la cinquantaine, cette sérénité en apparence parfaite s'effrite...</desc>
+    <icon src="https://images.pluto.tv/episodes/6943c294b3298987989efe8c/poster_1766048406117.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <date>20090204</date>
+    <series-id system="pluto">6943c293b3298987989efe6d</series-id>
+    <category>Thriller</category>
     <category>Movie</category>
-    <category>Creature Features</category>
-    <category>Horror</category>
   </programme>
   <programme channel="60b4d6c806ad2a00073b3108" start="20260530115343 +0000" stop="20260530141543 +0000">
     <title>Red eagle</title>
@@ -3405,8 +3382,8 @@
     <icon src="https://images.pluto.tv/episodes/6746df92a7fde50013db540e/poster_1768344142671.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
     <date>20180725</date>
     <series-id system="pluto">6746df90a7fde50013db53ef</series-id>
-    <category>Movie</category>
     <category>Thriller</category>
+    <category>Movie</category>
   </programme>
   <programme channel="60b4d6c806ad2a00073b3108" start="20260530185551 +0000" stop="20260530211045 +0000">
     <title>Zi Hudie</title>
@@ -3435,8 +3412,8 @@
     <icon src="https://images.pluto.tv/episodes/6746df94a7fde50013db547b/poster_1768347152878.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
     <date>20150408</date>
     <series-id system="pluto">6746df93a7fde50013db545b</series-id>
-    <category>Movie</category>
     <category>Thriller</category>
+    <category>Movie</category>
   </programme>
   <programme channel="60b4d6c806ad2a00073b3108" start="20260531004846 +0000" stop="20260531022946 +0000">
     <title>F.A.R.C. : L'instrument de la vengeance</title>
@@ -3448,16 +3425,27 @@
     <category>Movie</category>
     <category>Action</category>
   </programme>
-  <programme channel="60c34592c911890007f29a73" start="20260530091735 +0000" stop="20260530113135 +0000">
-    <title>Pandémie</title>
-    <episode-num system="original-air-date">20140102000000 +0000</episode-num>
-    <desc>Un groupe d’immigrants s’est introduit illégalement en Corée du Sud. Ils sont arrivés par bateau, tous entassés dans un container. Sans le savoir, l’un d’eux était porteur d’un virus...</desc>
-    <icon src="https://images.pluto.tv/episodes/610117bd0c13e6001319f6a8/poster_1777926602167.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <date>20140102</date>
-    <series-id system="pluto">610117bc0c13e6001319f6a2</series-id>
+  <programme channel="60b4d6c806ad2a00073b3108" start="20260531022946 +0000" stop="20260531041546 +0000">
+    <title>Bad lieutenant</title>
+    <episode-num system="original-air-date">19930102000000 +0000</episode-num>
+    <desc>Il a vécu dans la rue pendant 20 ans : joueur, voleur, junkie, tueur, flic… Il enquête sur le viol d’une jolie religieuse. Maintenant, il va entamer sa descente aux enfers en quête de rédemption.</desc>
+    <icon src="https://images.pluto.tv/episodes/610116e969a450001345300d/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <date>19930102</date>
+    <series-id system="pluto">610116e869a4500013453007</series-id>
+    <category>Science fiction</category>
     <category>Movie</category>
-    <category>Horror</category>
-    <category>Horror Classics</category>
+    <category>Adventure</category>
+  </programme>
+  <programme channel="60b4d6c806ad2a00073b3108" start="20260531041546 +0000" stop="20260531065246 +0000">
+    <title>Far away : les soldats de l'espoir</title>
+    <episode-num system="original-air-date">20120102000000 +0000</episode-num>
+    <desc>Normandie, 1944. Dans les rangs de l’armée allemande, les alliés découvrent 2 soldats venus de l’autre bout du monde. Leur exploit est resté inconnu jusqu’à ce...</desc>
+    <icon src="https://images.pluto.tv/episodes/6101176c69a45000134534bd/poster_1768328642375.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <date>20120102</date>
+    <series-id system="pluto">6101176b69a45000134534b7</series-id>
+    <category>Western</category>
+    <category>Movie</category>
+    <category>Action</category>
   </programme>
   <programme channel="60c34592c911890007f29a73" start="20260530113135 +0000" stop="20260530132035 +0000">
     <title>Osiris, la 9ème planète</title>
@@ -3466,9 +3454,9 @@
     <icon src="https://images.pluto.tv/episodes/610116c9f36aad0014ff8b14/poster_1777913293369.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
     <date>20170102</date>
     <series-id system="pluto">610116c8f36aad0014ff8b0e</series-id>
+    <category>Science fiction</category>
     <category>Fantasy</category>
     <category>Movie</category>
-    <category>Science fiction</category>
   </programme>
   <programme channel="60c34592c911890007f29a73" start="20260530132035 +0000" stop="20260530151735 +0000">
     <title>Transfert</title>
@@ -3477,9 +3465,9 @@
     <icon src="https://images.pluto.tv/episodes/612dfadcdc29d20013b79945/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
     <date>20200101</date>
     <series-id system="pluto">612dfadbdc29d20013b7993f</series-id>
+    <category>Science fiction</category>
     <category>Movie</category>
     <category>Adventure</category>
-    <category>Science fiction</category>
   </programme>
   <programme channel="60c34592c911890007f29a73" start="20260530151735 +0000" stop="20260530165135 +0000">
     <title>Solis</title>
@@ -3488,9 +3476,9 @@
     <icon src="https://images.pluto.tv/episodes/63c5029feb85c500133881da/poster_1768500209501.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
     <date>20190301</date>
     <series-id system="pluto">63c5029eeb85c500133881d3</series-id>
+    <category>Science fiction</category>
     <category>Movie</category>
     <category>Adventure</category>
-    <category>Science fiction</category>
   </programme>
   <programme channel="60c34592c911890007f29a73" start="20260530165135 +0000" stop="20260530183335 +0000">
     <title>The Colony</title>
@@ -3500,8 +3488,8 @@
     <date>20140102</date>
     <series-id system="pluto">610117c397de650014a28f1d</series-id>
     <category>Movie</category>
-    <category>Horror</category>
     <category>Horror Classics</category>
+    <category>Horror</category>
   </programme>
   <programme channel="60c34592c911890007f29a73" start="20260530183335 +0000" stop="20260530201607 +0000">
     <title>Skyfire</title>
@@ -3532,8 +3520,8 @@
     <icon src="https://images.pluto.tv/episodes/6617cf644da6e300139c455c/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
     <date>20051201</date>
     <series-id system="pluto">6617cf634da6e300139c453c</series-id>
-    <category>Movie</category>
     <category>Science fiction</category>
+    <category>Movie</category>
     <category>Action</category>
   </programme>
   <programme channel="60c34592c911890007f29a73" start="20260530233213 +0000" stop="20260531011913 +0000">
@@ -3544,8 +3532,8 @@
     <date>20060704</date>
     <series-id system="pluto">606eda875426cf001a3a8b95</series-id>
     <category>Movie</category>
-    <category>Romantic comedy</category>
     <category>Romance</category>
+    <category>Romantic comedy</category>
   </programme>
   <programme channel="60c34592c911890007f29a73" start="20260531011913 +0000" stop="20260531033213 +0000">
     <title>L'arrivée (The Arrival)</title>
@@ -3554,18 +3542,19 @@
     <icon src="https://images.pluto.tv/episodes/64526e9713c2c2001aadc553/poster_1768338054846.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
     <date>19960531</date>
     <series-id system="pluto">64526e9513c2c2001aadc534</series-id>
-    <category>Movie</category>
     <category>Science fiction</category>
-  </programme>
-  <programme channel="60c3472a51a2050008dad272" start="20260530090711 +0000" stop="20260530110211 +0000">
-    <title>2 Days in the Valley</title>
-    <episode-num system="original-air-date">19960101000000 +0000</episode-num>
-    <desc>Si vous vous écartez du droit chemin, vous savez ce qui vous arrivera ? Pour Becky, c'est se réveiller à côté du corps assassiné de son ex-mari.</desc>
-    <icon src="https://images.pluto.tv/episodes/64ccc3bce675cb0013b2aba9/poster_1778767921861.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <date>19960101</date>
-    <series-id system="pluto">64ccc3bae675cb0013b2ab8a</series-id>
     <category>Movie</category>
-    <category>Thriller</category>
+  </programme>
+  <programme channel="60c34592c911890007f29a73" start="20260531033213 +0000" stop="20260531052613 +0000">
+    <title>1984</title>
+    <episode-num system="original-air-date">19841010000000 +0000</episode-num>
+    <desc>Basé sur le roman de 1984 de George Orwell. Un homme cherche l'espoir au milieu d'une société dystopique totalitaire et répressive qu'il ne peut ni comprendre ni tolérer.</desc>
+    <icon src="https://images.pluto.tv/episodes/639198541fad0c0013d6e424/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <date>19841010</date>
+    <series-id system="pluto">639198531fad0c0013d6e41d</series-id>
+    <category>Science fiction</category>
+    <category>Movie</category>
+    <category>Adventure</category>
   </programme>
   <programme channel="60c3472a51a2050008dad272" start="20260530110211 +0000" stop="20260530130511 +0000">
     <title>Une arnaque presque parfaite</title>
@@ -3574,8 +3563,8 @@
     <icon src="https://images.pluto.tv/episodes/638f65b457873200135ed979/poster_1768352408132.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
     <date>20090101</date>
     <series-id system="pluto">638f65b357873200135ed972</series-id>
-    <category>Movie</category>
     <category>Thriller</category>
+    <category>Movie</category>
   </programme>
   <programme channel="60c3472a51a2050008dad272" start="20260530130511 +0000" stop="20260530143924 +0000">
     <title>Burn</title>
@@ -3584,8 +3573,8 @@
     <icon src="https://images.pluto.tv/episodes/6871177f8eef10068fbddb38/poster_1768265643414.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
     <date>20190101</date>
     <series-id system="pluto">6871177e8eef10068fbddb19</series-id>
-    <category>Movie</category>
     <category>Thriller</category>
+    <category>Movie</category>
   </programme>
   <programme channel="60c3472a51a2050008dad272" start="20260530143924 +0000" stop="20260530162624 +0000">
     <title>L'Heure du crime FR</title>
@@ -3594,8 +3583,8 @@
     <icon src="https://images.pluto.tv/episodes/64a3b6c9a1659900137a1d6d/poster_1768512584331.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
     <date>20100804</date>
     <series-id system="pluto">64a3b6c8a1659900137a1d4f</series-id>
-    <category>Movie</category>
     <category>Thriller</category>
+    <category>Movie</category>
   </programme>
   <programme channel="60c3472a51a2050008dad272" start="20260530162624 +0000" stop="20260530183317 +0000">
     <title>Italian Race</title>
@@ -3615,8 +3604,8 @@
     <icon src="https://images.pluto.tv/episodes/661d3184b4334b00131a8a17/poster_1779839642150.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
     <date>20050101</date>
     <series-id system="pluto">661d3182b4334b00131a89f9</series-id>
-    <category>Movie</category>
     <category>Thriller</category>
+    <category>Movie</category>
   </programme>
   <programme channel="60c3472a51a2050008dad272" start="20260530204318 +0000" stop="20260530221806 +0000">
     <title>Oxygen</title>
@@ -3626,8 +3615,8 @@
     <date>19991112</date>
     <series-id system="pluto">68b95d978eef10068fe946d7</series-id>
     <category>Movie</category>
-    <category>Drama</category>
     <category>Crime</category>
+    <category>Drama</category>
   </programme>
   <programme channel="60c3472a51a2050008dad272" start="20260530221806 +0000" stop="20260530235111 +0000">
     <title>Spirits</title>
@@ -3636,8 +3625,8 @@
     <icon src="https://images.pluto.tv/episodes/606eda905426cf001a3a8c5b/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
     <date>20080321</date>
     <series-id system="pluto">606eda8f5426cf001a3a8c55</series-id>
-    <category>Movie</category>
     <category>Thriller</category>
+    <category>Movie</category>
   </programme>
   <programme channel="60c3472a51a2050008dad272" start="20260530235111 +0000" stop="20260531021522 +0000">
     <title>Killers</title>
@@ -3649,25 +3638,26 @@
     <category>Movie</category>
     <category>Action</category>
   </programme>
-  <programme channel="62f3e2d000418d00070f7dbc" start="20260530084023 +0000" stop="20260530101623 +0000">
-    <title>Born To Defense</title>
-    <episode-num system="original-air-date">19860216000000 +0000</episode-num>
-    <desc>Jet, un jeune soldat à la fin de la Seconde Guerre mondiale, doit vaincre certains Américains abusifs qui le harcèlent ainsi que le peuple chinois.</desc>
-    <icon src="https://images.pluto.tv/episodes/6391983e1fad0c0013d6e085/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <date>19860216</date>
-    <series-id system="pluto">6391983d1fad0c0013d6e07e</series-id>
+  <programme channel="60c3472a51a2050008dad272" start="20260531021522 +0000" stop="20260531040222 +0000">
+    <title>Une virée en enfer</title>
+    <episode-num system="original-air-date">20011005000000 +0000</episode-num>
+    <desc>Excédé par l’attitude de jeunes étudiants qui lui jouent des tours, un routier psychotique va les entraîner dans un tourbillon de terreur.</desc>
+    <icon src="https://images.pluto.tv/episodes/608928983f06c5001a779c30/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <date>20011005</date>
+    <series-id system="pluto">608928973f06c5001a779c2a</series-id>
+    <category>Thriller</category>
     <category>Movie</category>
-    <category>Action</category>
   </programme>
-  <programme channel="62f3e2d000418d00070f7dbc" start="20260530101623 +0000" stop="20260530122623 +0000">
-    <title>Bruce Lee, Naissance D'une Légende</title>
-    <episode-num system="original-air-date">20100101000000 +0000</episode-num>
-    <desc>Biopic sur l'acteur et spécialiste des arts martiaux de légende, Bruce Lee.</desc>
-    <icon src="https://images.pluto.tv/episodes/6453903254afb6001ad4f69f/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <date>20100101</date>
-    <series-id system="pluto">6453903054afb6001ad4f680</series-id>
+  <programme channel="60c3472a51a2050008dad272" start="20260531040222 +0000" stop="20260531054943 +0000">
+    <title>Nuit Blanche</title>
+    <episode-num system="original-air-date">20111116000000 +0000</episode-num>
+    <desc>Un flic dérobe un sac de cocaïne à des trafiquants, mais est identifié au cours de l’opération. Les truands prennent alors son fils en otage. Vincent doit faire l’échange - son fils contre le sac - dans une immense boîte de nuit tenue par les mafieux.</desc>
+    <icon src="https://images.pluto.tv/episodes/66d15fe173aa510013535fe1/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <date>20111116</date>
+    <series-id system="pluto">66d15fe073aa510013535fc0</series-id>
     <category>Movie</category>
     <category>Action</category>
+    <category>Foreign Action &amp; Adventure</category>
   </programme>
   <programme channel="62f3e2d000418d00070f7dbc" start="20260530122623 +0000" stop="20260530144623 +0000">
     <title>Genghis Khan, La Légende D'un Conquérant</title>
@@ -3698,8 +3688,8 @@
     <icon src="https://images.pluto.tv/episodes/60e80753d96ddc001314a1e4/poster_1777562643026.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
     <date>20150930</date>
     <series-id system="pluto">60e80752d96ddc001314a1de</series-id>
-    <category>Movie</category>
     <category>Science fiction</category>
+    <category>Movie</category>
     <category>Action</category>
   </programme>
   <programme channel="62f3e2d000418d00070f7dbc" start="20260530200508 +0000" stop="20260530223215 +0000">
@@ -3733,15 +3723,27 @@
     <category>Movie</category>
     <category>Action</category>
   </programme>
-  <programme channel="65a69ef53af63d000825e0ee" start="20260530094907 +0000" stop="20260530112120 +0000">
-    <title>Face à la tornade</title>
-    <episode-num system="original-air-date">20120407000000 +0000</episode-num>
-    <desc>Les astronomes sont surpris par des tornades magnétiques sur Mercure. Ils n’auraient jamais imaginé voir un tel phénomène sur Terre. Samuel Planck, un chercheur, tente d'intervenir pour stopper la catastrophe.</desc>
-    <icon src="https://images.pluto.tv/episodes/670f6e59a88a1900133c70a3/poster_1778875568496.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <date>20120407</date>
-    <series-id system="pluto">670f6e57a88a1900133c7083</series-id>
+  <programme channel="62f3e2d000418d00070f7dbc" start="20260531022216 +0000" stop="20260531052601 +0000">
+    <title>Heroes : The Battle at Lake Changjin</title>
+    <episode-num system="original-air-date">20210101000000 +0000</episode-num>
+    <desc>Pendant la guerre de Corée, des soldats chinois se battent dans des conditions extrêmes contre les forces ennemies.</desc>
+    <icon src="https://images.pluto.tv/episodes/67a32891b3210d00131917f7/poster_1777552922022.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <date>20210101</date>
+    <series-id system="pluto">67a32890b3210d00131917d8</series-id>
     <category>Movie</category>
-    <category>Science fiction</category>
+    <category>Military &amp; War Action</category>
+    <category>Action</category>
+  </programme>
+  <programme channel="62f3e2d000418d00070f7dbc" start="20260531052601 +0000" stop="20260531074801 +0000">
+    <title>Red eagle</title>
+    <episode-num system="original-air-date">20100102000000 +0000</episode-num>
+    <desc>Une mystérieuse confrérie d’hommes politiques s’apprête à signer un contrat pour la construction d’une centrale nucléaire. Les riverains menacés sont impuissants face à cette organisation. Mais un justicier violent et sans pitié veille sur la cité.</desc>
+    <icon src="https://images.pluto.tv/episodes/6103b04897de650014a2f9a1/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <date>20100102</date>
+    <series-id system="pluto">6103b04797de650014a2f99b</series-id>
+    <category>Movie</category>
+    <category>Adventure</category>
+    <category>Action</category>
   </programme>
   <programme channel="65a69ef53af63d000825e0ee" start="20260530112120 +0000" stop="20260530131357 +0000">
     <title>Le Triangle De L'apocalypse</title>
@@ -3782,8 +3784,8 @@
     <icon src="https://images.pluto.tv/episodes/67a34bc08d09180014143174/poster_1777909321712.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
     <date>20200306</date>
     <series-id system="pluto">67a34bbe8d09180014143153</series-id>
-    <category>Movie</category>
     <category>Thriller</category>
+    <category>Movie</category>
   </programme>
   <programme channel="65a69ef53af63d000825e0ee" start="20260530185609 +0000" stop="20260530203841 +0000">
     <title>Skyfire</title>
@@ -3803,8 +3805,8 @@
     <icon src="https://images.pluto.tv/episodes/69397fb482bb361505547813/poster_1765382717567.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
     <date>20230302</date>
     <series-id system="pluto">69397fb382bb3615055477f4</series-id>
-    <category>Movie</category>
     <category>Science fiction</category>
+    <category>Movie</category>
   </programme>
   <programme channel="65a69ef53af63d000825e0ee" start="20260530220708 +0000" stop="20260531002108 +0000">
     <title>Pandémie</title>
@@ -3814,8 +3816,8 @@
     <date>20140102</date>
     <series-id system="pluto">610117bc0c13e6001319f6a2</series-id>
     <category>Movie</category>
-    <category>Horror</category>
     <category>Horror Classics</category>
+    <category>Horror</category>
   </programme>
   <programme channel="65a69ef53af63d000825e0ee" start="20260531002108 +0000" stop="20260531015633 +0000">
     <title>Hell</title>
@@ -3824,8 +3826,8 @@
     <icon src="https://images.pluto.tv/episodes/6979f15900cf117a554111c3/poster_1769599322633.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
     <date>20110101</date>
     <series-id system="pluto">6979f15800cf117a554111a5</series-id>
-    <category>Movie</category>
     <category>Science fiction</category>
+    <category>Movie</category>
   </programme>
   <programme channel="65a69ef53af63d000825e0ee" start="20260531015633 +0000" stop="20260531033733 +0000">
     <title>2012: Supernova</title>
@@ -3838,15 +3840,15 @@
     <category>Adventure</category>
     <category>Action</category>
   </programme>
-  <programme channel="65cca3e2ec452d0008af3a65" start="20260530092951 +0000" stop="20260530111625 +0000">
-    <title>The Night Of The Grizzly</title>
-    <episode-num system="original-air-date">19660420000000 +0000</episode-num>
-    <desc>Un ancien flic décide de déménager à la campagne afin d'offrir un cadre de vie plus calme à sa petite famille. Pas de chance : son ranch est vite attaqué par un grizzly très énervé.</desc>
-    <icon src="https://images.pluto.tv/episodes/66261a72bf522d001390ae9b/poster_1779836762232.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <date>19660420</date>
-    <series-id system="pluto">66261a70bf522d001390ae7b</series-id>
-    <category>Western</category>
+  <programme channel="65a69ef53af63d000825e0ee" start="20260531033733 +0000" stop="20260531050227 +0000">
+    <title>Meg Rising 2</title>
+    <episode-num system="original-air-date">20230101000000 +0000</episode-num>
+    <desc>Un gigantesque requin préhistorique sème la terreur et pousse une équipe de chercheurs à tenter l’impossible pour l’arrêter.</desc>
+    <icon src="https://images.pluto.tv/episodes/67a35429233dae00146ab82f/poster_1768428683159.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <date>20230101</date>
+    <series-id system="pluto">67a35428233dae00146ab810</series-id>
     <category>Movie</category>
+    <category>Deadly Disasters</category>
     <category>Action</category>
   </programme>
   <programme channel="65cca3e2ec452d0008af3a65" start="20260530111625 +0000" stop="20260530130234 +0000">
@@ -3889,8 +3891,8 @@
     <icon src="https://images.pluto.tv/episodes/63b812e186acfd00136757ef/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
     <date>19680101</date>
     <series-id system="pluto">63b812e086acfd00136757e8</series-id>
-    <category>Movie</category>
     <category>Western</category>
+    <category>Movie</category>
   </programme>
   <programme channel="65cca3e2ec452d0008af3a65" start="20260530180644 +0000" stop="20260530194044 +0000">
     <title>La furie des Apaches</title>
@@ -3942,8 +3944,8 @@
     <icon src="https://images.pluto.tv/episodes/68622ef61210c6c91971e358/poster_1768346849256.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
     <date>19720726</date>
     <series-id system="pluto">68622ef51210c6c91971e33b</series-id>
-    <category>Movie</category>
     <category>Western</category>
+    <category>Movie</category>
   </programme>
   <programme channel="65cca3e2ec452d0008af3a65" start="20260531014018 +0000" stop="20260531033318 +0000">
     <title>Goin' South</title>
@@ -3956,89 +3958,16 @@
     <category>Movie</category>
     <category>Action</category>
   </programme>
-  <programme channel="66e1978babec540008ce41ac" start="20260530094348 +0000" stop="20260530101348 +0000">
-    <title>Ciné d'horreur by Pluto TV</title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <episode-num system="pluto">66f6777bd8eb4500085b7665</episode-num>
-    <episode-num system="original-air-date">19700101000000 +0000</episode-num>
-    <desc>Tremblez de peur tout au long du mois d'octobre sur Pluto TV Horreur avec une programmation spéciale dédiée aux âmes les plus courageuses. Des classiques cultes aux nouveautés les plus terrifiantes, préparez-vous à une expérience horrifique inoubliable</desc>
-    <icon src="https://images.pluto.tv/series/66f6775aec9d6d0008104cf8/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">66f6775aec9d6d0008104cf8</series-id>
-    <sub-title>Pluto TV Horreur</sub-title>
-    <category>Series</category>
-    <category>Horror</category>
-    <category>Horror Classics</category>
-  </programme>
-  <programme channel="66e1978babec540008ce41ac" start="20260530101348 +0000" stop="20260530104348 +0000">
-    <title>Ciné d'horreur by Pluto TV</title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <episode-num system="pluto">66f6777bd8eb4500085b7665</episode-num>
-    <episode-num system="original-air-date">19700101000000 +0000</episode-num>
-    <desc>Tremblez de peur tout au long du mois d'octobre sur Pluto TV Horreur avec une programmation spéciale dédiée aux âmes les plus courageuses. Des classiques cultes aux nouveautés les plus terrifiantes, préparez-vous à une expérience horrifique inoubliable</desc>
-    <icon src="https://images.pluto.tv/series/66f6775aec9d6d0008104cf8/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">66f6775aec9d6d0008104cf8</series-id>
-    <sub-title>Pluto TV Horreur</sub-title>
-    <category>Series</category>
-    <category>Horror</category>
-    <category>Horror Classics</category>
-  </programme>
-  <programme channel="66e1978babec540008ce41ac" start="20260530104348 +0000" stop="20260530111348 +0000">
-    <title>Ciné d'horreur by Pluto TV</title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <episode-num system="pluto">66f6777bd8eb4500085b7665</episode-num>
-    <episode-num system="original-air-date">19700101000000 +0000</episode-num>
-    <desc>Tremblez de peur tout au long du mois d'octobre sur Pluto TV Horreur avec une programmation spéciale dédiée aux âmes les plus courageuses. Des classiques cultes aux nouveautés les plus terrifiantes, préparez-vous à une expérience horrifique inoubliable</desc>
-    <icon src="https://images.pluto.tv/series/66f6775aec9d6d0008104cf8/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">66f6775aec9d6d0008104cf8</series-id>
-    <sub-title>Pluto TV Horreur</sub-title>
-    <category>Series</category>
-    <category>Horror</category>
-    <category>Horror Classics</category>
-  </programme>
-  <programme channel="66e1978babec540008ce41ac" start="20260530111348 +0000" stop="20260530114348 +0000">
-    <title>Ciné d'horreur by Pluto TV</title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <episode-num system="pluto">66f6777bd8eb4500085b7665</episode-num>
-    <episode-num system="original-air-date">19700101000000 +0000</episode-num>
-    <desc>Tremblez de peur tout au long du mois d'octobre sur Pluto TV Horreur avec une programmation spéciale dédiée aux âmes les plus courageuses. Des classiques cultes aux nouveautés les plus terrifiantes, préparez-vous à une expérience horrifique inoubliable</desc>
-    <icon src="https://images.pluto.tv/series/66f6775aec9d6d0008104cf8/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">66f6775aec9d6d0008104cf8</series-id>
-    <sub-title>Pluto TV Horreur</sub-title>
-    <category>Series</category>
-    <category>Horror</category>
-    <category>Horror Classics</category>
-  </programme>
-  <programme channel="66e1978babec540008ce41ac" start="20260530114348 +0000" stop="20260530121348 +0000">
-    <title>Ciné d'horreur by Pluto TV</title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <episode-num system="pluto">66f6777bd8eb4500085b7665</episode-num>
-    <episode-num system="original-air-date">19700101000000 +0000</episode-num>
-    <desc>Tremblez de peur tout au long du mois d'octobre sur Pluto TV Horreur avec une programmation spéciale dédiée aux âmes les plus courageuses. Des classiques cultes aux nouveautés les plus terrifiantes, préparez-vous à une expérience horrifique inoubliable</desc>
-    <icon src="https://images.pluto.tv/series/66f6775aec9d6d0008104cf8/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">66f6775aec9d6d0008104cf8</series-id>
-    <sub-title>Pluto TV Horreur</sub-title>
-    <category>Series</category>
-    <category>Horror</category>
-    <category>Horror Classics</category>
-  </programme>
-  <programme channel="66e1978babec540008ce41ac" start="20260530121348 +0000" stop="20260530124348 +0000">
-    <title>Ciné d'horreur by Pluto TV</title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <episode-num system="pluto">66f6777bd8eb4500085b7665</episode-num>
-    <episode-num system="original-air-date">19700101000000 +0000</episode-num>
-    <desc>Tremblez de peur tout au long du mois d'octobre sur Pluto TV Horreur avec une programmation spéciale dédiée aux âmes les plus courageuses. Des classiques cultes aux nouveautés les plus terrifiantes, préparez-vous à une expérience horrifique inoubliable</desc>
-    <icon src="https://images.pluto.tv/series/66f6775aec9d6d0008104cf8/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">66f6775aec9d6d0008104cf8</series-id>
-    <sub-title>Pluto TV Horreur</sub-title>
-    <category>Series</category>
-    <category>Horror</category>
-    <category>Horror Classics</category>
+  <programme channel="65cca3e2ec452d0008af3a65" start="20260531033318 +0000" stop="20260531050029 +0000">
+    <title>The Great Missouri Raid</title>
+    <episode-num system="original-air-date">19510201000000 +0000</episode-num>
+    <desc>À la fin de la guerre civile, les frères Franck et Jesse James sont poursuivis par l'armée de l'Union pour leur implication dans le gang des confédérés.</desc>
+    <icon src="https://images.pluto.tv/episodes/66261a74bf522d001390af0a/poster_1779836402800.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <date>19510201</date>
+    <series-id system="pluto">66261a73bf522d001390aeeb</series-id>
+    <category>Western</category>
+    <category>Movie</category>
+    <category>Action</category>
   </programme>
   <programme channel="66e1978babec540008ce41ac" start="20260530124348 +0000" stop="20260530131348 +0000">
     <title>Ciné d'horreur by Pluto TV</title>
@@ -4050,8 +3979,8 @@
     <date>19700101</date>
     <series-id system="pluto">66f6775aec9d6d0008104cf8</series-id>
     <sub-title>Pluto TV Horreur</sub-title>
-    <category>Series</category>
     <category>Horror</category>
+    <category>Series</category>
     <category>Horror Classics</category>
   </programme>
   <programme channel="66e1978babec540008ce41ac" start="20260530131348 +0000" stop="20260530134348 +0000">
@@ -4064,8 +3993,8 @@
     <date>19700101</date>
     <series-id system="pluto">66f6775aec9d6d0008104cf8</series-id>
     <sub-title>Pluto TV Horreur</sub-title>
-    <category>Series</category>
     <category>Horror</category>
+    <category>Series</category>
     <category>Horror Classics</category>
   </programme>
   <programme channel="66e1978babec540008ce41ac" start="20260530134348 +0000" stop="20260530141348 +0000">
@@ -4078,8 +4007,8 @@
     <date>19700101</date>
     <series-id system="pluto">66f6775aec9d6d0008104cf8</series-id>
     <sub-title>Pluto TV Horreur</sub-title>
-    <category>Series</category>
     <category>Horror</category>
+    <category>Series</category>
     <category>Horror Classics</category>
   </programme>
   <programme channel="66e1978babec540008ce41ac" start="20260530141348 +0000" stop="20260530144348 +0000">
@@ -4092,8 +4021,8 @@
     <date>19700101</date>
     <series-id system="pluto">66f6775aec9d6d0008104cf8</series-id>
     <sub-title>Pluto TV Horreur</sub-title>
-    <category>Series</category>
     <category>Horror</category>
+    <category>Series</category>
     <category>Horror Classics</category>
   </programme>
   <programme channel="66e1978babec540008ce41ac" start="20260530144348 +0000" stop="20260530151348 +0000">
@@ -4106,8 +4035,8 @@
     <date>19700101</date>
     <series-id system="pluto">66f6775aec9d6d0008104cf8</series-id>
     <sub-title>Pluto TV Horreur</sub-title>
-    <category>Series</category>
     <category>Horror</category>
+    <category>Series</category>
     <category>Horror Classics</category>
   </programme>
   <programme channel="66e1978babec540008ce41ac" start="20260530151348 +0000" stop="20260530154348 +0000">
@@ -4120,8 +4049,8 @@
     <date>19700101</date>
     <series-id system="pluto">66f6775aec9d6d0008104cf8</series-id>
     <sub-title>Pluto TV Horreur</sub-title>
-    <category>Series</category>
     <category>Horror</category>
+    <category>Series</category>
     <category>Horror Classics</category>
   </programme>
   <programme channel="66e1978babec540008ce41ac" start="20260530154348 +0000" stop="20260530161348 +0000">
@@ -4134,8 +4063,8 @@
     <date>19700101</date>
     <series-id system="pluto">66f6775aec9d6d0008104cf8</series-id>
     <sub-title>Pluto TV Horreur</sub-title>
-    <category>Series</category>
     <category>Horror</category>
+    <category>Series</category>
     <category>Horror Classics</category>
   </programme>
   <programme channel="66e1978babec540008ce41ac" start="20260530161348 +0000" stop="20260530164348 +0000">
@@ -4148,8 +4077,8 @@
     <date>19700101</date>
     <series-id system="pluto">66f6775aec9d6d0008104cf8</series-id>
     <sub-title>Pluto TV Horreur</sub-title>
-    <category>Series</category>
     <category>Horror</category>
+    <category>Series</category>
     <category>Horror Classics</category>
   </programme>
   <programme channel="66e1978babec540008ce41ac" start="20260530164348 +0000" stop="20260530171348 +0000">
@@ -4162,8 +4091,8 @@
     <date>19700101</date>
     <series-id system="pluto">66f6775aec9d6d0008104cf8</series-id>
     <sub-title>Pluto TV Horreur</sub-title>
-    <category>Series</category>
     <category>Horror</category>
+    <category>Series</category>
     <category>Horror Classics</category>
   </programme>
   <programme channel="66e1978babec540008ce41ac" start="20260530171348 +0000" stop="20260530174348 +0000">
@@ -4176,8 +4105,8 @@
     <date>19700101</date>
     <series-id system="pluto">66f6775aec9d6d0008104cf8</series-id>
     <sub-title>Pluto TV Horreur</sub-title>
-    <category>Series</category>
     <category>Horror</category>
+    <category>Series</category>
     <category>Horror Classics</category>
   </programme>
   <programme channel="66e1978babec540008ce41ac" start="20260530174348 +0000" stop="20260530181348 +0000">
@@ -4190,8 +4119,8 @@
     <date>19700101</date>
     <series-id system="pluto">66f6775aec9d6d0008104cf8</series-id>
     <sub-title>Pluto TV Horreur</sub-title>
-    <category>Series</category>
     <category>Horror</category>
+    <category>Series</category>
     <category>Horror Classics</category>
   </programme>
   <programme channel="66e1978babec540008ce41ac" start="20260530181348 +0000" stop="20260530181848 +0000">
@@ -4204,8 +4133,8 @@
     <date>19700101</date>
     <series-id system="pluto">66f6775aec9d6d0008104cf8</series-id>
     <sub-title>Pluto TV Horreur</sub-title>
-    <category>Series</category>
     <category>Horror</category>
+    <category>Series</category>
     <category>Horror Classics</category>
   </programme>
   <programme channel="66e1978babec540008ce41ac" start="20260530181848 +0000" stop="20260530182348 +0000">
@@ -4218,8 +4147,8 @@
     <date>19700101</date>
     <series-id system="pluto">66f6775aec9d6d0008104cf8</series-id>
     <sub-title>Pluto TV Horreur</sub-title>
-    <category>Series</category>
     <category>Horror</category>
+    <category>Series</category>
     <category>Horror Classics</category>
   </programme>
   <programme channel="66e1978babec540008ce41ac" start="20260530182348 +0000" stop="20260530182848 +0000">
@@ -4232,8 +4161,8 @@
     <date>19700101</date>
     <series-id system="pluto">66f6775aec9d6d0008104cf8</series-id>
     <sub-title>Pluto TV Horreur</sub-title>
-    <category>Series</category>
     <category>Horror</category>
+    <category>Series</category>
     <category>Horror Classics</category>
   </programme>
   <programme channel="66e1978babec540008ce41ac" start="20260530182848 +0000" stop="20260530182948 +0000">
@@ -4246,8 +4175,8 @@
     <date>19700101</date>
     <series-id system="pluto">66f6775aec9d6d0008104cf8</series-id>
     <sub-title>Pluto TV Horreur</sub-title>
-    <category>Series</category>
     <category>Horror</category>
+    <category>Series</category>
     <category>Horror Classics</category>
   </programme>
   <programme channel="66e1978babec540008ce41ac" start="20260530182948 +0000" stop="20260530183048 +0000">
@@ -4260,8 +4189,8 @@
     <date>19700101</date>
     <series-id system="pluto">66f6775aec9d6d0008104cf8</series-id>
     <sub-title>Pluto TV Horreur</sub-title>
-    <category>Series</category>
     <category>Horror</category>
+    <category>Series</category>
     <category>Horror Classics</category>
   </programme>
   <programme channel="66e1978babec540008ce41ac" start="20260530183048 +0000" stop="20260530190048 +0000">
@@ -4274,8 +4203,8 @@
     <date>19700101</date>
     <series-id system="pluto">66f6775aec9d6d0008104cf8</series-id>
     <sub-title>Pluto TV Horreur</sub-title>
-    <category>Series</category>
     <category>Horror</category>
+    <category>Series</category>
     <category>Horror Classics</category>
   </programme>
   <programme channel="66e1978babec540008ce41ac" start="20260530190048 +0000" stop="20260530193048 +0000">
@@ -4288,8 +4217,8 @@
     <date>19700101</date>
     <series-id system="pluto">66f6775aec9d6d0008104cf8</series-id>
     <sub-title>Pluto TV Horreur</sub-title>
-    <category>Series</category>
     <category>Horror</category>
+    <category>Series</category>
     <category>Horror Classics</category>
   </programme>
   <programme channel="66e1978babec540008ce41ac" start="20260530193048 +0000" stop="20260530200048 +0000">
@@ -4302,8 +4231,8 @@
     <date>19700101</date>
     <series-id system="pluto">66f6775aec9d6d0008104cf8</series-id>
     <sub-title>Pluto TV Horreur</sub-title>
-    <category>Series</category>
     <category>Horror</category>
+    <category>Series</category>
     <category>Horror Classics</category>
   </programme>
   <programme channel="66e1978babec540008ce41ac" start="20260530200048 +0000" stop="20260530212744 +0000">
@@ -4314,8 +4243,8 @@
     <date>20190101</date>
     <series-id system="pluto">68711d224f8d4a99171e7540</series-id>
     <category>Movie</category>
-    <category>Horror</category>
     <category>Supernatural Horror</category>
+    <category>Horror</category>
   </programme>
   <programme channel="66e1978babec540008ce41ac" start="20260530212744 +0000" stop="20260530230101 +0000">
     <title>Attaque de requins de Jersey Shore</title>
@@ -4350,89 +4279,58 @@
     <category>Cult Horror</category>
     <category>Horror</category>
   </programme>
-  <programme channel="6823648580b2665220d9e69a" start="20260530094947 +0000" stop="20260530101947 +0000">
-    <title>Ciné 666 by Pluto TV</title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <episode-num system="pluto">68c04526508ba507f0d83e68</episode-num>
-    <episode-num system="original-air-date">19700101000000 +0000</episode-num>
-    <desc>Vous avez déjà rêvé d’assister à un exorcisme? Découvrez ce qu’est vraiment la terreur sur Ciné 666 by Pluto TV. Des cas de possession aux malédictions démoniaques en passant par des prêtres, soyez prêts à sauver votre âme… ou à la vendre au diable!</desc>
-    <icon src="https://images.pluto.tv/series/68c0431974f43c4c1f9f3cb7/tile-1757430641108.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">68c0431974f43c4c1f9f3cb7</series-id>
-    <sub-title>Ciné 666 by Pluto TV Daytime Card</sub-title>
-    <category>Series</category>
-    <category>Cult Horror</category>
+  <programme channel="66e1978babec540008ce41ac" start="20260531021801 +0000" stop="20260531034604 +0000">
+    <title>Ticks</title>
+    <episode-num system="original-air-date">19930604000000 +0000</episode-num>
+    <desc>Un group d'ados difficiles encadrés par des travailleurs sociaux, font du camping dans les régions sauvages de la Californie, sans savoir que les bois dans lesquels ils campent sont infestés par des tiques mutantes et suceurs de sang.</desc>
+    <icon src="https://images.pluto.tv/episodes/68936ca3fd92ab53e8810fd4/poster_1778802129486.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <date>19930604</date>
+    <series-id system="pluto">68936ca2fd92ab53e8810fb4</series-id>
+    <category>Movie</category>
+    <category>Creature Features</category>
     <category>Horror</category>
   </programme>
-  <programme channel="6823648580b2665220d9e69a" start="20260530101947 +0000" stop="20260530104947 +0000">
-    <title>Ciné 666 by Pluto TV</title>
+  <programme channel="66e1978babec540008ce41ac" start="20260531034604 +0000" stop="20260531041604 +0000">
+    <title>Ciné d'horreur by Pluto TV</title>
     <episode-num system="onscreen">S01E01</episode-num>
-    <episode-num system="pluto">68c04526508ba507f0d83e68</episode-num>
+    <episode-num system="pluto">66f6777bd8eb4500085b7665</episode-num>
     <episode-num system="original-air-date">19700101000000 +0000</episode-num>
-    <desc>Vous avez déjà rêvé d’assister à un exorcisme? Découvrez ce qu’est vraiment la terreur sur Ciné 666 by Pluto TV. Des cas de possession aux malédictions démoniaques en passant par des prêtres, soyez prêts à sauver votre âme… ou à la vendre au diable!</desc>
-    <icon src="https://images.pluto.tv/series/68c0431974f43c4c1f9f3cb7/tile-1757430641108.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <desc>Tremblez de peur tout au long du mois d'octobre sur Pluto TV Horreur avec une programmation spéciale dédiée aux âmes les plus courageuses. Des classiques cultes aux nouveautés les plus terrifiantes, préparez-vous à une expérience horrifique inoubliable</desc>
+    <icon src="https://images.pluto.tv/series/66f6775aec9d6d0008104cf8/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
-    <series-id system="pluto">68c0431974f43c4c1f9f3cb7</series-id>
-    <sub-title>Ciné 666 by Pluto TV Daytime Card</sub-title>
-    <category>Series</category>
-    <category>Cult Horror</category>
+    <series-id system="pluto">66f6775aec9d6d0008104cf8</series-id>
+    <sub-title>Pluto TV Horreur</sub-title>
     <category>Horror</category>
+    <category>Series</category>
+    <category>Horror Classics</category>
   </programme>
-  <programme channel="6823648580b2665220d9e69a" start="20260530104947 +0000" stop="20260530111947 +0000">
-    <title>Ciné 666 by Pluto TV</title>
+  <programme channel="66e1978babec540008ce41ac" start="20260531041604 +0000" stop="20260531044604 +0000">
+    <title>Ciné d'horreur by Pluto TV</title>
     <episode-num system="onscreen">S01E01</episode-num>
-    <episode-num system="pluto">68c04526508ba507f0d83e68</episode-num>
+    <episode-num system="pluto">66f6777bd8eb4500085b7665</episode-num>
     <episode-num system="original-air-date">19700101000000 +0000</episode-num>
-    <desc>Vous avez déjà rêvé d’assister à un exorcisme? Découvrez ce qu’est vraiment la terreur sur Ciné 666 by Pluto TV. Des cas de possession aux malédictions démoniaques en passant par des prêtres, soyez prêts à sauver votre âme… ou à la vendre au diable!</desc>
-    <icon src="https://images.pluto.tv/series/68c0431974f43c4c1f9f3cb7/tile-1757430641108.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <desc>Tremblez de peur tout au long du mois d'octobre sur Pluto TV Horreur avec une programmation spéciale dédiée aux âmes les plus courageuses. Des classiques cultes aux nouveautés les plus terrifiantes, préparez-vous à une expérience horrifique inoubliable</desc>
+    <icon src="https://images.pluto.tv/series/66f6775aec9d6d0008104cf8/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
-    <series-id system="pluto">68c0431974f43c4c1f9f3cb7</series-id>
-    <sub-title>Ciné 666 by Pluto TV Daytime Card</sub-title>
-    <category>Series</category>
-    <category>Cult Horror</category>
+    <series-id system="pluto">66f6775aec9d6d0008104cf8</series-id>
+    <sub-title>Pluto TV Horreur</sub-title>
     <category>Horror</category>
+    <category>Series</category>
+    <category>Horror Classics</category>
   </programme>
-  <programme channel="6823648580b2665220d9e69a" start="20260530111947 +0000" stop="20260530114947 +0000">
-    <title>Ciné 666 by Pluto TV</title>
+  <programme channel="66e1978babec540008ce41ac" start="20260531044604 +0000" stop="20260531051604 +0000">
+    <title>Ciné d'horreur by Pluto TV</title>
     <episode-num system="onscreen">S01E01</episode-num>
-    <episode-num system="pluto">68c04526508ba507f0d83e68</episode-num>
+    <episode-num system="pluto">66f6777bd8eb4500085b7665</episode-num>
     <episode-num system="original-air-date">19700101000000 +0000</episode-num>
-    <desc>Vous avez déjà rêvé d’assister à un exorcisme? Découvrez ce qu’est vraiment la terreur sur Ciné 666 by Pluto TV. Des cas de possession aux malédictions démoniaques en passant par des prêtres, soyez prêts à sauver votre âme… ou à la vendre au diable!</desc>
-    <icon src="https://images.pluto.tv/series/68c0431974f43c4c1f9f3cb7/tile-1757430641108.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <desc>Tremblez de peur tout au long du mois d'octobre sur Pluto TV Horreur avec une programmation spéciale dédiée aux âmes les plus courageuses. Des classiques cultes aux nouveautés les plus terrifiantes, préparez-vous à une expérience horrifique inoubliable</desc>
+    <icon src="https://images.pluto.tv/series/66f6775aec9d6d0008104cf8/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
-    <series-id system="pluto">68c0431974f43c4c1f9f3cb7</series-id>
-    <sub-title>Ciné 666 by Pluto TV Daytime Card</sub-title>
-    <category>Series</category>
-    <category>Cult Horror</category>
+    <series-id system="pluto">66f6775aec9d6d0008104cf8</series-id>
+    <sub-title>Pluto TV Horreur</sub-title>
     <category>Horror</category>
-  </programme>
-  <programme channel="6823648580b2665220d9e69a" start="20260530114947 +0000" stop="20260530121947 +0000">
-    <title>Ciné 666 by Pluto TV</title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <episode-num system="pluto">68c04526508ba507f0d83e68</episode-num>
-    <episode-num system="original-air-date">19700101000000 +0000</episode-num>
-    <desc>Vous avez déjà rêvé d’assister à un exorcisme? Découvrez ce qu’est vraiment la terreur sur Ciné 666 by Pluto TV. Des cas de possession aux malédictions démoniaques en passant par des prêtres, soyez prêts à sauver votre âme… ou à la vendre au diable!</desc>
-    <icon src="https://images.pluto.tv/series/68c0431974f43c4c1f9f3cb7/tile-1757430641108.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">68c0431974f43c4c1f9f3cb7</series-id>
-    <sub-title>Ciné 666 by Pluto TV Daytime Card</sub-title>
     <category>Series</category>
-    <category>Cult Horror</category>
-    <category>Horror</category>
-  </programme>
-  <programme channel="6823648580b2665220d9e69a" start="20260530121947 +0000" stop="20260530124947 +0000">
-    <title>Ciné 666 by Pluto TV</title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <episode-num system="pluto">68c04526508ba507f0d83e68</episode-num>
-    <episode-num system="original-air-date">19700101000000 +0000</episode-num>
-    <desc>Vous avez déjà rêvé d’assister à un exorcisme? Découvrez ce qu’est vraiment la terreur sur Ciné 666 by Pluto TV. Des cas de possession aux malédictions démoniaques en passant par des prêtres, soyez prêts à sauver votre âme… ou à la vendre au diable!</desc>
-    <icon src="https://images.pluto.tv/series/68c0431974f43c4c1f9f3cb7/tile-1757430641108.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">68c0431974f43c4c1f9f3cb7</series-id>
-    <sub-title>Ciné 666 by Pluto TV Daytime Card</sub-title>
-    <category>Series</category>
-    <category>Cult Horror</category>
-    <category>Horror</category>
+    <category>Horror Classics</category>
   </programme>
   <programme channel="6823648580b2665220d9e69a" start="20260530124947 +0000" stop="20260530131947 +0000">
     <title>Ciné 666 by Pluto TV</title>
@@ -4444,9 +4342,9 @@
     <date>19700101</date>
     <series-id system="pluto">68c0431974f43c4c1f9f3cb7</series-id>
     <sub-title>Ciné 666 by Pluto TV Daytime Card</sub-title>
+    <category>Horror</category>
     <category>Series</category>
     <category>Cult Horror</category>
-    <category>Horror</category>
   </programme>
   <programme channel="6823648580b2665220d9e69a" start="20260530131947 +0000" stop="20260530134947 +0000">
     <title>Ciné 666 by Pluto TV</title>
@@ -4458,9 +4356,9 @@
     <date>19700101</date>
     <series-id system="pluto">68c0431974f43c4c1f9f3cb7</series-id>
     <sub-title>Ciné 666 by Pluto TV Daytime Card</sub-title>
+    <category>Horror</category>
     <category>Series</category>
     <category>Cult Horror</category>
-    <category>Horror</category>
   </programme>
   <programme channel="6823648580b2665220d9e69a" start="20260530134947 +0000" stop="20260530141947 +0000">
     <title>Ciné 666 by Pluto TV</title>
@@ -4472,9 +4370,9 @@
     <date>19700101</date>
     <series-id system="pluto">68c0431974f43c4c1f9f3cb7</series-id>
     <sub-title>Ciné 666 by Pluto TV Daytime Card</sub-title>
+    <category>Horror</category>
     <category>Series</category>
     <category>Cult Horror</category>
-    <category>Horror</category>
   </programme>
   <programme channel="6823648580b2665220d9e69a" start="20260530141947 +0000" stop="20260530144947 +0000">
     <title>Ciné 666 by Pluto TV</title>
@@ -4486,9 +4384,9 @@
     <date>19700101</date>
     <series-id system="pluto">68c0431974f43c4c1f9f3cb7</series-id>
     <sub-title>Ciné 666 by Pluto TV Daytime Card</sub-title>
+    <category>Horror</category>
     <category>Series</category>
     <category>Cult Horror</category>
-    <category>Horror</category>
   </programme>
   <programme channel="6823648580b2665220d9e69a" start="20260530144947 +0000" stop="20260530151947 +0000">
     <title>Ciné 666 by Pluto TV</title>
@@ -4500,9 +4398,9 @@
     <date>19700101</date>
     <series-id system="pluto">68c0431974f43c4c1f9f3cb7</series-id>
     <sub-title>Ciné 666 by Pluto TV Daytime Card</sub-title>
+    <category>Horror</category>
     <category>Series</category>
     <category>Cult Horror</category>
-    <category>Horror</category>
   </programme>
   <programme channel="6823648580b2665220d9e69a" start="20260530151947 +0000" stop="20260530154947 +0000">
     <title>Ciné 666 by Pluto TV</title>
@@ -4514,9 +4412,9 @@
     <date>19700101</date>
     <series-id system="pluto">68c0431974f43c4c1f9f3cb7</series-id>
     <sub-title>Ciné 666 by Pluto TV Daytime Card</sub-title>
+    <category>Horror</category>
     <category>Series</category>
     <category>Cult Horror</category>
-    <category>Horror</category>
   </programme>
   <programme channel="6823648580b2665220d9e69a" start="20260530154947 +0000" stop="20260530161947 +0000">
     <title>Ciné 666 by Pluto TV</title>
@@ -4528,9 +4426,9 @@
     <date>19700101</date>
     <series-id system="pluto">68c0431974f43c4c1f9f3cb7</series-id>
     <sub-title>Ciné 666 by Pluto TV Daytime Card</sub-title>
+    <category>Horror</category>
     <category>Series</category>
     <category>Cult Horror</category>
-    <category>Horror</category>
   </programme>
   <programme channel="6823648580b2665220d9e69a" start="20260530161947 +0000" stop="20260530164947 +0000">
     <title>Ciné 666 by Pluto TV</title>
@@ -4542,9 +4440,9 @@
     <date>19700101</date>
     <series-id system="pluto">68c0431974f43c4c1f9f3cb7</series-id>
     <sub-title>Ciné 666 by Pluto TV Daytime Card</sub-title>
+    <category>Horror</category>
     <category>Series</category>
     <category>Cult Horror</category>
-    <category>Horror</category>
   </programme>
   <programme channel="6823648580b2665220d9e69a" start="20260530164947 +0000" stop="20260530171947 +0000">
     <title>Ciné 666 by Pluto TV</title>
@@ -4556,9 +4454,9 @@
     <date>19700101</date>
     <series-id system="pluto">68c0431974f43c4c1f9f3cb7</series-id>
     <sub-title>Ciné 666 by Pluto TV Daytime Card</sub-title>
+    <category>Horror</category>
     <category>Series</category>
     <category>Cult Horror</category>
-    <category>Horror</category>
   </programme>
   <programme channel="6823648580b2665220d9e69a" start="20260530171947 +0000" stop="20260530174947 +0000">
     <title>Ciné 666 by Pluto TV</title>
@@ -4570,9 +4468,9 @@
     <date>19700101</date>
     <series-id system="pluto">68c0431974f43c4c1f9f3cb7</series-id>
     <sub-title>Ciné 666 by Pluto TV Daytime Card</sub-title>
+    <category>Horror</category>
     <category>Series</category>
     <category>Cult Horror</category>
-    <category>Horror</category>
   </programme>
   <programme channel="6823648580b2665220d9e69a" start="20260530174947 +0000" stop="20260530181947 +0000">
     <title>Ciné 666 by Pluto TV</title>
@@ -4584,9 +4482,9 @@
     <date>19700101</date>
     <series-id system="pluto">68c0431974f43c4c1f9f3cb7</series-id>
     <sub-title>Ciné 666 by Pluto TV Daytime Card</sub-title>
+    <category>Horror</category>
     <category>Series</category>
     <category>Cult Horror</category>
-    <category>Horror</category>
   </programme>
   <programme channel="6823648580b2665220d9e69a" start="20260530181947 +0000" stop="20260530184947 +0000">
     <title>Ciné 666 by Pluto TV</title>
@@ -4598,9 +4496,9 @@
     <date>19700101</date>
     <series-id system="pluto">68c0431974f43c4c1f9f3cb7</series-id>
     <sub-title>Ciné 666 by Pluto TV Daytime Card</sub-title>
+    <category>Horror</category>
     <category>Series</category>
     <category>Cult Horror</category>
-    <category>Horror</category>
   </programme>
   <programme channel="6823648580b2665220d9e69a" start="20260530184947 +0000" stop="20260530185047 +0000">
     <title>Ciné 666 by Pluto TV</title>
@@ -4612,9 +4510,9 @@
     <date>19700101</date>
     <series-id system="pluto">68c0431974f43c4c1f9f3cb7</series-id>
     <sub-title>Ciné 666 by Pluto TV Daytime Card</sub-title>
+    <category>Horror</category>
     <category>Series</category>
     <category>Cult Horror</category>
-    <category>Horror</category>
   </programme>
   <programme channel="6823648580b2665220d9e69a" start="20260530185047 +0000" stop="20260530190047 +0000">
     <title>Ciné 666 by Pluto TV</title>
@@ -4626,9 +4524,9 @@
     <date>19700101</date>
     <series-id system="pluto">68c0431974f43c4c1f9f3cb7</series-id>
     <sub-title>Ciné 666 by Pluto TV Daytime Card</sub-title>
+    <category>Horror</category>
     <category>Series</category>
     <category>Cult Horror</category>
-    <category>Horror</category>
   </programme>
   <programme channel="6823648580b2665220d9e69a" start="20260530190047 +0000" stop="20260530193047 +0000">
     <title>Ciné 666 by Pluto TV</title>
@@ -4640,9 +4538,9 @@
     <date>19700101</date>
     <series-id system="pluto">68c0431974f43c4c1f9f3cb7</series-id>
     <sub-title>Ciné 666 by Pluto TV Daytime Card</sub-title>
+    <category>Horror</category>
     <category>Series</category>
     <category>Cult Horror</category>
-    <category>Horror</category>
   </programme>
   <programme channel="6823648580b2665220d9e69a" start="20260530193047 +0000" stop="20260530200047 +0000">
     <title>Ciné 666 by Pluto TV</title>
@@ -4654,9 +4552,9 @@
     <date>19700101</date>
     <series-id system="pluto">68c0431974f43c4c1f9f3cb7</series-id>
     <sub-title>Ciné 666 by Pluto TV Daytime Card</sub-title>
+    <category>Horror</category>
     <category>Series</category>
     <category>Cult Horror</category>
-    <category>Horror</category>
   </programme>
   <programme channel="6823648580b2665220d9e69a" start="20260530200047 +0000" stop="20260530214046 +0000">
     <title>THE DARK AND THE WICKED</title>
@@ -4677,8 +4575,8 @@
     <date>20180101</date>
     <series-id system="pluto">60743fe0e85e72001a659282</series-id>
     <category>Movie</category>
-    <category>Horror</category>
     <category>Horror Classics</category>
+    <category>Horror</category>
   </programme>
   <programme channel="6823648580b2665220d9e69a" start="20260530231946 +0000" stop="20260531004958 +0000">
     <title>The Other Side</title>
@@ -4688,8 +4586,8 @@
     <date>20200101</date>
     <series-id system="pluto">6822ec8b02c81f7418355768</series-id>
     <category>Movie</category>
-    <category>Horror</category>
     <category>Horror Classics</category>
+    <category>Horror</category>
   </programme>
   <programme channel="6823648580b2665220d9e69a" start="20260531004958 +0000" stop="20260531022456 +0000">
     <title>Instinct Maternel</title>
@@ -4698,7 +4596,116 @@
     <icon src="https://images.pluto.tv/episodes/6821abf20f8298da56d04041/poster_1768343413176.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
     <date>20210101</date>
     <series-id system="pluto">6821abf10f8298da56d04020</series-id>
-    <category>Movie</category>
     <category>Thriller</category>
+    <category>Movie</category>
+  </programme>
+  <programme channel="6823648580b2665220d9e69a" start="20260531022456 +0000" stop="20260531035556 +0000">
+    <title>L'enfant du passé</title>
+    <episode-num system="original-air-date">20170101000000 +0000</episode-num>
+    <desc>Catherine hérite de la maison de son père mais doit faire face aux secrets qu'elle renferme.</desc>
+    <icon src="https://images.pluto.tv/episodes/607695a05426cf001a3b3df4/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <date>20170101</date>
+    <series-id system="pluto">6076959f5426cf001a3b3dee</series-id>
+    <category>Movie</category>
+    <category>Horror Classics</category>
+    <category>Horror</category>
+  </programme>
+  <programme channel="6823648580b2665220d9e69a" start="20260531035556 +0000" stop="20260531035656 +0000">
+    <title>Ciné 666 by Pluto TV</title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <episode-num system="pluto">68c045fa00a2f063fd39c331</episode-num>
+    <episode-num system="original-air-date">19700101000000 +0000</episode-num>
+    <desc>Vous avez déjà rêvé d’assister à un exorcisme? Découvrez ce qu’est vraiment la terreur sur Ciné 666 by Pluto TV. Des cas de possession aux malédictions démoniaques en passant par des prêtres, soyez prêts à sauver votre âme… ou à la vendre au diable!</desc>
+    <icon src="https://images.pluto.tv/series/68c0431974f43c4c1f9f3cb7/tile-1757430641108.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">68c0431974f43c4c1f9f3cb7</series-id>
+    <sub-title>Ciné 666 by Pluto TV Daytime Card</sub-title>
+    <category>Horror</category>
+    <category>Series</category>
+    <category>Cult Horror</category>
+  </programme>
+  <programme channel="6823648580b2665220d9e69a" start="20260531035656 +0000" stop="20260531035756 +0000">
+    <title>Ciné 666 by Pluto TV</title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <episode-num system="pluto">68c045fa00a2f063fd39c331</episode-num>
+    <episode-num system="original-air-date">19700101000000 +0000</episode-num>
+    <desc>Vous avez déjà rêvé d’assister à un exorcisme? Découvrez ce qu’est vraiment la terreur sur Ciné 666 by Pluto TV. Des cas de possession aux malédictions démoniaques en passant par des prêtres, soyez prêts à sauver votre âme… ou à la vendre au diable!</desc>
+    <icon src="https://images.pluto.tv/series/68c0431974f43c4c1f9f3cb7/tile-1757430641108.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">68c0431974f43c4c1f9f3cb7</series-id>
+    <sub-title>Ciné 666 by Pluto TV Daytime Card</sub-title>
+    <category>Horror</category>
+    <category>Series</category>
+    <category>Cult Horror</category>
+  </programme>
+  <programme channel="6823648580b2665220d9e69a" start="20260531035756 +0000" stop="20260531035856 +0000">
+    <title>Ciné 666 by Pluto TV</title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <episode-num system="pluto">68c045fa00a2f063fd39c331</episode-num>
+    <episode-num system="original-air-date">19700101000000 +0000</episode-num>
+    <desc>Vous avez déjà rêvé d’assister à un exorcisme? Découvrez ce qu’est vraiment la terreur sur Ciné 666 by Pluto TV. Des cas de possession aux malédictions démoniaques en passant par des prêtres, soyez prêts à sauver votre âme… ou à la vendre au diable!</desc>
+    <icon src="https://images.pluto.tv/series/68c0431974f43c4c1f9f3cb7/tile-1757430641108.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">68c0431974f43c4c1f9f3cb7</series-id>
+    <sub-title>Ciné 666 by Pluto TV Daytime Card</sub-title>
+    <category>Horror</category>
+    <category>Series</category>
+    <category>Cult Horror</category>
+  </programme>
+  <programme channel="6823648580b2665220d9e69a" start="20260531035856 +0000" stop="20260531035956 +0000">
+    <title>Ciné 666 by Pluto TV</title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <episode-num system="pluto">68c045fa00a2f063fd39c331</episode-num>
+    <episode-num system="original-air-date">19700101000000 +0000</episode-num>
+    <desc>Vous avez déjà rêvé d’assister à un exorcisme? Découvrez ce qu’est vraiment la terreur sur Ciné 666 by Pluto TV. Des cas de possession aux malédictions démoniaques en passant par des prêtres, soyez prêts à sauver votre âme… ou à la vendre au diable!</desc>
+    <icon src="https://images.pluto.tv/series/68c0431974f43c4c1f9f3cb7/tile-1757430641108.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">68c0431974f43c4c1f9f3cb7</series-id>
+    <sub-title>Ciné 666 by Pluto TV Daytime Card</sub-title>
+    <category>Horror</category>
+    <category>Series</category>
+    <category>Cult Horror</category>
+  </programme>
+  <programme channel="6823648580b2665220d9e69a" start="20260531035956 +0000" stop="20260531040056 +0000">
+    <title>Ciné 666 by Pluto TV</title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <episode-num system="pluto">68c045fa00a2f063fd39c331</episode-num>
+    <episode-num system="original-air-date">19700101000000 +0000</episode-num>
+    <desc>Vous avez déjà rêvé d’assister à un exorcisme? Découvrez ce qu’est vraiment la terreur sur Ciné 666 by Pluto TV. Des cas de possession aux malédictions démoniaques en passant par des prêtres, soyez prêts à sauver votre âme… ou à la vendre au diable!</desc>
+    <icon src="https://images.pluto.tv/series/68c0431974f43c4c1f9f3cb7/tile-1757430641108.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">68c0431974f43c4c1f9f3cb7</series-id>
+    <sub-title>Ciné 666 by Pluto TV Daytime Card</sub-title>
+    <category>Horror</category>
+    <category>Series</category>
+    <category>Cult Horror</category>
+  </programme>
+  <programme channel="6823648580b2665220d9e69a" start="20260531040056 +0000" stop="20260531043056 +0000">
+    <title>Ciné 666 by Pluto TV</title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <episode-num system="pluto">68c04526508ba507f0d83e68</episode-num>
+    <episode-num system="original-air-date">19700101000000 +0000</episode-num>
+    <desc>Vous avez déjà rêvé d’assister à un exorcisme? Découvrez ce qu’est vraiment la terreur sur Ciné 666 by Pluto TV. Des cas de possession aux malédictions démoniaques en passant par des prêtres, soyez prêts à sauver votre âme… ou à la vendre au diable!</desc>
+    <icon src="https://images.pluto.tv/series/68c0431974f43c4c1f9f3cb7/tile-1757430641108.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">68c0431974f43c4c1f9f3cb7</series-id>
+    <sub-title>Ciné 666 by Pluto TV Daytime Card</sub-title>
+    <category>Horror</category>
+    <category>Series</category>
+    <category>Cult Horror</category>
+  </programme>
+  <programme channel="6823648580b2665220d9e69a" start="20260531043056 +0000" stop="20260531050056 +0000">
+    <title>Ciné 666 by Pluto TV</title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <episode-num system="pluto">68c04526508ba507f0d83e68</episode-num>
+    <episode-num system="original-air-date">19700101000000 +0000</episode-num>
+    <desc>Vous avez déjà rêvé d’assister à un exorcisme? Découvrez ce qu’est vraiment la terreur sur Ciné 666 by Pluto TV. Des cas de possession aux malédictions démoniaques en passant par des prêtres, soyez prêts à sauver votre âme… ou à la vendre au diable!</desc>
+    <icon src="https://images.pluto.tv/series/68c0431974f43c4c1f9f3cb7/tile-1757430641108.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">68c0431974f43c4c1f9f3cb7</series-id>
+    <sub-title>Ciné 666 by Pluto TV Daytime Card</sub-title>
+    <category>Horror</category>
+    <category>Series</category>
+    <category>Cult Horror</category>
   </programme>
   </tv>
