@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<tv><!--MAJ: 2026-08-15 16:26:26.209277--><channel id="FRBD5100001ZA">
+<tv><!--MAJ: 2026-08-15 17:21:50.755841--><channel id="FRBD5100001ZA">
     <display-name>ADN</display-name>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD5100001ZA_20260721T035849SQUARE.png" />
   </channel>
@@ -2119,14 +2119,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme channel="USBD300012YC" start="20260815150000 +0000" stop="20260815160000 +0000">
-    <title>Hot Hot Eighties</title>
-    <desc>Keeping the summer days going with the hottest 80s videos.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3255641638_0_20260729T015452363Z_102_imageprocessorclient-tvplus-linear-9468c5484-wl2fj.png" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
   <programme channel="USBD300012YC" start="20260815160000 +0000" stop="20260815180000 +0000">
     <title>80s Strike Back</title>
     <desc>Hits from the 80s that are still racking up views in 2025!</desc>
@@ -2159,10 +2151,10 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme channel="USBD3000133M" start="20260815150000 +0000" stop="20260815160000 +0000">
-    <title>Left Of The Dial</title>
-    <desc>Reminisce on '90s Rock/Alt nostalgia with jams from the decade.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1701354479_0_20250717T203432375Z_87_imageprocessorclient-tvplus-linear-d7c8c765b-97vkd.png" />
+  <programme channel="USBD300012YC" start="20260815220000 +0000" stop="20260815230000 +0000">
+    <title>Hot Hot Eighties</title>
+    <desc>Keeping the summer days going with the hottest 80s videos.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3255641638_0_20260729T015452363Z_102_imageprocessorclient-tvplus-linear-9468c5484-wl2fj.png" />
     <rating>
       <value>TV-14</value>
     </rating>
@@ -2223,10 +2215,10 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme channel="USBB4400015F5" start="20260815140000 +0000" stop="20260815160000 +0000">
-    <title>Hot 2K Videos</title>
-    <desc>The decade's best Pop, Hip-Hop, Alt and more!</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1451930079_1_20250605T185650759Z_124_imageprocessorclient-tvplus-linear-595595f4b6-btzqx.png" />
+  <programme channel="USBD3000133M" start="20260815220000 +0000" stop="20260815230000 +0000">
+    <title>'90s R&amp;B Jams</title>
+    <desc>Nuthin' but R&amp;B flava.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1701325394_0_20250717T203431404Z_82_imageprocessorclient-tvplus-linear-d7c8c765b-97vkd.png" />
     <rating>
       <value>TV-14</value>
     </rating>
@@ -2279,10 +2271,10 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme channel="USBC3600001RQ" start="20260815150000 +0000" stop="20260815160000 +0000">
-    <title>DSCVR Country</title>
-    <desc>Videos from new artists that you need to know about now.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1451929837_3_20250605T185747255Z_1_imageprocessorclient-tvplus-linear-595595f4b6-wzppv.png" />
+  <programme channel="USBB4400015F5" start="20260815220000 +0000" stop="20260815230000 +0000">
+    <title>2000s Reloaded</title>
+    <desc>Hits from the 2000s that are still making waves today!</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2209928844_0_20251126T183316613Z_67_imageprocessorclient-tvplus-linear-584c967455-k8fnw.png" />
     <rating>
       <value>TV-14</value>
     </rating>
@@ -2323,6 +2315,14 @@
     <title>Today's Country</title>
     <desc>The most popular country videos of the week.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3091569055_0_20260622T224438423Z_1_imageprocessorclient-tvplus-linear-75df688c49-jzwpj.png" />
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme channel="USBC3600001RQ" start="20260815220000 +0000" stop="20260815230000 +0000">
+    <title>Feel Good Tunes</title>
+    <desc>Videos to boost your mood.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3073275213_0_20260618T204825368Z_102_imageprocessorclient-tvplus-linear-75df688c49-jspc2.png" />
     <rating>
       <value>TV-14</value>
     </rating>
