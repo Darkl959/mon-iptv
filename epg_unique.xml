@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<tv><!--MAJ: 2026-08-17 09:43:17.254682--><channel id="FRBD5100001ZA">
+<tv><!--MAJ: 2026-08-17 10:33:32.973577--><channel id="FRBD5100001ZA">
     <display-name>ADN</display-name>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD5100001ZA_20260721T035849SQUARE.png" />
   </channel>
@@ -163,22 +163,6 @@
     <display-name>Box Office Action</display-name>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR370000288_20260707T051627SQUARE.png" />
   </channel>
-  <programme channel="FRBD5100001ZA" start="20260817090000 +0000" stop="20260817093000 +0000">
-    <title>Hunter x Hunter 2011</title>
-    <desc>Kurapika va enfin montrer l'étendue de ses pouvoirs face à un vrai membre de l'araignée……</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_488877266_1_20240226T192649501Z_77.jpeg" />
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme>
-  <programme channel="FRBD5100001ZA" start="20260817093000 +0000" stop="20260817100000 +0000">
-    <title>Hunter x Hunter 2011</title>
-    <desc>Gon, Kirua et Leolio essayent de rassembler autant d'argent que possible afin d'acheter le jeu "G…</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_488877265_2_20240226T192649605Z_25.jpeg" />
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme>
   <programme channel="FRBD5100001ZA" start="20260817100000 +0000" stop="20260817103000 +0000">
     <title>Hunter x Hunter 2011</title>
     <desc>Gon et ses amis espèrent bien remporter l'enchère placée par la brigade fantôme. Pendant ce temp…</desc>
@@ -283,28 +267,20 @@
       <value>NA</value>
     </rating>
   </programme>
-  <programme channel="FRBD41000051L" start="20260817084659 +0000" stop="20260817091249 +0000">
-    <title>Le vrai visage du grand Pope</title>
-    <desc>est la chaine des fans d'Anime made in Japan.  Séries cultes, nouveautés, shonen, shojo ou seinen, retrouvez le meilleur de l'Anime sur Wasabi</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQO570425A_1956270607_0_20260623T130135888Z_112_imageprocessorclient-tvplus-linear-66fc4d58c8-wr9bs.jpeg" />
+  <programme channel="FRBD5100001ZA" start="20260817153000 +0000" stop="20260817160000 +0000">
+    <title>Hunter x Hunter 2011</title>
+    <desc>Gon et Kirua sont à la recherche des cartes de sort. Ils vont poursuivre des monstres mais certai…</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_488301563_4_20240205T145248685Z_128.jpeg" />
     <rating>
-      <value>4</value>
+      <value>NA</value>
     </rating>
   </programme>
-  <programme channel="FRBD41000051L" start="20260817091249 +0000" stop="20260817093839 +0000">
-    <title>Seyar, bats-toi en souvenir de tes amis !</title>
-    <desc>est la chaine des fans d'Anime made in Japan.  Séries cultes, nouveautés, shonen, shojo ou seinen, retrouvez le meilleur de l'Anime sur Wasabi</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQO570425A_1956270607_0_20260623T130135888Z_112_imageprocessorclient-tvplus-linear-66fc4d58c8-wr9bs.jpeg" />
+  <programme channel="FRBD5100001ZA" start="20260817160000 +0000" stop="20260817163000 +0000">
+    <title>Hunter x Hunter 2011</title>
+    <desc>Biscuit compte bien entraîner Gon et Kirua ! Leur premier test est de vaincre Binolt, le chasseu…</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_488301583_2_20240205T145248612Z_33.jpeg" />
     <rating>
-      <value>4</value>
-    </rating>
-  </programme>
-  <programme channel="FRBD41000051L" start="20260817093839 +0000" stop="20260817100458 +0000">
-    <title>L'heure de la bataille sanglante</title>
-    <desc>est la chaine des fans d'Anime made in Japan.  Séries cultes, nouveautés, shonen, shojo ou seinen, retrouvez le meilleur de l'Anime sur Wasabi</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQO570425A_1884212825_0_20260527T143354957Z_109_imageprocessorclient-tvplus-linear-66fc4d58c8-49ksc.jpeg" />
-    <rating>
-      <value>10</value>
+      <value>NA</value>
     </rating>
   </programme>
   <programme channel="FRBD41000051L" start="20260817100458 +0000" stop="20260817103446 +0000">
@@ -389,11 +365,29 @@
       <value>10</value>
     </rating>
   </programme>
-  <programme channel="FR2900001UF" start="20260817082643 +0000" stop="20260817092717 +0000">
-    <title>Call The Midwife</title>
-    <sub-title>SOS sages-femmes Saison 6, Épisode 5</sub-title>
-    <desc>Saint-Nonnatus accueille une nouvelle recrue, l'infirmière Valérie Dyer.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQO570425A_947422641_3_20250604T152425615Z_3_imageprocessorclient-tvplus-linear-6fb5b47f79-8bxmq.jpeg" />
+  <programme channel="FRBD41000051L" start="20260817151151 +0000" stop="20260817154049 +0000">
+    <title>L'heure de la bataille sanglante</title>
+    <desc>est la chaine des fans d'Anime made in Japan.  Séries cultes, nouveautés, shonen, shojo ou seinen, retrouvez le meilleur de l'Anime sur Wasabi</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQO570425A_1884212825_0_20260527T143354957Z_109_imageprocessorclient-tvplus-linear-66fc4d58c8-49ksc.jpeg" />
+    <rating>
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme channel="FRBD41000051L" start="20260817154049 +0000" stop="20260817160639 +0000">
+    <title>Le dernier sourire de Shun</title>
+    <desc>est la chaine des fans d'Anime made in Japan.  Séries cultes, nouveautés, shonen, shojo ou seinen, retrouvez le meilleur de l'Anime sur Wasabi</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQO570425A_1956270607_0_20260623T130135888Z_112_imageprocessorclient-tvplus-linear-66fc4d58c8-wr9bs.jpeg" />
+    <rating>
+      <value>4</value>
+    </rating>
+  </programme>
+  <programme channel="FRBD41000051L" start="20260817160639 +0000" stop="20260817163229 +0000">
+    <title>Le vrai visage du grand Pope</title>
+    <desc>est la chaine des fans d'Anime made in Japan.  Séries cultes, nouveautés, shonen, shojo ou seinen, retrouvez le meilleur de l'Anime sur Wasabi</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQO570425A_1956270607_0_20260623T130135888Z_112_imageprocessorclient-tvplus-linear-66fc4d58c8-wr9bs.jpeg" />
+    <rating>
+      <value>4</value>
+    </rating>
   </programme>
   <programme channel="FR2900001UF" start="20260817092717 +0000" stop="20260817102801 +0000">
     <title>Call The Midwife</title>
@@ -437,23 +431,11 @@
     <desc>Cynthia a affaire à des anciens patients d'un asile psychiatrique victorien.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQO570425A_947422797_0_20250604T152424862Z_57_imageprocessorclient-tvplus-linear-6fb5b47f79-74rn7.jpeg" />
   </programme>
-  <programme channel="FRBC4700002RF" start="20260817084451 +0000" stop="20260817092812 +0000">
-    <title>Alerte à Malibu</title>
-    <sub-title>S8E5</sub-title>
-    <desc>April a du mal à gérer le cancer en phase terminale de son frère, mais Mitch l'aide à se rendre compte à quel point Charlie est spécial à ses yeux. Mitch et Hobie assurent au jeune garçon les meilleurs derniers jours de sa vie. Mitch et Hobie s'affronten</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_1179483094_0_20250908T112241587Z_115_imageprocessorclient-tvplus-linear-5db7c6bc99-fc88h.jpeg" />
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme>
-  <programme channel="FRBC4700002RF" start="20260817092812 +0000" stop="20260817101132 +0000">
-    <title>Alerte à Malibu</title>
-    <sub-title>S8E6</sub-title>
-    <desc>Caroline est de retour, et elle veut découvrir ce qu'elle veut vraiment faire de sa vie. Les sauveteurs sont importunés par un journaliste louche qui en sait beaucoup trop.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_1179483095_2_20250908T112231758Z_70_imageprocessorclient-tvplus-linear-5db7c6bc99-x889l.jpeg" />
-    <rating>
-      <value>NA</value>
-    </rating>
+  <programme channel="FR2900001UF" start="20260817154954 +0000" stop="20260817165028 +0000">
+    <title>Call The Midwife</title>
+    <sub-title>SOS sages-femmes Saison 4, Épisode 1</sub-title>
+    <desc>Les répétitions pour le spectacle d'école et le concert de Noël vont bon train.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQO570425A_947422417_9_20250604T152426429Z_20_imageprocessorclient-tvplus-linear-6fb5b47f79-sxjm2.jpeg" />
   </programme>
   <programme channel="FRBC4700002RF" start="20260817101132 +0000" stop="20260817105452 +0000">
     <title>Alerte à Malibu</title>
@@ -518,10 +500,23 @@
       <value>NA</value>
     </rating>
   </programme>
-  <programme channel="FR2100001VM" start="20260817084532 +0000" stop="20260817093435 +0000">
-    <title>Le premier jour du reste de ta vie</title>
-    <desc>Alors qu'elle se rend à son audience, Andy, toujours suspendue, fait le lien entre une jeune fille qui disparaît mystérieusement du lieu d'un accident et une ancienne affaire non résolue.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQO570425A_974395906_0_20250613T163558593Z_42_imageprocessorclient-tvplus-linear-5db7c6bc99-2fhcs.jpeg" />
+  <programme channel="FRBC4700002RF" start="20260817151456 +0000" stop="20260817155818 +0000">
+    <title>Alerte à Malibu</title>
+    <sub-title>S8E14</sub-title>
+    <desc>Alors que des casse-cou menacent la sécurité des surfeurs, un drame plus personnel se joue sur la plage.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_1179507957_11_20250908T112232172Z_58_imageprocessorclient-tvplus-linear-5db7c6bc99-cj6j4.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="FRBC4700002RF" start="20260817155818 +0000" stop="20260817164139 +0000">
+    <title>Alerte à Malibu</title>
+    <sub-title>S8E15</sub-title>
+    <desc>Cody, JD, et Lani tente de se faire un peu d'argent en pêchant des oursins, mais lorsqu'un autre plongeur a des problèmes, Lani vole à son secours, et se perce les tympans. Elle perd l'audition, peut-être même pour de bon.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_1179520397_5_20250908T112228269Z_65_imageprocessorclient-tvplus-linear-5db7c6bc99-sn6xc.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
   </programme>
   <programme channel="FR2100001VM" start="20260817093435 +0000" stop="20260817102328 +0000">
     <title>L'école est finie</title>
@@ -558,17 +553,15 @@
     <desc>Lors d'une enquête sur une série de disparitions d'escort-girls, Gail part en infiltration. Mais Dov et Chris découvrent qu'il s'agit de l'œuvre d'un tueur qui pourrait s'en prendre à Gail.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQO570425A_974395906_0_20250613T163558593Z_42_imageprocessorclient-tvplus-linear-5db7c6bc99-2fhcs.jpeg" />
   </programme>
-  <programme channel="FR300011G9" start="20260817082310 +0000" stop="20260817092037 +0000">
-    <title>Duval &amp; Moretti S1E11</title>
-    <sub-title>Freres D'Ames</sub-title>
-    <desc>Duval et Moretti enquêtent sur la mort du célèbre chirurgien esthétique Laurent Duplessis. Tout semble indiquer que Siloff, un criminel qu'ils pensaient mort dans un accident de la route, est toujours en vie et serait même impliqué dans le meurtre de Laurent Duplessi... Duval et Moretti interrogent Mathilde Duplessis, la veuve du chirurgien, mais en vain... Cacherait-elle des informations capitales ?</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_1930964118_3_20260614T035458125Z_15_imageprocessorclient-tvplus-linear-66fc4d58c8-wg5j2.png" />
+  <programme channel="FR2100001VM" start="20260817151626 +0000" stop="20260817160524 +0000">
+    <title>À cours de temps</title>
+    <desc>Gail se fait enlever par un possible tueur en série. En suivant les pistes d'affaires similaires, les agents retrouvent les traces du meurtrier, mais sont contraints de faire un sacrifice.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQO570425A_974395906_0_20250613T163558593Z_42_imageprocessorclient-tvplus-linear-5db7c6bc99-2fhcs.jpeg" />
   </programme>
-  <programme channel="FR300011G9" start="20260817092037 +0000" stop="20260817101633 +0000">
-    <title>Duval &amp; Moretti S1E12</title>
-    <sub-title>Paloma En Danger</sub-title>
-    <desc>Léo Sauvage, un dangereux criminel, s'est évadé de prison avec une seule idée en tête : tuer Paloma... Duval et Moretti prennent personnellement en charge la sécurité de leur patronne. Pendant ce temps, Paloma est dévastée : le seul témoin du procès, Lorenzi, a été tué dans une embuscade et l'un de ses hommes est mort en tentant de le protéger. Et s'il y avait un lien entre Léo Sauvage et Lorenzi ?</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_1930964119_1_20260614T035454908Z_41_imageprocessorclient-tvplus-linear-66fc4d58c8-nbtjg.png" />
+  <programme channel="FR2100001VM" start="20260817160524 +0000" stop="20260817165427 +0000">
+    <title>Cyber-confort</title>
+    <desc>Lorsqu'un ordinateur de la police contenant des informations sensibles est volé, les recrues, encore choquées de la mort d'un des leurs, découvrent qu'un informateur risque d'être compromis.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQO570425A_974395906_0_20250613T163558593Z_42_imageprocessorclient-tvplus-linear-5db7c6bc99-2fhcs.jpeg" />
   </programme>
   <programme channel="FR300011G9" start="20260817101633 +0000" stop="20260817111339 +0000">
     <title>Duval &amp; Moretti S1E13</title>
@@ -606,10 +599,11 @@
     <desc>Duval et Moretti travaillent sur une affaire de faux billets et soupçonnent Tarek, un dangereux trafiquant. Nico Moretti débarque alors à Paris et s'installe chez son frère. David est ravi de l'héberger, mais un peu moins quand Nico lui avoue avoir des dettes... Aurait-il replongé ? David Moretti s'inquiète, et pour ne rien arranger, Tarek reste introuvable.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_1930982865_3_20260614T035455079Z_1_imageprocessorclient-tvplus-linear-66fc4d58c8-wg5j2.png" />
   </programme>
-  <programme channel="FRBD41000124S" start="20260817084936 +0000" stop="20260817100833 +0000">
-    <title>Le Soleil du Maître Ep.7</title>
-    <desc>Joo Joong-won qui pense que Tae Gong-sil et Kang Woo ont un rendez-vous est en colère et jaloux.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_KRPBA3501QY_1254074184_0_20251013T053159294Z_54_imageprocessorclient-tvplus-linear-5db7c6bc99-kqq7k.jpeg" />
+  <programme channel="FR300011G9" start="20260817155955 +0000" stop="20260817165722 +0000">
+    <title>Duval &amp; Moretti S1E11</title>
+    <sub-title>Freres D'Ames</sub-title>
+    <desc>Duval et Moretti enquêtent sur la mort du célèbre chirurgien esthétique Laurent Duplessis. Tout semble indiquer que Siloff, un criminel qu'ils pensaient mort dans un accident de la route, est toujours en vie et serait même impliqué dans le meurtre de Laurent Duplessi... Duval et Moretti interrogent Mathilde Duplessis, la veuve du chirurgien, mais en vain... Cacherait-elle des informations capitales ?</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_1930964118_3_20260614T035458125Z_15_imageprocessorclient-tvplus-linear-66fc4d58c8-wg5j2.png" />
   </programme>
   <programme channel="FRBD41000124S" start="20260817100833 +0000" stop="20260817112757 +0000">
     <title>Le Soleil du Maître Ep.8</title>
@@ -631,13 +625,10 @@
     <desc>Tae Gong-sil qui ne sait pas si la confession d'amour de Joo Joong-won était une blague ou non est ravi d'être invité à un rendez-vous.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_KRPBA3501QY_1254074153_0_20251013T053207794Z_81_imageprocessorclient-tvplus-linear-5db7c6bc99-kqq7k.jpeg" />
   </programme>
-  <programme channel="FRAJ38000089S" start="20260817085548 +0000" stop="20260817094407 +0000">
-    <title>Le médaillon</title>
-    <desc>Le 02 octobre 1864. Corcoran découvre un nouvel élément qui lui fournit des indices sur l'assassinat de sa fille et la mystérieuse disparition de sa femme.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQU352135A_2042372618_4_20260723T183251519Z_121_imageprocessorclient-tvplus-linear-648598f6b5-lvf64.jpeg" />
-    <rating>
-      <value>10</value>
-    </rating>
+  <programme channel="FRBD41000124S" start="20260817152618 +0000" stop="20260817164557 +0000">
+    <title>Le Soleil du Maître Ep.12</title>
+    <desc>Joo Joong-won se rend chez Tae Gong-sil qui insiste pour que leur premier rendez-vous ait lieu chez lui. Pendant ce temps Joo Song-ran tente de se débarrasser de Tae Gong-sil qui s'accroche à son neveu.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_KRPBA3501QY_1254075286_0_20251013T053209773Z_44_imageprocessorclient-tvplus-linear-5db7c6bc99-kqq7k.jpeg" />
   </programme>
   <programme channel="FRAJ38000089S" start="20260817094407 +0000" stop="20260817103312 +0000">
     <title>Pilot</title>
@@ -695,13 +686,20 @@
       <value>10</value>
     </rating>
   </programme>
-  <programme channel="FR2600009UG" start="20260817083118 +0000" stop="20260817093654 +0000">
-    <title>Bron</title>
-    <sub-title>S2:E1 Épisode 1</sub-title>
-    <desc>S2:E1 Épisode 1 - Treize mois se sont écoulés depuis l'affaire impliquant la famille de Martin Rohde. Un nouvel événement inquiétant survenu à la frontière lui donne l'occasion de faire à nouveau équipe avec Saga Norén, son homologue suédoise : un navire abandonné est venu s'échouer au pont de l'Øresund.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_DEQY451056A_1493318411_0_20251230T061530425Z_102_imageprocessorclient-tvplus-linear-85d7d49859-b9h9w.jpeg" />
+  <programme channel="FRAJ38000089S" start="20260817152140 +0000" stop="20260817160916 +0000">
+    <title>Secrets, illusions et malentendus</title>
+    <desc>Passé : Louise est enceinte. Vincent, fou de joie, se demande si Louise peut mettre au monde un enfant dans un pareil contexte. Présent : Après une révélation d'Aidrian, Charlotte refuse de croire que son père est un assassin. La cause de la mort de Loulou est mise en doute.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQU352135A_2099667914_0_20260812T193127375Z_83_imageprocessorclient-tvplus-linear-648598f6b5-zjk94.jpeg" />
     <rating>
-      <value>16</value>
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme channel="FRAJ38000089S" start="20260817160916 +0000" stop="20260817165821 +0000">
+    <title>Pilot</title>
+    <desc>Hayes Morrison est la fille de l'ancien président des États-Unis. Après avoir grandi sous les regards du public, la brillante avocate diplômée de Harvard a aussi collectionné les unes de la presse pour ses frasques à répétition.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQU352135A_2078871736_0_20260805T132034701Z_117_imageprocessorclient-tvplus-linear-648598f6b5-ptnmp.jpeg" />
+    <rating>
+      <value>10</value>
     </rating>
   </programme>
   <programme channel="FR2600009UG" start="20260817093654 +0000" stop="20260817104232 +0000">
@@ -748,27 +746,6 @@
     <rating>
       <value>16</value>
     </rating>
-  </programme>
-  <programme channel="FR4000005KE" start="20260817085558 +0000" stop="20260817091857 +0000">
-    <title>Skyrock</title>
-    <sub-title>100% Clips</sub-title>
-    <desc>Skyrock 100% Clips</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQO570425A_1850378479_0_20260514T141804763Z_25_imageprocessorclient-tvplus-linear-665b769d5c-2xt4g.jpeg" />
-  </programme>
-  <programme channel="FR4000005KE" start="20260817091857 +0000" stop="20260817092335 +0000">
-    <title>DIE FOR YOU</title>
-    <desc />
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQO570425A_1909655195_0_20260606T060854858Z_1_imageprocessorclient-tvplus-linear-66fc4d58c8-clf5x.jpeg" />
-  </programme>
-  <programme channel="FR4000005KE" start="20260817092335 +0000" stop="20260817094901 +0000">
-    <title>Le meilleur de la musique urbaine</title>
-    <desc>Le meilleur de la musique urbaine</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQO570425A_1850369923_0_20260514T141805865Z_103_imageprocessorclient-tvplus-linear-665b769d5c-2xt4g.jpeg" />
-  </programme>
-  <programme channel="FR4000005KE" start="20260817094901 +0000" stop="20260817101633 +0000">
-    <title>Rap&amp;RnB Non Stop</title>
-    <desc>Rap&amp;RnB Non Stop</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQO570425A_1850365892_0_20260514T141804766Z_18_imageprocessorclient-tvplus-linear-665b769d5c-2xt4g.jpeg" />
   </programme>
   <programme channel="FR4000005KE" start="20260817101633 +0000" stop="20260817103933 +0000">
     <title>Skyrock</title>
@@ -848,13 +825,21 @@
     <desc>Rap&amp;RnB Non Stop</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQO570425A_1850365892_0_20260514T141804766Z_18_imageprocessorclient-tvplus-linear-665b769d5c-2xt4g.jpeg" />
   </programme>
-  <programme channel="FRBC2100001YY" start="20260817090000 +0000" stop="20260817100000 +0000">
-    <title>Essentiels Pop</title>
-    <desc>Le meilleur de la pop sur la dernière décennie.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_1091154425_0_20250728T084916727Z_53_imageprocessorclient-tvplus-linear-5db7c6bc99-sn6xc.png" />
-    <rating>
-      <value>NA</value>
-    </rating>
+  <programme channel="FR4000005KE" start="20260817152828 +0000" stop="20260817155128 +0000">
+    <title>Skyrock</title>
+    <sub-title>100% Clips</sub-title>
+    <desc>Skyrock 100% Clips</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQO570425A_1850378479_0_20260514T141804763Z_25_imageprocessorclient-tvplus-linear-665b769d5c-2xt4g.jpeg" />
+  </programme>
+  <programme channel="FR4000005KE" start="20260817155128 +0000" stop="20260817161009 +0000">
+    <title>Urban Music Non Stop</title>
+    <desc>Urban Music Non Stop</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQO570425A_1850376949_0_20260514T141804763Z_1_imageprocessorclient-tvplus-linear-665b769d5c-2xt4g.jpeg" />
+  </programme>
+  <programme channel="FR4000005KE" start="20260817161009 +0000" stop="20260817163310 +0000">
+    <title>Premier sur le Rap</title>
+    <desc>Premier sur le Rap</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQO570425A_1850352284_0_20260514T141804888Z_31_imageprocessorclient-tvplus-linear-665b769d5c-2xt4g.jpeg" />
   </programme>
   <programme channel="FRBC2100001YY" start="20260817100000 +0000" stop="20260817103000 +0000">
     <title>Hits de l'Été 2026</title>
@@ -912,10 +897,10 @@
       <value>NA</value>
     </rating>
   </programme>
-  <programme channel="FRBC2100002JA" start="20260817090000 +0000" stop="20260817100000 +0000">
-    <title>100% Pop Urbaine</title>
-    <desc>Le meilleur de la pop urbaine !</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_1090613513_0_20250728T060456633Z_120_imageprocessorclient-tvplus-linear-5db7c6bc99-t7nzf.png" />
+  <programme channel="FRBC2100001YY" start="20260817160000 +0000" stop="20260817170000 +0000">
+    <title>Top Hits France</title>
+    <desc>Les hits du moment !</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_1091154438_0_20250728T084908636Z_83_imageprocessorclient-tvplus-linear-5db7c6bc99-sn6xc.png" />
     <rating>
       <value>NA</value>
     </rating>
@@ -968,10 +953,10 @@
       <value>NA</value>
     </rating>
   </programme>
-  <programme channel="FRBD1900013CB" start="20260817090000 +0000" stop="20260817100000 +0000">
-    <title>Hits Incontournables</title>
-    <desc>Une sélection des titres emblématiques qui ont fait vibrer l'Hexagone.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_1091176366_0_20250728T092541230Z_79_imageprocessorclient-tvplus-linear-5db7c6bc99-8fzp6.png" />
+  <programme channel="FRBC2100002JA" start="20260817160000 +0000" stop="20260817170000 +0000">
+    <title>Fresh Hits</title>
+    <desc>Les sons les plus chauds du moment.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_1090613453_0_20250728T060458379Z_18_imageprocessorclient-tvplus-linear-5db7c6bc99-t7nzf.png" />
     <rating>
       <value>NA</value>
     </rating>
@@ -1024,10 +1009,10 @@
       <value>NA</value>
     </rating>
   </programme>
-  <programme channel="FR2500001BS" start="20260817085903 +0000" stop="20260817100017 +0000">
-    <title>Selena Gomez &amp; Gracie Abrams Vol.1</title>
-    <desc>The defining tracks of Selena Gomez and Gracie Abrams, back to back</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_2105080818_1_20260814T160527691Z_121_imageprocessorclient-tvplus-linear-648598f6b5-554ml.jpeg" />
+  <programme channel="FRBD1900013CB" start="20260817160000 +0000" stop="20260817170000 +0000">
+    <title>Hits Incontournables</title>
+    <desc>Une sélection des titres emblématiques qui ont fait vibrer l'Hexagone.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_1091176366_0_20250728T092541230Z_79_imageprocessorclient-tvplus-linear-5db7c6bc99-8fzp6.png" />
     <rating>
       <value>NA</value>
     </rating>
@@ -1080,11 +1065,13 @@
       <value>NA</value>
     </rating>
   </programme>
-  <programme channel="FR1700002OZ" start="20260817085026 +0000" stop="20260817094917 +0000">
-    <title>YG MV Special</title>
-    <sub-title>Performance Special Part.2 Ep.12</sub-title>
-    <desc>A uniquely curated playlist features an unrivaled blend of performance videos from YG Entertainment, highlighting powerful choreography and stage presence.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_KRPBA3501QY_1712074492_0_20260320T081705730Z_22_imageprocessorclient-tvplus-linear-74d4c47476-lnxhz.jpeg" />
+  <programme channel="FR2500001BS" start="20260817155010 +0000" stop="20260817165008 +0000">
+    <title>Sabrina Station Vol.2</title>
+    <desc>Sabrina Carpenter's iconic hits, all in one place</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_2081577698_1_20260806T114538764Z_64_imageprocessorclient-tvplus-linear-648598f6b5-9g2xj.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
   </programme>
   <programme channel="FR1700002OZ" start="20260817094917 +0000" stop="20260817105939 +0000">
     <title>Inkigayo Ep.1262</title>
@@ -1093,7 +1080,7 @@
   </programme>
   <programme channel="FR1700002OZ" start="20260817105939 +0000" stop="20260817120410 +0000">
     <title>SBS Music Awards 2024: Summer Ep.33</title>
-    <desc>Line up: JANNABI / NCT WISH / WOOAH / ILLIT / KISS OF LIFE / xikers / CRAVITY / ONF / ZEROBASEONE / NMIXX / LEE YOUNG JI / NewJeans / STAYC / TXT (YEONJUN X SOOBIN) / LE SSERAFIM / IVE / ENHYPEN / TOMORROW X TOGETHER / (G)I-DLE / Stray Kids / NCT127Enjoy 2024 the best performances of KPOP artists at SBS music show!*Cover stages could have been removed due to copyright issues.</desc>
+    <desc>*Cover stages could have been removed due to copyright issues.Enjoy 2024 the best performances of KPOP artists at SBS music show!Line up: JANNABI / NCT WISH / WOOAH / ILLIT / KISS OF LIFE / xikers / CRAVITY / ONF / ZEROBASEONE / NMIXX / LEE YOUNG JI / NewJeans / STAYC / TXT (YEONJUN X SOOBIN) / LE SSERAFIM / IVE / ENHYPEN / TOMORROW X TOGETHER / (G)I-DLE / Stray Kids / NCT127</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_KRPBA3501QY_1185246462_0_20250911T011403393Z_1_imageprocessorclient-tvplus-linear-5db7c6bc99-p9nvg.png" />
   </programme>
   <programme channel="FR1700002OZ" start="20260817120410 +0000" stop="20260817123802 +0000">
@@ -1116,10 +1103,10 @@
     <desc>BTS / iKON / THE BOYZ / Dreamcatcher / KARD / IZ*ONE / Weki Meki / LOONA / Rocket Punch / cignature / EVERGLOW / ELRIS / MCND / Chun Dan Bi / Cherry Bullet / PENTAGON</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_KRPBA3501QY_969455072_0_20250612T005637917Z_38_imageprocessorclient-tvplus-linear-5db7c6bc99-mwszk.png" />
   </programme>
-  <programme channel="FR3900001AC" start="20260817081239 +0000" stop="20260817091607 +0000">
-    <title>M COUNTDOWN EP 936</title>
-    <desc>World's No.1 K-POP Music Chart Show! LINEUP: VAYONN, AHOF, IDID, Hearts2Hearts, Choi Yoo-jung, i-dle</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_2095547294_0_20260811T103202672Z_45_imageprocessorclient-tvplus-linear-648598f6b5-lxd9l.jpeg" />
+  <programme channel="FR1700002OZ" start="20260817161620 +0000" stop="20260817173024 +0000">
+    <title>Inkigayo Ep.1145</title>
+    <desc>SUNMI / WINNER / VIVIZ / HUTA / WJSN / DAWN / fromis_9 / ENHYPEN / MCND / bugAboo / DRIPPIN / PIXY / H1-KEY / TAN / IRRIS / Hwang Woo Lim</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_KRPBA3501QY_981432983_0_20250616T004227873Z_66_imageprocessorclient-tvplus-linear-5db7c6bc99-trv6z.png" />
   </programme>
   <programme channel="FR3900001AC" start="20260817091607 +0000" stop="20260817104106 +0000">
     <title>M COUNTDOWN EP 937</title>
@@ -1156,13 +1143,15 @@
     <desc>Masters of Detail Girl Group Performances | New Tracks H2 2025</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_1806739224_2_20260427T044221257Z_42_imageprocessorclient-tvplus-linear-74d4c47476-6hqjg.jpeg" />
   </programme>
-  <programme channel="FR220000105" start="20260817065033 +0000" stop="20260817091321 +0000">
-    <title>A battle of wits</title>
-    <desc>Une fresque retraçant la série de guerres civiles qui construisit la nation chinoise du cinquième siècle au troisième siècle avant J-C.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_1829967715_5_20260506T114737670Z_132_imageprocessorclient-tvplus-linear-74d4c47476-mfp7n.jpeg" />
-    <rating>
-      <value>NA</value>
-    </rating>
+  <programme channel="FR3900001AC" start="20260817152257 +0000" stop="20260817155700 +0000">
+    <title>Character On Point 😎 Boy Group Performances | New Tracks H2 2025</title>
+    <desc>Character On Point Boy Group Performances | New Tracks H2 2025</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_1806756594_2_20260427T044221257Z_57_imageprocessorclient-tvplus-linear-74d4c47476-6hqjg.jpeg" />
+  </programme>
+  <programme channel="FR3900001AC" start="20260817155700 +0000" stop="20260817163952 +0000">
+    <title>The Art of Performance: K-POP's Most Conceptual Stages</title>
+    <desc>The Art of Performance: K-POP's Most Conceptual Stages</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_1806701322_6_20260427T044224288Z_90_imageprocessorclient-tvplus-linear-74d4c47476-qgk7g.jpeg" />
   </programme>
   <programme channel="FR220000105" start="20260817091321 +0000" stop="20260817111320 +0000">
     <title>Mutant chronicles</title>
@@ -1188,36 +1177,12 @@
       <value>NA</value>
     </rating>
   </programme>
-  <programme channel="FRBA1000009KO" start="20260817090828 +0000" stop="20260817091841 +0000">
-    <title>L'Entretien</title>
-    <desc>Il ne reste plus aucun homme sur Terre, seulement les robots d'entretien qu'ils avaient programmés. Mikki, le robot de l'Opéra Garnier n'échappe pas à la règle et s'affaire à ses tâches ménagères quotidiennes. Tous les soirs, à la tombée de la nuit, il projette sur la scène les images mystérieuses d'une danseuse, comme son dernier souvenir de l'humanité</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQU352137A_487302077_1_20231229T173134608Z_144.jpeg" />
+  <programme channel="FR220000105" start="20260817152648 +0000" stop="20260817171215 +0000">
+    <title>Border run</title>
+    <desc>Une reporter américaine à la recherche de son frère disparu se retrouve au cœur d'un trafic humain à la frontière du Mexique.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_1829978071_25_20260506T114736142Z_59_imageprocessorclient-tvplus-linear-74d4c47476-msdmr.jpeg" />
     <rating>
-      <value>3</value>
-    </rating>
-  </programme>
-  <programme channel="FRBA1000009KO" start="20260817091841 +0000" stop="20260817094802 +0000">
-    <title>Adieu Molitor</title>
-    <desc>Michel est un espoir déçu du football qui n'a pas toujours tiré un trait sur ses rêves de gloire. Au jour le jour, il trouve refuge dans un prolongement poussif de son adolescence pleine de promesse et tente de ranimer les fantômes d'un passé à jamais révolu.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQU352137A_487277500_1_20231228T173233331Z_136.jpeg" />
-    <rating>
-      <value>3</value>
-    </rating>
-  </programme>
-  <programme channel="FRBA1000009KO" start="20260817094802 +0000" stop="20260817100003 +0000">
-    <title>Eclipse</title>
-    <desc>Eclipse est un poème visuel qui montre l'intimité d'un couple dans les heures précédant la naissance de leur premier enfant. Le passé présent et le futur sont mélangés dans une série d'images qui évoquent la solitude de ces deux-là dans un espace familial et tour à tour exotique. En attendant l'arrivée du nouvel être, un événement marquera le début de cette nouvelle étape. Une éclipse lunaire sera le point de départ d'un changement de paradigme dans la nouvelle famille.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQU352137A_487277502_0_20231228T173241455Z_68.jpeg" />
-    <rating>
-      <value>3</value>
-    </rating>
-  </programme>
-  <programme channel="FRBA1000009KO" start="20260817100003 +0000" stop="20260817101127 +0000">
-    <title>Veuillez ne pas tenter d'ouvrir les portes</title>
-    <desc>Un train, immobilisé, de nuit, en pleine campagne. Un accident semble s'être produit. Les passagers ont été évacués, l'enquête est close, le trafic va reprendre lorsqu'un spécialiste parvient sur les lieux. Il a quinze minutes pour reconstituer les circonstances de l'accident et aboutir à sa propre conclusion.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQU352137A_487277508_1_20231228T173240917Z_64.jpeg" />
-    <rating>
-      <value>3</value>
+      <value>NA</value>
     </rating>
   </programme>
   <programme channel="FRBA1000009KO" start="20260817101127 +0000" stop="20260817103914 +0000">
@@ -1404,12 +1369,20 @@
       <value>3</value>
     </rating>
   </programme>
-  <programme channel="FRBB39000020C" start="20260817081219 +0000" stop="20260817101021 +0000">
-    <title>Midnight Heat</title>
-    <desc>Un banquier amnésique se cache de la police lorsqu'il est accusé du meurtre de sa femme.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_496702002_15_20240626T122616348Z_61.jpeg" />
+  <programme channel="FRBA1000009KO" start="20260817151835 +0000" stop="20260817154443 +0000">
+    <title>Un métier bien</title>
+    <desc>Alors qu'elle vit ses derniers instants, Hakim promet à sa mère qu'il va changer, devenir un autre homme, et trouver, enfin, un métier bien.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQU352137A_487277531_1_20231228T173233330Z_1.jpeg" />
     <rating>
-      <value>12</value>
+      <value>3</value>
+    </rating>
+  </programme>
+  <programme channel="FRBA1000009KO" start="20260817154443 +0000" stop="20260817163002 +0000">
+    <title>Yo! Pekin</title>
+    <desc>Le groupe de pop-rappée franco-californien Naive New Beaters crée le buzz en Chine avec une video de danse « Quan Chang Wu » tournée devant la tour Eiffel. Invités par les autorités, David Boring et ses acolytes atterrissent dans la ferveur et la pollution du pays du panda. Mais très vite, leur périple vire au drame diplomatico-politique. Yo! Pekin, le premier « docu-fiction-film d'action-film de vacances »</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQU352137A_487277536_0_20231228T173233356Z_154.jpeg" />
+    <rating>
+      <value>3</value>
     </rating>
   </programme>
   <programme channel="FRBB39000020C" start="20260817101021 +0000" stop="20260817120512 +0000">
@@ -1434,6 +1407,14 @@
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_496702788_6_20240626T122614440Z_37.jpeg" />
     <rating>
       <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="FRBB39000020C" start="20260817154102 +0000" stop="20260817171728 +0000">
+    <title>Le Dernier Tueur à Gage</title>
+    <desc>Harry, un tueur à gages vieillissant, vient de faire échouer une mission et est maintenant la cible. Sa fille, qui travaille également comme tueuse à gages, est elle aussi prise pour cible. Un jeune tueur à gages, Billy, est envoyé pour éliminer Harry, mais ils forment une alliance difficile...</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_716156727_0_20250315T001852103Z_107_imageprocessorclient-tvplus-linear-6fb5b47f79-8cn77.jpeg" />
+    <rating>
+      <value>NA</value>
     </rating>
   </programme>
   <programme channel="FR13000020W" start="20260817090956 +0000" stop="20260817110024 +0000">
@@ -1480,13 +1461,12 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme channel="FR42000023H" start="20260817074233 +0000" stop="20260817094724 +0000">
-    <title>Tyler Perry's The Single Moms Club</title>
-    <desc>Quand cinq mères célibataires en difficulté mettent de côté leurs différences pour créer un groupe de soutien, elles trouvent l'inspiration et la bonne humeur dans leur nouvelle association de femmes, et s'entraident à surmonter les obstacles qui se dressent sur leur chemin.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQO570425A_1408813123_0_20251205T013956078Z_97_imageprocessorclient-tvplus-linear-85d7d49859-s72h4.jpeg" />
-    <episode-num system="onscreen">S07E02</episode-num>
+  <programme channel="FR2600007CB" start="20260817155123 +0000" stop="20260817181121 +0000">
+    <title>Cyrano</title>
+    <desc>Peter Dinklage joue dans cette réinterprétation de la fable intemporelle sur un triangle amoureux, une symphonie de musique, romance et beauté !</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_DEQY451056A_1806661091_0_20260427T044221135Z_43_imageprocessorclient-tvplus-linear-74d4c47476-8p8x2.jpeg" />
     <rating>
-      <value>12</value>
+      <value>16</value>
     </rating>
   </programme>
   <programme channel="FR42000023H" start="20260817094724 +0000" stop="20260817115157 +0000">
@@ -1511,13 +1491,10 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme channel="FRAJ3800002W5" start="20260817075220 +0000" stop="20260817092825 +0000">
-    <title>Best Defense</title>
-    <desc>Dudley Moore et Eddie Murphy font partie du casting de cette aventure à la pointe de la technologie qui fait reculer la guerre moderne de plusieurs centaines d'années.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQU352135A_1914125995_0_20260607T200340940Z_76_imageprocessorclient-tvplus-linear-66fc4d58c8-xvsvj.jpeg" />
-    <rating>
-      <value>10</value>
-    </rating>
+  <programme channel="FR42000023H" start="20260817155712 +0000" stop="20260817180144 +0000">
+    <title>Le prince et moi</title>
+    <desc>Paige découvre avec stupeur que l'homme dont elle est tombée amoureuse est un prince. Les choses se compliquent lorsque le roi renonce à son rôle et force alors son amoureux à prendre le trône. Paige doit maintenant prendre une décision difficile : suivre sa carrière ou son cœur.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQO570425A_2063110833_0_20260731T021058663Z_1_imageprocessorclient-tvplus-linear-648598f6b5-lxd9l.jpeg" />
   </programme>
   <programme channel="FRAJ3800002W5" start="20260817092825 +0000" stop="20260817111919 +0000">
     <title>The Weather Man</title>
@@ -1551,14 +1528,6 @@
       <value>10</value>
     </rating>
   </programme>
-  <programme channel="FRBC9000041F" start="20260817080800 +0000" stop="20260817100500 +0000">
-    <title>The Big Ugly</title>
-    <desc>Les relations anglo-américaines se détériorent quand des mafieux londoniens investissent en Virginie.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQO570425A_733576369_0_20250321T055214946Z_1_imageprocessorclient-tvplus-linear-6fb5b47f79-jlmsc.jpeg" />
-    <rating>
-      <value>12</value>
-    </rating>
-  </programme>
   <programme channel="FRBC9000041F" start="20260817100500 +0000" stop="20260817110700 +0000">
     <title>Écran Large Ep.4</title>
     <desc>Écran Large : actu ciné, séries, comics, jeux vidéo</desc>
@@ -1587,6 +1556,11 @@
       <value>12</value>
     </rating>
   </programme>
+  <programme channel="FRBC9000041F" start="20260817155700 +0000" stop="20260817164400 +0000">
+    <title>Écran Large Ep.8</title>
+    <desc>Écran Large : actu ciné, séries, comics, jeux vidéo</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQO570425A_1378214555_0_20251126T034034860Z_1_imageprocessorclient-tvplus-linear-85d7d49859-twtwh.jpeg" />
+  </programme>
   <programme channel="FR2600003OZ" start="20260817090435 +0000" stop="20260817112726 +0000">
     <title>Ce que veulent les femmes</title>
     <desc>Nick Marshall est LE macho à l'américaine! La clope au bec, toujours bien rasé, les abdos hyper dessinés, ce qu'il faut de poils, un regard à tomber par terre, et bien sûr le sourire éclatant laissant entrevoir ses dents d'une blancheur étincelante.</desc>
@@ -1611,12 +1585,12 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme channel="FRBB340000115" start="20260817074606 +0000" stop="20260817094513 +0000">
-    <title>La mémoire de mon pays</title>
-    <desc>Langston Whitfield est journaliste au Washington Post. Son rédacteur en chef l'envoie en Afrique du Sud pour couvrir les audiences de la Commission Vérité et Réconciliation, où les auteurs de meurtres et de tortures des deux camps durant l'Apartheid sont invités à se présenter et à affronter leurs victimes. En disant la vérité sans fard et en exprimant des remords, ils peuvent obtenir l'amnistie. Les profondes blessures de l'Apartheid peuvent-elles être guéries par la réconciliation ?</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_1846329813_24_20260513T001742833Z_54_imageprocessorclient-tvplus-linear-665b769d5c-7t5dv.jpeg" />
+  <programme channel="FR2600003OZ" start="20260817152015 +0000" stop="20260817171848 +0000">
+    <title>Juste un peu d'alchimie</title>
+    <desc>Oli tombe amoureuse d'Eric, une étoile brillante du cinéma et de la télévision. Elle va vivre une merveilleuse romance dans un monde de glamour.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_DEQY451056A_521140033_1_20241219T032128808Z_139_imageprocessorclient-tvplus-linear-7cd5d896cc-g6qbr.jpeg" />
     <rating>
-      <value>12</value>
+      <value>16</value>
     </rating>
   </programme>
   <programme channel="FRBB340000115" start="20260817094513 +0000" stop="20260817113348 +0000">
@@ -1649,14 +1623,6 @@
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_1764574386_0_20260410T021041140Z_41_imageprocessorclient-tvplus-linear-74d4c47476-wwwxj.jpeg" />
     <rating>
       <value>12</value>
-    </rating>
-  </programme>
-  <programme channel="FRBB50000016B" start="20260817080000 +0000" stop="20260817100000 +0000">
-    <title>Beatles: How The Beatles Changed The World</title>
-    <desc>Une nouvelle vision de la révolution culturelle inspirée par le groupe le plus important de tous les temps.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_511530714_0_20241115T002025719Z_1_imageprocessorclient-tvplus-linear-7cd5d896cc-x6dc5.jpeg" />
-    <rating>
-      <value>NA</value>
     </rating>
   </programme>
   <programme channel="FRBB50000016B" start="20260817100000 +0000" stop="20260817121500 +0000">
@@ -1699,6 +1665,14 @@
       <value>NA</value>
     </rating>
   </programme>
+  <programme channel="FRBB50000016B" start="20260817160000 +0000" stop="20260817180000 +0000">
+    <title>Beatles: How The Beatles Changed The World</title>
+    <desc>Une nouvelle vision de la révolution culturelle inspirée par le groupe le plus important de tous les temps.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_511530714_0_20241115T002025719Z_1_imageprocessorclient-tvplus-linear-7cd5d896cc-x6dc5.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
   <programme channel="FR300009JQ" start="20260817085405 +0000" stop="20260817110934 +0000">
     <title>Tootsie</title>
     <desc>Michael est un comédien talentueux mais sans travail. Quand sa petite amie, Sandy, rate une audition pour un feuilleton télé, il se travestit en femme et obtient le rôle sous le nom de Dorothy Michaels. Il devient rapidement le confident de Julie, l'actrice avec qui il partage la vedette. Mais il en tombe bientôt amoureux et malheureusement, le père de Julie tombe aussi amoureux... de Dorothy.</desc>
@@ -1714,6 +1688,11 @@
     <title>Multiplicity</title>
     <desc>Doug Kinney, contremaitre dans une entreprise de construction, est gagne par le stress. Son travail ne lui laisse aucun repit et il a a peine le temps de voir sa femme et ses deux enfants, qu'il adore. Il trouve une solution a tous ces problemes quand il fait la connaissance d'un chercheur en genetique qui lui propose de creer un clone, un autre lui-meme.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_1135781075_0_20250818T125445338Z_15_imageprocessorclient-tvplus-linear-5db7c6bc99-q6tkt.png" />
+  </programme>
+  <programme channel="FR300009JQ" start="20260817152134 +0000" stop="20260817172406 +0000">
+    <title>Ma Mère Et Moi</title>
+    <desc>Récemment veuve, Marnie Minervini n'en demeure pas moins une éternelle optimiste. Elle déménage à Hollywood pour se rapprocher de sa fille, et peu à peu, se fait à l'idée de sortir à nouveau avec des hommes.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_1564235897_0_20260121T035245632Z_132_imageprocessorclient-tvplus-linear-85d7d49859-7ft59.png" />
   </programme>
   <programme channel="FR26000068C" start="20260817084150 +0000" stop="20260817104627 +0000">
     <title>Made in America</title>
@@ -1747,15 +1726,6 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme channel="FRBD19000095S" start="20260817090214 +0000" stop="20260817100108 +0000">
-    <title>Bonanza</title>
-    <sub-title>Bonanza : Prairie Sanglante</sub-title>
-    <desc>Jeb Drummond est un éleveur de moutons meurtrier qui a pris Adam en otage pour tenter de forcer Ben à lui céder une grande partie des terres du Ponderosa.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_497310692_0_20240702T233146100Z_66.jpeg" />
-    <rating>
-      <value>12</value>
-    </rating>
-  </programme>
   <programme channel="FRBD19000095S" start="20260817100108 +0000" stop="20260817114746 +0000">
     <title>Acquasanta Joe</title>
     <desc>Une bande de voleurs armés d'un canon de l'armée de l'Union dévalisent la banque où se trouve la prime du tueur Acquasanta Joe. Il se lance à leur poursuite, les croisant et les doublant sur son chemin.</desc>
@@ -1772,7 +1742,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme channel="FRBD19000095S" start="20260817133922 +0000" stop="20260817152922 +0000">
+  <programme channel="FRBD19000095S" start="20260817133922 +0000" stop="20260817152917 +0000">
     <title>Le rescapé de la vallée de la mort</title>
     <desc>Une bande d'anciens confédérés assiège un fort de la cavalerie.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_793496837_0_20250411T231723445Z_53_imageprocessorclient-tvplus-linear-6fb5b47f79-ctscq.jpeg" />
@@ -1780,12 +1750,12 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme channel="FRBB4600002K5" start="20260817075245 +0000" stop="20260817094320 +0000">
-    <title>Terreur sur l'asphalte</title>
-    <desc>Une série de meurtres mystérieux a eu lieu à Montevideo, une petite ville en Californie. La femme d'un policier s'enfuit de son mari, cherchant à divorcer. Le policier tente de se réconcilier et commence à la suivre...</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_1427527465_1_20251211T033454489Z_83_imageprocessorclient-tvplus-linear-85d7d49859-rzp2j.jpeg" />
+  <programme channel="FRBD19000095S" start="20260817152917 +0000" stop="20260817170623 +0000">
+    <title>Quintana</title>
+    <desc>Dans une province mexicaine opprimée par le diabolique gouverneur Don Juan de Leyra, le rebelle hors-la-loi Quintana est le seul gardien de la justice. Portant un poncho et se couvrant le visage d'un masque lorsqu'il est sur le sentier de la guerre, Quintana est une sorte de croisement entre Clint Eastwood et Zorro.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_496703159_17_20240626T122616366Z_122.jpeg" />
     <rating>
-      <value>16</value>
+      <value>12</value>
     </rating>
   </programme>
   <programme channel="FRBB4600002K5" start="20260817094320 +0000" stop="20260817114141 +0000">
@@ -1820,14 +1790,6 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme channel="FR4100001D0" start="20260817081127 +0000" stop="20260817100404 +0000">
-    <title>Le dernier refuge: Au revoir monde</title>
-    <desc>Alors qu'une attaque cyberterroriste plonge le monde dans le chaos, un groupe d'amis trouve refuge dans une maison de campagne. Confrontés à un avenir incertain, des tensions font surface.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_DEQY451056A_1661311298_0_20260228T064655944Z_1_imageprocessorclient-tvplus-linear-85d7d49859-h6zxg.jpeg" />
-    <rating>
-      <value>16</value>
-    </rating>
-  </programme>
   <programme channel="FR4100001D0" start="20260817100404 +0000" stop="20260817114629 +0000">
     <title>Enlèvement</title>
     <desc>À la recherche d'une femme disparue dans le Dakota du Nord, un agent du FBI et un shérif se concentrent sur son mari, un fanatique religieux, mais découvrent quelque chose de bien plus sinistre.</desc>
@@ -1852,10 +1814,13 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme channel="FR4600001FK" start="20260817085401 +0000" stop="20260817094435 +0000">
-    <title>Helix La salle blanche</title>
-    <desc>La chaine 100% science-fiction et fantastique. Zone réservée aux fans de films et séries SF : catastrophes, zombies, extraterrestres, paranormal, space opéras, vampires, mondes perdus et créatures mutantes sont au programme</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQO570425A_1580253094_0_20260128T005437470Z_1_imageprocessorclient-tvplus-linear-85d7d49859-6vm6g.jpeg" />
+  <programme channel="FR4100001D0" start="20260817154036 +0000" stop="20260817174400 +0000">
+    <title>Time Out</title>
+    <desc>Justin Timberlake et Amanda Seyfried sont les vedettes de ce thriller de science-fiction se déroulant dans un monde futur où le vieillissement s'arrête à 25 ans, et où la seule façon de rester en vie est de voler plus de temps.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_DEQY451056A_1963247971_0_20260626T035544612Z_120_imageprocessorclient-tvplus-linear-66fc4d58c8-k99g4.jpeg" />
+    <rating>
+      <value>16</value>
+    </rating>
   </programme>
   <programme channel="FR4600001FK" start="20260817094435 +0000" stop="20260817103134 +0000">
     <title>The Outpost Un trône rien qu'à nous</title>
@@ -1890,14 +1855,6 @@
     <desc>La chaine 100% science-fiction et fantastique. Zone réservée aux fans de films et séries SF : catastrophes, zombies, extraterrestres, paranormal, space opéras, vampires, mondes perdus et créatures mutantes sont au programme</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQO570425A_718146711_0_20250315T175058843Z_1_imageprocessorclient-tvplus-linear-6fb5b47f79-bbtvn.jpeg" />
   </programme>
-  <programme channel="FR3700003N4" start="20260817081500 +0000" stop="20260817101500 +0000">
-    <title>L'hôtel New Hampshire</title>
-    <desc>En 1939, Win et Mary restaurent une vieille bâtisse pour y établir l'hôtel « New-Hampshire ».</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_1963324626_2_20260626T035538764Z_63_imageprocessorclient-tvplus-linear-66fc4d58c8-jglz9.jpeg" />
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme>
   <programme channel="FR3700003N4" start="20260817101500 +0000" stop="20260817123000 +0000">
     <title>My All American</title>
     <desc>L'histoire vraie de Freddie Steinmark, star du football, qui se voit diagnostiquer un cancer.</desc>
@@ -1922,12 +1879,12 @@
       <value>NA</value>
     </rating>
   </programme>
-  <programme channel="FR2600005LH" start="20260817082557 +0000" stop="20260817101109 +0000">
-    <title>Une virée en enfer</title>
-    <desc>Deux frères embarqués dans un voyage à travers le pays utilisent leur radio CB pour faire une blague à un camionneur dérangé qui se transforme en harceleur meurtrier vengeur.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_DEQY451056A_928115604_0_20250529T015507465Z_20_imageprocessorclient-tvplus-linear-6fb5b47f79-hkn9j.jpeg" />
+  <programme channel="FR3700003N4" start="20260817160000 +0000" stop="20260817174500 +0000">
+    <title>Les évadés de Maze</title>
+    <desc>Un détenu d'une prison de haute-sécurité élabore un incroyable plan dans le but de s'évader.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_513848568_0_20241204T222127058Z_54_imageprocessorclient-tvplus-linear-7cd5d896cc-gwp7l.jpeg" />
     <rating>
-      <value>16</value>
+      <value>NA</value>
     </rating>
   </programme>
   <programme channel="FR2600005LH" start="20260817101109 +0000" stop="20260817122020 +0000">
@@ -1954,12 +1911,12 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme channel="FR3700001AG" start="20260817080000 +0000" stop="20260817100000 +0000">
-    <title>The river king</title>
-    <desc>Un jeune inspecteur de police d'une petite ville doit enquêter sur la noyade d'un étudiant.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_1249034856_0_20251010T173947549Z_61_imageprocessorclient-tvplus-linear-5db7c6bc99-p9nvg.jpeg" />
+  <programme channel="FR2600005LH" start="20260817153822 +0000" stop="20260817173603 +0000">
+    <title>Deliver us from Evil</title>
+    <desc>Un assassin se rend en Thaïlande afin de résoudre une affaire d'enlèvement. Bientôt, il se rend compte qu'il est poursuivi par un homme dont il a tué le frère.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_DEQY451056A_1804565075_0_20260426T052015863Z_28_imageprocessorclient-tvplus-linear-74d4c47476-wwwxj.jpeg" />
     <rating>
-      <value>NA</value>
+      <value>16</value>
     </rating>
   </programme>
   <programme channel="FR3700001AG" start="20260817100000 +0000" stop="20260817114500 +0000">
@@ -1986,6 +1943,14 @@
       <value>NA</value>
     </rating>
   </programme>
+  <programme channel="FR3700001AG" start="20260817160000 +0000" stop="20260817174500 +0000">
+    <title>Clean</title>
+    <desc>Un éboueur tente une vie tranquille quand il est obligé de replonger dans la violence de son passé.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_1283297989_0_20251027T033321721Z_1_imageprocessorclient-tvplus-linear-retry-69bdc5c75f-vlvvs.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
   <programme channel="FR2600002X9" start="20260817083339 +0000" stop="20260817111049 +0000">
     <title>Negociateur</title>
     <desc>Les hélicoptères de la police tournent sans relâche dans la nuit de Chicago. Au vingtième étage d'un immeuble, Danny Roman tient sous la menace d'une arme Niebaum, responsable de la police des polices, le commandant Forst, un indicateur et une secrétaire.</desc>
@@ -2006,6 +1971,14 @@
     <title>The Adventurers</title>
     <desc>Les plus grands voleurs du monde unissent leurs forces pour réaliser le casse de leur vie. Mais lorsqu'ils sont poursuivis à travers toute l'Europe par un détective français de légende, ils vont devoir passer à la vitesse supérieure.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_DEQY451056A_887157125_0_20250515T023834895Z_95_imageprocessorclient-tvplus-linear-6fb5b47f79-sxjm2.jpeg" />
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="FR2600002X9" start="20260817151512 +0000" stop="20260817164140 +0000">
+    <title>Ip Man : L'Eveil Du Maitre</title>
+    <desc>1915. Lors d'une de ses visites à Hong Kong, le jeune Ip man empêche une tentative d'enlèvement, déclenchant sans le vouloir une guerre avec un impitoyable réseau de trafic d'êtres humains.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_DEQY451056A_1898759390_0_20260602T042709628Z_1_imageprocessorclient-tvplus-linear-66fc4d58c8-djxt6.jpeg" />
     <rating>
       <value>16</value>
     </rating>
@@ -2042,12 +2015,12 @@
       <value>NA</value>
     </rating>
   </programme>
-  <programme channel="FR4000002JN" start="20260817081559 +0000" stop="20260817100141 +0000">
-    <title>Shark Warning</title>
-    <desc>Vingt ans après, un homme revient dans la ville où son frère a été tué par un requin. Bientôt le prédateur refait surface et tue à nouveau, l'homme décide de le traquer pour l'arrêter une fois pour toutes.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_DEQY451056A_2097643085_0_20260812T044153927Z_112_imageprocessorclient-tvplus-linear-648598f6b5-j5xsn.jpeg" />
+  <programme channel="FR1800003VF" start="20260817153816 +0000" stop="20260817172535 +0000">
+    <title>Night Shot</title>
+    <desc>Une jeune blogueuse spécialisée dans l'exploration urbaine (urbex) décide d'aller visiter un gigantesque hôpital abandonné. Comme toujours elle part seule et de nuit avec son cameraman, afin de faire vivre en direct ses aventures à ses followers, avec une particularité : ne jamais couper la caméra...</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_1944681728_1_20260619T074011453Z_140_imageprocessorclient-tvplus-linear-66fc4d58c8-txs4t.jpeg" />
     <rating>
-      <value>12</value>
+      <value>NA</value>
     </rating>
   </programme>
   <programme channel="FR4000002JN" start="20260817100141 +0000" stop="20260817120032 +0000">
@@ -2070,6 +2043,14 @@
     <title>Middle Men</title>
     <desc>Un businessman ambitieux lance le premier site pornographique payant à l'aube d'Internet.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_DEQY451056A_1583508269_0_20260129T060705554Z_85_imageprocessorclient-tvplus-linear-85d7d49859-6vm6g.jpeg" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="FR4000002JN" start="20260817154219 +0000" stop="20260817173010 +0000">
+    <title>Dominique</title>
+    <desc>Une tueuse ukrainienne tenter d'oublier son passé et commence une nouvelle vie en Amérique du Sud. Elle se retrouve rapidement dans une ville en proie à la violence et à la corruption.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_DEQY451056A_1762086297_0_20260409T035652498Z_94_imageprocessorclient-tvplus-linear-74d4c47476-q685g.jpeg" />
     <rating>
       <value>12</value>
     </rating>
@@ -2103,12 +2084,12 @@
     <desc>Six inconnus se retrouvent involontairement enfermés dans une nouvelle succession d'escape games mortels. Au fur et à mesure des énigmes résolues et des indices découverts, ils se découvrent un point commun qui sera la clé de leur survie : tous ont déjà participé à ce jeu auparavant.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_1269764967_0_20251020T201031681Z_25_imageprocessorclient-tvplus-linear-5db7c6bc99-9tsm4.png" />
   </programme>
-  <programme channel="FR370000288" start="20260817080000 +0000" stop="20260817094500 +0000">
-    <title>Paydirt</title>
-    <desc>En liberté conditionnelle, un homme fait équipe avec son ancien gang pour retrouver de l'argent volé.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_512803379_0_20241125T180409868Z_82_imageprocessorclient-tvplus-linear-7cd5d896cc-d4vtb.jpeg" />
+  <programme channel="FR3000139Z" start="20260817161252 +0000" stop="20260817182346 +0000">
+    <title>Panic Room</title>
+    <desc>Meg Altman, la trentaine, a très mal vécu la séparation avec son mari et angoisse à l'idée de devoir élever seule sa fille Sarah. Afin de commencer une nouvelle vie loin de ses craintes, Meg achète une immense et splendide maison située dans un quartier huppé à l'ouest de New York.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_1726100465_0_20260325T215423897Z_88_imageprocessorclient-tvplus-linear-74d4c47476-bhwh7.jpeg" />
     <rating>
-      <value>NA</value>
+      <value>12</value>
     </rating>
   </programme>
   <programme channel="FR370000288" start="20260817094500 +0000" stop="20260817113000 +0000">
@@ -2139,6 +2120,14 @@
     <title>The Party Crasher</title>
     <desc>Des étudiants organisent une fête hawaïenne où une entité maléfique va s'inviter.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_1449410805_3_20251218T064413742Z_47_imageprocessorclient-tvplus-linear-85d7d49859-sb69g.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="FR370000288" start="20260817160000 +0000" stop="20260817181500 +0000">
+    <title>Universal Soldier : Le Jour du jugement</title>
+    <desc>John traque Deveraux, meurtrier de sa famille. Pour cela, Il combat des guerriers améliorés.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_1971350427_0_20260629T024845984Z_143_imageprocessorclient-tvplus-linear-66fc4d58c8-8v7hn.jpeg" />
     <rating>
       <value>NA</value>
     </rating>
