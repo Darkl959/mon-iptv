@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<tv><!--MAJ: 2026-08-22 15:22:40.394923--><channel id="FRBD5100001ZA">
+<tv><!--MAJ: 2026-08-22 16:26:46.299811--><channel id="FRBD5100001ZA">
     <display-name>ADN</display-name>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD5100001ZA_20260721T035849SQUARE.png" />
   </channel>
@@ -2089,14 +2089,6 @@
     <display-name>Vevo Country</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600001RQ_20260303T094217SQUARE.png" />
   </channel>
-  <programme channel="USBD300011KQ" start="20260822140000 +0000" stop="20260822150000 +0000">
-    <title>'60s On '70s</title>
-    <desc>Music from the groundbreaking decade that made the Me Decade possible.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1451930034_0_20250605T185646144Z_117_imageprocessorclient-tvplus-linear-595595f4b6-kzg7n.png" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
   <programme channel="USBD300011KQ" start="20260822150000 +0000" stop="20260822170000 +0000">
     <title>Sounds of the Seventies</title>
     <desc>From funk to punk, the Me Decade had a song for everyone.</desc>
@@ -2121,10 +2113,10 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme channel="USBD300012YC" start="20260822140000 +0000" stop="20260822150000 +0000">
-    <title>Ladies Of The '80s</title>
-    <desc>Videos from the decade's most prolific female vocalists and bands.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1701325197_0_20250717T203434383Z_72_imageprocessorclient-tvplus-linear-d7c8c765b-97vkd.png" />
+  <programme channel="USBD300011KQ" start="20260822210000 +0000" stop="20260822230000 +0000">
+    <title>Pop Stars</title>
+    <desc>The decade's most popular names and faces!</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1451930035_3_20250605T185752865Z_36_imageprocessorclient-tvplus-linear-595595f4b6-wzppv.png" />
     <rating>
       <value>TV-14</value>
     </rating>
@@ -2161,10 +2153,10 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme channel="USBD3000133M" start="20260822130000 +0000" stop="20260822150000 +0000">
-    <title>All-Out '90s</title>
-    <desc>Videos from grunge to gangsta.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1701325302_1_20250717T203438568Z_129_imageprocessorclient-tvplus-linear-d7c8c765b-kpk6m.png" />
+  <programme channel="USBD300012YC" start="20260822210000 +0000" stop="20260822220000 +0000">
+    <title>Rock Out!</title>
+    <desc>From hair metal to hardcore, the guitar-driven videos that kept the decade at top volume!</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1701325200_1_20250717T203431222Z_22_imageprocessorclient-tvplus-linear-d7c8c765b-kpk6m.png" />
     <rating>
       <value>TV-14</value>
     </rating>
@@ -2217,6 +2209,14 @@
       <value>TV-14</value>
     </rating>
   </programme>
+  <programme channel="USBD3000133M" start="20260822210000 +0000" stop="20260822220000 +0000">
+    <title>'90s Pop Party</title>
+    <desc>The decade's biggest videos.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1701325389_0_20250717T203437322Z_103_imageprocessorclient-tvplus-linear-d7c8c765b-97vkd.png" />
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
   <programme channel="USBB4400015F5" start="20260822140000 +0000" stop="20260822160000 +0000">
     <title>Hot 2K Videos</title>
     <desc>The decade's best Pop, Hip-Hop, Alt and more!</desc>
@@ -2265,10 +2265,10 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme channel="USBC3600001RQ" start="20260822130000 +0000" stop="20260822150000 +0000">
-    <title>Top Country Hits</title>
-    <desc>The hottest country videos.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3091569138_0_20260622T224438423Z_63_imageprocessorclient-tvplus-linear-75df688c49-jzwpj.png" />
+  <programme channel="USBB4400015F5" start="20260822210000 +0000" stop="20260822220000 +0000">
+    <title>Women of the 2000s</title>
+    <desc>Jams and ballads from the ladies who defined the decade.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1451929834_4_20250605T185647518Z_53_imageprocessorclient-tvplus-linear-595595f4b6-qrgxp.png" />
     <rating>
       <value>TV-14</value>
     </rating>
@@ -2309,6 +2309,14 @@
     <title>Best of Shaboozey</title>
     <desc>Videos &amp; performances from the country superstar.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1857470899_1_20250822T191826042Z_40_imageprocessorclient-tvplus-linear-d7c8c765b-gpgsk.png" />
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme channel="USBC3600001RQ" start="20260822210000 +0000" stop="20260822220000 +0000">
+    <title>Today's Country</title>
+    <desc>The most popular country videos of the week.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3091569055_0_20260622T224438423Z_1_imageprocessorclient-tvplus-linear-75df688c49-jzwpj.png" />
     <rating>
       <value>TV-14</value>
     </rating>
