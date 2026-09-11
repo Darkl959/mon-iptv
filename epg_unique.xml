@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<tv><!--MAJ: 2026-09-11 21:34:10.828270--><channel id="FRBD5100001ZA">
+<tv><!--MAJ: 2026-09-11 23:56:55.962659--><channel id="FRBD5100001ZA">
     <display-name>ADN</display-name>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD5100001ZA_20260721T035849SQUARE.png" />
   </channel>
@@ -163,22 +163,6 @@
     <display-name>Box Office Action</display-name>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR370000288_20260707T051627SQUARE.png" />
   </channel>
-  <programme channel="FRBD5100001ZA" start="20260911210000 +0000" stop="20260911213000 +0000">
-    <title>My Hero Academia</title>
-    <desc>À peine remis d'un championnat mouvementé, les jeunes élèves de Yuei reprennent les cours et doiv…</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_971565323_0_20250613T013154472Z_30_imageprocessorclient-tvplus-linear-retry-69bdc5c75f-ts2z2.jpeg" />
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme>
-  <programme channel="FRBD5100001ZA" start="20260911213000 +0000" stop="20260911220000 +0000">
-    <title>My Hero Academia</title>
-    <desc>C'est le premier jour de stage pour les élèves de seconde du lycée Yuei. Izuku se dirige vers la …</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_971528415_0_20250613T013154170Z_27_imageprocessorclient-tvplus-linear-retry-69bdc5c75f-ts2z2.jpeg" />
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme>
   <programme channel="FRBD5100001ZA" start="20260911220000 +0000" stop="20260911223000 +0000">
     <title>My Hero Academia</title>
     <desc>Izuku est arrivé chez son maître de stage, Gran Torino. Ensemble, ils sont sur le point de trouve…</desc>
@@ -275,15 +259,29 @@
       <value>NA</value>
     </rating>
   </programme>
-  <programme channel="FRBD41000051L" start="20260911205512 +0000" stop="20260911212459 +0000">
-    <title>Olive et Tom</title>
-    <desc>Le jeune Olivier Atton (Tsubasa en japonais), jeune prodige du football rencontre un jour Roberto Sedinho, un joueur mondialement connu ayant joué au Brésil. Ce dernier devient son mentor et entraineur. Très vite, Olivier progresse et  remporte avec son équipe du lycée de Nankatsu de nombreux championnats nationaux de football et parvient à gagner pour le Japon le championnat du monde des moins de 16 ans.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQO570425A_1898973758_0_20260602T084925482Z_143_imageprocessorclient-tvplus-linear-66fc4d58c8-htdx9.jpeg" />
+  <programme channel="FRBD5100001ZA" start="20260912031500 +0000" stop="20260912033000 +0000">
+    <title>Les conditions au métier de héros</title>
+    <desc>Izuku vient de rencontrer son idole, All Might, en chair et en os. Mais le super-héros a très peu…</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_1204524105_0_20250920T030532399Z_1_imageprocessorclient-tvplus-linear-retry-69bdc5c75f-rfqr2.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
   </programme>
-  <programme channel="FRBD41000051L" start="20260911212459 +0000" stop="20260911215502 +0000">
-    <title>Gun Frontier</title>
-    <desc>Vivre et mourir dépend de ses propres aptitudes Le jeune Albator, un pirate, le samouraï Toshiro et Simunola, une superbe voleuse, sillonnent le Far-West à la recherche des semblables de Toshiro.Gun Frontier est une planète sèche et stérile, il n'y a ni loi ni ordre, comme dans l'Ouest sauvage d'autrefois.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQO570425A_487125453_0_20231222T064224100Z_19.jpeg" />
+  <programme channel="FRBD5100001ZA" start="20260912033000 +0000" stop="20260912040000 +0000">
+    <title>My Hero Academia</title>
+    <desc>Une lueur d'espoir renaît chez le jeune Izuku Midoriya grâce à l'intervention de son idole de tou…</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_926034967_0_20250528T092308821Z_45_imageprocessorclient-tvplus-linear-6fb5b47f79-bq75x.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="FRBD5100001ZA" start="20260912040000 +0000" stop="20260912043000 +0000">
+    <title>My Hero Academia</title>
+    <desc>Devant le terrain B de l'examen pratique de Yuei, Izuku doit prouver qu'il peut maîtriser son nou…</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_926034968_0_20250528T092310799Z_51_imageprocessorclient-tvplus-linear-6fb5b47f79-bq75x.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
   </programme>
   <programme channel="FRBD41000051L" start="20260911215502 +0000" stop="20260911222259 +0000">
     <title>Retour sur le passé, et changement d'état d'esprit</title>
@@ -353,7 +351,7 @@
   </programme>
   <programme channel="FRBD41000051L" start="20260912021004 +0000" stop="20260912024007 +0000">
     <title>Gun Frontier</title>
-    <desc>Vivre et mourir dépend de ses propres aptitudes Le jeune Albator, un pirate, le samouraï Toshiro et Simunola, une superbe voleuse, sillonnent le Far-West à la recherche des semblables de Toshiro.Gun Frontier est une planète sèche et stérile, il n'y a ni loi ni ordre, comme dans l'Ouest sauvage d'autrefois.</desc>
+    <desc>Gun Frontier est une planète sèche et stérile, il n'y a ni loi ni ordre, comme dans l'Ouest sauvage d'autrefois.Vivre et mourir dépend de ses propres aptitudes Le jeune Albator, un pirate, le samouraï Toshiro et Simunola, une superbe voleuse, sillonnent le Far-West à la recherche des semblables de Toshiro.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQO570425A_487125453_0_20231222T064224100Z_19.jpeg" />
   </programme>
   <programme channel="FRBD41000051L" start="20260912024007 +0000" stop="20260912030804 +0000">
@@ -372,11 +370,21 @@
       <value>10</value>
     </rating>
   </programme>
-  <programme channel="FR2900001UF" start="20260911210625 +0000" stop="20260911215451 +0000">
-    <title>Call The Midwife</title>
-    <sub-title>SOS sages-femmes S.O.S. Sages-femmes. Spécial Noël 2015 (1ère partie)</sub-title>
-    <desc>Le quartier de Poplar se prépare pour Noël dans la joie et la bonne humeur.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQO570425A_947425524_5_20250604T152426153Z_36_imageprocessorclient-tvplus-linear-6fb5b47f79-dh6vc.jpeg" />
+  <programme channel="FRBD41000051L" start="20260912033603 +0000" stop="20260912040400 +0000">
+    <title>Le passé c'est le passé, le présent c'est maintenant</title>
+    <desc>Van Helsing a été capturé par une meute de vampires, il est détenu dans un bidonville des Philippines. Blade et Makoto élabore un plan pour le délivrer.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQO570425A_1574365895_0_20260125T131945374Z_46_imageprocessorclient-tvplus-linear-85d7d49859-jzjjm.jpeg" />
+    <rating>
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme channel="FRBD41000051L" start="20260912040400 +0000" stop="20260912043004 +0000">
+    <title>Bataille sanglante sur l'île du Spectre</title>
+    <desc>Suivant les chevaliers des abysses dans l'île du spectre, les chevaliers doivent poursuivre leur voyage à la nage après l'attaque de leur avion. Le Dauphin vient les combattre mais Hyoga réagit et le gèle. Sur l'île, les combats s'enchaînent. Seul Pégase parvient à pénétrer le château. Il combat Gyste et le casque du Sagittaire le défend, et fait tomber le masque de son adversaire, révélant ainsi son visage...</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQO570425A_2145797463_0_20260828T181427243Z_81_imageprocessorclient-tvplus-linear-b5879c6c6-zvcv6.png" />
+    <rating>
+      <value>4</value>
+    </rating>
   </programme>
   <programme channel="FR2900001UF" start="20260911215451 +0000" stop="20260911224304 +0000">
     <title>Call The Midwife</title>
@@ -414,23 +422,11 @@
     <desc>Timothy prend conscience des risques du tabac tandis que des progrès révolutionnent traitements.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQO570425A_947422348_4_20250604T152425869Z_125_imageprocessorclient-tvplus-linear-6fb5b47f79-x9dt2.jpeg" />
   </programme>
-  <programme channel="FRBC4700002RF" start="20260911203748 +0000" stop="20260911212041 +0000">
-    <title>Alerte à Malibu</title>
-    <sub-title>S7E13</sub-title>
-    <desc>Stephanie et Tom partent en lune de miel avec un groupe d'adolescents. Mitch et Neely les suivent pour aider sur le bateau. Mais à peine ils quittent le port, que leur radio tombe en panne et qu'un ouragan les frappent.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_1179456869_2_20250908T112228539Z_64_imageprocessorclient-tvplus-linear-5db7c6bc99-x889l.jpeg" />
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme>
-  <programme channel="FRBC4700002RF" start="20260911212041 +0000" stop="20260911220336 +0000">
-    <title>Alerte à Malibu</title>
-    <sub-title>S7E14</sub-title>
-    <desc>Mitch sauve Cassie Cole, une présentatrice d'un célèbre talk-show télévisé, de la noyade. Caroline et CJ adoptent un chien errant qui nageait dans l'océan et l'animal leur rappelle Stephanie.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_1179534056_2_20250908T112228746Z_29_imageprocessorclient-tvplus-linear-5db7c6bc99-x889l.jpeg" />
-    <rating>
-      <value>NA</value>
-    </rating>
+  <programme channel="FR2900001UF" start="20260912033713 +0000" stop="20260912043731 +0000">
+    <title>Call The Midwife</title>
+    <sub-title>SOS sages-femmes Saison 5, Épisode 6</sub-title>
+    <desc>Une série d'agressions plongent le quartier de Poplar dans l'angoisse.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQO570425A_947422348_4_20250604T152425869Z_125_imageprocessorclient-tvplus-linear-6fb5b47f79-x9dt2.jpeg" />
   </programme>
   <programme channel="FRBC4700002RF" start="20260911220336 +0000" stop="20260911224629 +0000">
     <title>Alerte à Malibu</title>
@@ -504,15 +500,14 @@
       <value>NA</value>
     </rating>
   </programme>
-  <programme channel="FR2100001VM" start="20260911203158 +0000" stop="20260911211943 +0000">
-    <title>Différences</title>
-    <desc>Andy fait équipe avec la nouvelle petite amie de Swarek. Quand elles se retrouvent face à un homme hors de contrôle, leurs différences sont mises à l'épreuve et l'une d'elles doit faire feu.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQO570425A_974395906_0_20250613T163558593Z_42_imageprocessorclient-tvplus-linear-5db7c6bc99-2fhcs.jpeg" />
-  </programme>
-  <programme channel="FR2100001VM" start="20260911211943 +0000" stop="20260911220839 +0000">
-    <title>Les jeunes vont mal</title>
-    <desc>Andy rêve d'un long week-end bien mérité, mais lorsqu'elle découvre un adolescent dans le coffre d'une voiture, elle cherche à le convaincre qu'aucun chagrin d'amour ne dure éternellement.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQO570425A_974395906_0_20250613T163558593Z_42_imageprocessorclient-tvplus-linear-5db7c6bc99-2fhcs.jpeg" />
+  <programme channel="FRBC4700002RF" start="20260912034311 +0000" stop="20260912042603 +0000">
+    <title>Alerte à Malibu</title>
+    <sub-title>S6E21</sub-title>
+    <desc>Kaye Morgan donne un cours de navigation à un groupe de jeunes.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_1179495792_13_20250908T112232299Z_105_imageprocessorclient-tvplus-linear-5db7c6bc99-xrkqv.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
   </programme>
   <programme channel="FR2100001VM" start="20260911220839 +0000" stop="20260911225739 +0000">
     <title>Pilules empoisonnées</title>
@@ -549,17 +544,10 @@
     <desc>Quand un pédophile est retrouvé battu à mort, Andy découvre que Marlo enquêtait sur lui hors du travail. Avec Swarek, ils vont tenter de la couvrir tout en retrouvant le véritable agresseur.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQO570425A_974395906_0_20250613T163558593Z_42_imageprocessorclient-tvplus-linear-5db7c6bc99-2fhcs.jpeg" />
   </programme>
-  <programme channel="FR300011G9" start="20260911204333 +0000" stop="20260911211326 +0000">
-    <title>Bewitched S3E75</title>
-    <sub-title>Nobody's Perfect</sub-title>
-    <desc>Pour le docteur Koblin, Tabatha est un bébé tout à fait normal. Mais Samantha, voyant une peluche flotter dans les airs lorsque Tabatha remue les doigts, réalise que le bébé a hérité de ses dons de sorcellerie.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_1060721296_4_20250716T204559354Z_44_imageprocessorclient-tvplus-linear-5db7c6bc99-xsvxn.png" />
-  </programme>
-  <programme channel="FR300011G9" start="20260911211326 +0000" stop="20260911214318 +0000">
-    <title>Bewitched S3E76</title>
-    <sub-title>The Moment Of Truth</sub-title>
-    <desc>Samantha n'a pas encore eu le courage d'avouer à Jean-Pierre que Tabatha est une sorcière.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_1060768388_5_20250716T204559929Z_104_imageprocessorclient-tvplus-linear-5db7c6bc99-w8btj.png" />
+  <programme channel="FR2100001VM" start="20260912035039 +0000" stop="20260912043921 +0000">
+    <title>Sous le feu</title>
+    <desc>Quand Andy et Chloe essuient les tirs d'un tireur embusqué, les agents de la 15e Division réalisent qu'ils doivent continuer à servir et à protéger la ville tout en étant pris pour cible.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQO570425A_974395906_0_20250613T163558593Z_42_imageprocessorclient-tvplus-linear-5db7c6bc99-2fhcs.jpeg" />
   </programme>
   <programme channel="FR300011G9" start="20260911214318 +0000" stop="20260911221309 +0000">
     <title>Bewitched S3E77</title>
@@ -628,6 +616,18 @@
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_1116639682_0_20250809T005456119Z_137_imageprocessorclient-tvplus-linear-5db7c6bc99-s56jx.jpeg" />
     <episode-num system="onscreen">S05E06</episode-num>
   </programme>
+  <programme channel="FR300011G9" start="20260912031056 +0000" stop="20260912034053 +0000">
+    <title>Bewitched S3E88</title>
+    <sub-title>Samantha For The Defense</sub-title>
+    <desc>Samantha raconte comment Tante Clara, en voulant faire venir un électricien pour réparer une lampe, a fait venir Ben Franklin.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_1060744109_11_20250716T204601751Z_94_imageprocessorclient-tvplus-linear-5db7c6bc99-ljxfj.png" />
+  </programme>
+  <programme channel="FR300011G9" start="20260912034053 +0000" stop="20260912041050 +0000">
+    <title>Bewitched S3E89</title>
+    <sub-title>A Gazebo Never Forgets</sub-title>
+    <desc>Samantha raconte comment Tante Clara, en voulant faire venir un électricien pour réparer une lampe, a fait venir Ben Franklin.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_1060766236_5_20250716T204559928Z_1_imageprocessorclient-tvplus-linear-5db7c6bc99-w8btj.png" />
+  </programme>
   <programme channel="FRBD41000124S" start="20260911210430 +0000" stop="20260911221934 +0000">
     <title>Les Héritiers Ep.7</title>
     <desc>Mal interprétant la situation Tan se met en colère contre Eun-sang pour avoir passé du temps avec Young-do tandis quelle se demande quelle est la relation entre les deux.</desc>
@@ -653,13 +653,10 @@
     <desc>Ji-sook explique à Won que Tan recevra les actions de Jeguk Holding le jour de son 18e anniversaire ce qui fera son ratio dactions similaire voire supérieur à celui de Won.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_2144590199_0_20260828T070047021Z_21_imageprocessorclient-tvplus-linear-b5879c6c6-x9rph.jpeg" />
   </programme>
-  <programme channel="FRAJ38000089S" start="20260911204433 +0000" stop="20260911214224 +0000">
-    <title>Les infidèles</title>
-    <desc>Après la mort de leur collègue Hammern, Peter et Franck enquêtent sur ses activités afin de comprendre les circonstances de son décès. Ellen remet à Peter la clé du chalet où Hammern se retirait pour écrire.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQU352135A_2041514162_0_20260723T123124365Z_60_imageprocessorclient-tvplus-linear-648598f6b5-ds6rb.jpeg" />
-    <rating>
-      <value>10</value>
-    </rating>
+  <programme channel="FRBD41000124S" start="20260912031958 +0000" stop="20260912043517 +0000">
+    <title>Les Héritiers Ep.12</title>
+    <desc>Young-do découvre quEun-sang réside dans la maison de Tan en tant que fille de la femme de chambre.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_2144587802_1_20260828T070047056Z_44_imageprocessorclient-tvplus-linear-b5879c6c6-9w4w7.jpeg" />
   </programme>
   <programme channel="FRAJ38000089S" start="20260911214224 +0000" stop="20260911224325 +0000">
     <title>La chute dun homme</title>
@@ -709,13 +706,12 @@
       <value>10</value>
     </rating>
   </programme>
-  <programme channel="FR2600009UG" start="20260911201523 +0000" stop="20260911220725 +0000">
-    <title>Une femme d'honneur</title>
-    <sub-title>S3:E1 Bébés volés</sub-title>
-    <desc>S3:E1 Bébés volés - La gendarmerie est appelée par le réceptionniste d'un hôtel qui entend des bruits de lutte dans la chambre de Sylvie Lambert. Isabelle Florent et Rivière y découvrent le corps de la jeune femme dans une marre de sang. Rivière est blessé d'une balle par le meurtrier qui prend la fuite.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_DEQY451056A_688818147_0_20250305T032958361Z_119_imageprocessorclient-tvplus-linear-6fb5b47f79-fqksw.jpeg" />
+  <programme channel="FRAJ38000089S" start="20260912040210 +0000" stop="20260912050647 +0000">
+    <title>Épisode 5</title>
+    <desc>Semiyon fait face à une atroce accusation. Alex est convaincu de son innocence. Katya découvre un secret.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQU352135A_507997768_0_20241011T232928574Z_85_imageprocessorclient-tvplus-linear-7cd5d896cc-p7c96.jpeg" />
     <rating>
-      <value>16</value>
+      <value>10</value>
     </rating>
   </programme>
   <programme channel="FR2600009UG" start="20260911220725 +0000" stop="20260911235713 +0000">
@@ -772,25 +768,23 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme channel="FR4000005KE" start="20260911205938 +0000" stop="20260911210159 +0000">
-    <title>Urban Music Non Stop</title>
-    <desc>Urban Music Non Stop</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQO570425A_1850376949_0_20260514T141804763Z_1_imageprocessorclient-tvplus-linear-665b769d5c-2xt4g.jpeg" />
+  <programme channel="FR2600009UG" start="20260912032234 +0000" stop="20260912034939 +0000">
+    <title>Bizarre Murders</title>
+    <sub-title>S1:E23 Épisode 23</sub-title>
+    <desc>S1:E23 Épisode 23 - Une riche Canadienne expatriée à Dubaï signale la disparition de son mari. Les inspecteurs découvrent bientôt son corps en décomposition dans une boîte située dans la buanderie de l'immeuble.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_DEQY451056A_511820186_0_20241118T033443981Z_108_imageprocessorclient-tvplus-linear-7cd5d896cc-mj776.jpeg" />
+    <rating>
+      <value>16</value>
+    </rating>
   </programme>
-  <programme channel="FR4000005KE" start="20260911210159 +0000" stop="20260911212111 +0000">
-    <title>Urban Music Non Stop</title>
-    <desc>Urban Music Non Stop</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQO570425A_1850376949_0_20260514T141804763Z_1_imageprocessorclient-tvplus-linear-665b769d5c-2xt4g.jpeg" />
-  </programme>
-  <programme channel="FR4000005KE" start="20260911212111 +0000" stop="20260911212307 +0000">
-    <title>Rap&amp;RnB Non Stop</title>
-    <desc>Rap&amp;RnB Non Stop</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQO570425A_1850365892_0_20260514T141804766Z_18_imageprocessorclient-tvplus-linear-665b769d5c-2xt4g.jpeg" />
-  </programme>
-  <programme channel="FR4000005KE" start="20260911212307 +0000" stop="20260911214745 +0000">
-    <title>Rap&amp;RnB Non Stop</title>
-    <desc>Rap&amp;RnB Non Stop</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQO570425A_1850365892_0_20260514T141804766Z_18_imageprocessorclient-tvplus-linear-665b769d5c-2xt4g.jpeg" />
+  <programme channel="FR2600009UG" start="20260912034939 +0000" stop="20260912042144 +0000">
+    <title>Expert Witness</title>
+    <sub-title>S1:E15 60's DNA and Fibres Around the World</sub-title>
+    <desc>S1:E15 60's DNA and Fibres Around the World - Le dernier épisode de la série qui raconte l'histoire interne des experts, une armée de scientifiques légistes qui aident les détectives à résoudre certains des crimes majeurs les plus complexes du Royaume-Uni.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_DEQY451056A_1292277579_0_20251031T042607918Z_113_imageprocessorclient-tvplus-linear-5db7c6bc99-gdlst.jpeg" />
+    <rating>
+      <value>16</value>
+    </rating>
   </programme>
   <programme channel="FR4000005KE" start="20260911214745 +0000" stop="20260911215023 +0000">
     <title>Le meilleur de la musique urbaine</title>
@@ -928,18 +922,37 @@
     <desc>Le meilleur de la musique urbaine</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQO570425A_1850369923_0_20260514T141805865Z_103_imageprocessorclient-tvplus-linear-665b769d5c-2xt4g.jpeg" />
   </programme>
-  <programme channel="FR4000005KE" start="20260912030910 +0000" stop="20260912033424 +0000">
+  <programme channel="FR4000005KE" start="20260912030910 +0000" stop="20260912031833 +0000">
     <title>Premier sur le Rap</title>
     <desc>Premier sur le Rap</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQO570425A_1850352284_0_20260514T141804888Z_31_imageprocessorclient-tvplus-linear-665b769d5c-2xt4g.jpeg" />
   </programme>
-  <programme channel="FRBC2100001YY" start="20260911210000 +0000" stop="20260911220000 +0000">
-    <title>Pause Electro</title>
-    <desc>Un mix parfait entre pop et électro, de la French touch aux hits du moment.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_2162734163_0_20260903T193608826Z_67_imageprocessorclient-tvplus-linear-b5879c6c6-tnmp9.png" />
-    <rating>
-      <value>NA</value>
-    </rating>
+  <programme channel="FR4000005KE" start="20260912031833 +0000" stop="20260912033424 +0000">
+    <title>Premier sur le Rap</title>
+    <desc>Premier sur le Rap</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQO570425A_1850352284_0_20260514T141804888Z_31_imageprocessorclient-tvplus-linear-665b769d5c-2xt4g.jpeg" />
+  </programme>
+  <programme channel="FR4000005KE" start="20260912033424 +0000" stop="20260912034428 +0000">
+    <title>Skyrock</title>
+    <sub-title>100% Clips</sub-title>
+    <desc>Skyrock 100% Clips</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQO570425A_1850378479_0_20260514T141804763Z_25_imageprocessorclient-tvplus-linear-665b769d5c-2xt4g.jpeg" />
+  </programme>
+  <programme channel="FR4000005KE" start="20260912034428 +0000" stop="20260912035656 +0000">
+    <title>Skyrock</title>
+    <sub-title>100% Clips</sub-title>
+    <desc>Skyrock 100% Clips</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQO570425A_1850378479_0_20260514T141804763Z_25_imageprocessorclient-tvplus-linear-665b769d5c-2xt4g.jpeg" />
+  </programme>
+  <programme channel="FR4000005KE" start="20260912035656 +0000" stop="20260912040741 +0000">
+    <title>Le meilleur de la musique urbaine</title>
+    <desc>Le meilleur de la musique urbaine</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQO570425A_1850369923_0_20260514T141805865Z_103_imageprocessorclient-tvplus-linear-665b769d5c-2xt4g.jpeg" />
+  </programme>
+  <programme channel="FR4000005KE" start="20260912040741 +0000" stop="20260912043216 +0000">
+    <title>Le meilleur de la musique urbaine</title>
+    <desc>Le meilleur de la musique urbaine</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQO570425A_1850369923_0_20260514T141805865Z_103_imageprocessorclient-tvplus-linear-665b769d5c-2xt4g.jpeg" />
   </programme>
   <programme channel="FRBC2100001YY" start="20260911220000 +0000" stop="20260911230000 +0000">
     <title>Party Mix</title>
@@ -989,10 +1002,10 @@
       <value>NA</value>
     </rating>
   </programme>
-  <programme channel="FRBC2100002JA" start="20260911210000 +0000" stop="20260911220000 +0000">
-    <title>Old School Party</title>
-    <desc>Le week-end est là, c'est le moment de se détendre avec du bon son à l'ancienne.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_2162734325_3_20260903T193609040Z_36_imageprocessorclient-tvplus-linear-b5879c6c6-v2dgk.png" />
+  <programme channel="FRBC2100001YY" start="20260912040000 +0000" stop="20260912050000 +0000">
+    <title>Pop Indé</title>
+    <desc>Les clips des artistes qui repoussent les frontières de la pop.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_2162734166_2_20260903T193611956Z_39_imageprocessorclient-tvplus-linear-b5879c6c6-9dm2m.png" />
     <rating>
       <value>NA</value>
     </rating>
@@ -1045,10 +1058,10 @@
       <value>NA</value>
     </rating>
   </programme>
-  <programme channel="FRBD1900013CB" start="20260911210000 +0000" stop="20260911220000 +0000">
-    <title>100% Hip-Hop &amp; R&amp;B</title>
-    <desc>Un concentré de classiques Hip-Hop &amp; R&amp;B à (re)découvrir.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_2162735014_0_20260903T193608826Z_97_imageprocessorclient-tvplus-linear-b5879c6c6-tnmp9.png" />
+  <programme channel="FRBC2100002JA" start="20260912040000 +0000" stop="20260912050000 +0000">
+    <title>Fréquence R&amp;B</title>
+    <desc>Des plus grands classiques aux dernières nouveautés R&amp;B.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_2162734235_0_20260903T193611511Z_27_imageprocessorclient-tvplus-linear-b5879c6c6-tnmp9.png" />
     <rating>
       <value>NA</value>
     </rating>
@@ -1101,6 +1114,14 @@
       <value>NA</value>
     </rating>
   </programme>
+  <programme channel="FRBD1900013CB" start="20260912040000 +0000" stop="20260912050000 +0000">
+    <title>Ambiance Soul &amp; R&amp;B</title>
+    <desc>Entre groove et nostalgie, plongez dans les classiques soul &amp; R&amp;B qui ont traversé les générations.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_2162735015_2_20260903T193609118Z_55_imageprocessorclient-tvplus-linear-b5879c6c6-9dm2m.png" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
   <programme channel="FR2500001BS" start="20260911210706 +0000" stop="20260911224846 +0000">
     <title>This is Sam Fender Vol.1</title>
     <desc>Sam Fender's greatest hits all in one place</desc>
@@ -1125,10 +1146,13 @@
       <value>18</value>
     </rating>
   </programme>
-  <programme channel="FR1700002OZ" start="20260911203312 +0000" stop="20260911214440 +0000">
-    <title>Inkigayo Ep.1195</title>
-    <desc>NCT DREAM / JEON SOMI / THE BOYZ / ITZY / TREASURE / JO YURI / KWON EUNBI / NewJeans / BBGIRLS / xikers / NINE.i / n.SSign / The Wind / SEVENUS / TAN / TMC</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_KRPBA3501QY_1070997453_0_20250721T022045699Z_40_imageprocessorclient-tvplus-linear-5db7c6bc99-gkp68.png" />
+  <programme channel="FR2500001BS" start="20260912040143 +0000" stop="20260912042956 +0000">
+    <title>KATSEYE Vol.2</title>
+    <desc>Discover the new era of girl groups with KATSEYE's standout tracks.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_2179435561_0_20260909T164528873Z_15_imageprocessorclient-tvplus-linear-b5879c6c6-sgst8.jpeg" />
+    <rating>
+      <value>18</value>
+    </rating>
   </programme>
   <programme channel="FR1700002OZ" start="20260911214440 +0000" stop="20260911230104 +0000">
     <title>NEW KPOP</title>
@@ -1152,15 +1176,10 @@
     <desc>TOMORROW X TOGETHER / NAM WOO HYUN / STAYC / LEE MINHYUK (HUTA) / YENA / Yves / EPEX / Dragon Pony / ICHILLIN' / ARrC / ASC2NT / XngHan&amp;Xoul / Song Min Jun / Joosiq / SAY MY NAME / cosmosy / Ryu Yeon Ju</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_KRPBA3501QY_1114774049_0_20250808T025011930Z_117_imageprocessorclient-tvplus-linear-5db7c6bc99-cj6j4.png" />
   </programme>
-  <programme channel="FR3900001AC" start="20260911203942 +0000" stop="20260911212411 +0000">
-    <title>Trendsetting Queens! Unforgettable Girl Group Performances</title>
-    <desc>Trendsetting Queens! Unforgettable Girl Group Performances</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_1806739223_0_20260427T044221179Z_96_imageprocessorclient-tvplus-linear-74d4c47476-44vt7.jpeg" />
-  </programme>
-  <programme channel="FR3900001AC" start="20260911212411 +0000" stop="20260911220122 +0000">
-    <title>Warning: Addictive! Boy Group Titles You Can't Stop Playing</title>
-    <desc>Warning: Addictive! Boy Group Titles You Can't Stop Playing</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_1806701316_6_20260427T044225296Z_20_imageprocessorclient-tvplus-linear-74d4c47476-qgk7g.jpeg" />
+  <programme channel="FR1700002OZ" start="20260912032752 +0000" stop="20260912044447 +0000">
+    <title>Inkigayo Ep.1291</title>
+    <desc>NCT DREAM / Stray Kids / ITZY / KYUHYUN / CRAVITY / JANG DONG WOO / SUNMI / KISS OF LIFE / NEXZ / Baby DONT Cry / 82MAJOR / CLOSE YOUR EYES / ALLDAY PROJECT / AHOF / Gyubin / IDID / KIIRAS / AM8IC</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_KRPBA3501QY_1527279212_0_20260107T035743976Z_129_imageprocessorclient-tvplus-linear-85d7d49859-f9b9t.png" />
   </programme>
   <programme channel="FR3900001AC" start="20260911220122 +0000" stop="20260911224156 +0000">
     <title>Time to Refresh! Your Go-To Playlist for Spring 2025</title>
@@ -1209,20 +1228,13 @@
       <value>NA</value>
     </rating>
   </programme>
-  <programme channel="FRBA1000009KO" start="20260911205200 +0000" stop="20260911213034 +0000">
-    <title>Le Repos des braves</title>
-    <desc>Arrivés au terme de leur périple à travers les Alpes, de vieux cyclystes amateurs goûtent un repos bien mérité sur une plage du sud de la France. Ils s'y remémorent leurs exploits, aussi dérisoires qu'essentiels.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQU352137A_488974975_0_20240229T174315719Z_61.jpeg" />
+  <programme channel="FR220000105" start="20260912031948 +0000" stop="20260912045512 +0000">
+    <title>Hunted</title>
+    <sub-title>While She Was Out</sub-title>
+    <desc>Della Meyers, mère de famille dans une banlieue chic, voit un meurtre par un gang. Traquée dans une forêt isolée, elle doit survivre seule face aux tueurs.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_1829979363_25_20260506T114736142Z_35_imageprocessorclient-tvplus-linear-74d4c47476-msdmr.jpeg" />
     <rating>
-      <value>3</value>
-    </rating>
-  </programme>
-  <programme channel="FRBA1000009KO" start="20260911213034 +0000" stop="20260911215407 +0000">
-    <title>Jardin des deux rives</title>
-    <desc>A la croisée de Roubaix, Tourcoing et Wattrelos se trouve le quartier de l'Union, une vaste friche de 30 hectares. “Jardin des deux rives” part à la rencontre des voix de ses derniers habitants. C'est une autre voix qiu nous accompagne dans les rues désertées, en murmurant des poèmes de Mahmoud Darwich.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQU352137A_488974978_1_20240229T174315747Z_131.jpeg" />
-    <rating>
-      <value>3</value>
+      <value>NA</value>
     </rating>
   </programme>
   <programme channel="FRBA1000009KO" start="20260911215407 +0000" stop="20260911225803 +0000">
@@ -1401,12 +1413,28 @@
       <value>3</value>
     </rating>
   </programme>
-  <programme channel="FRBB39000020C" start="20260911185612 +0000" stop="20260911213937 +0000">
-    <title>Far away: les soldats de l'espoir</title>
-    <desc>Inspiré d'une histoire vraie. Jun Shik travaille à la ferme du grand-père de Tatsuo alors que la Corée est colonisée par le Japon, mais il rêve de participer aux Jeux olympiques de Tokyo en tant que coureur de marathon. Tatsuo vise également à devenir marathonien, ce qui crée une rivalité entre eux. Mais la guerre éclate et ils sont tous deux forcés de s'enrôler dans l'armée. Tatsuo devient chef de la défense dans l'unité de Jun Shik et élabore un plan qui échoue. Jun Shik et Tatsuo sont capturés par les Soviétiques. Ils s'échappent mais sont rapidement capturés par les Allemands et forcés de se séparer. En 1944, ils se retrouvent sur les plages de Normandie.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_1935459920_43_20260615T182119127Z_108_imageprocessorclient-tvplus-linear-66fc4d58c8-xkrsg.jpeg" />
+  <programme channel="FRBA1000009KO" start="20260912031243 +0000" stop="20260912033000 +0000">
+    <title>Regarder Oana</title>
+    <desc>Oana travaille. Et moi je la regarde. Ce soir, ce dernier dossier sera plié. Elle ne veut plus traduire les mots des autres. Elle pense que demain elle va commencer à écrire pour elle. Mais elle ne le fera pas. Je le sais....</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQU352137A_489828773_0_20240330T175909986Z_83.jpeg" />
     <rating>
-      <value>NA</value>
+      <value>3</value>
+    </rating>
+  </programme>
+  <programme channel="FRBA1000009KO" start="20260912033000 +0000" stop="20260912034751 +0000">
+    <title>Bleu-Gris</title>
+    <desc>Fin août. Corse. Elbe, dix-sept ans, sourde de naissance est en vacances chez sa grande sœur Mathilde. Un jour, alors qu'elle se rend au phare de la Revellata, elle aperçoit un homme qui remonte seul d'une plongée sous marine…</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQU352137A_489828876_0_20240330T175909988Z_118.jpeg" />
+    <rating>
+      <value>3</value>
+    </rating>
+  </programme>
+  <programme channel="FRBA1000009KO" start="20260912034751 +0000" stop="20260912041932 +0000">
+    <title>Rase campagne</title>
+    <desc>Un village perdu dans la campagne finistérienne. Un homme est suspecté d'être porteur du virus Ebola. Il est noir. C'est Maurice. Son meilleur ami, Michel, ambulancier, sillonne le territoire avec son stagiaire Rémi pour le retrouver et le contrôler…</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQU352137A_489828815_1_20240330T175905796Z_145.jpeg" />
+    <rating>
+      <value>3</value>
     </rating>
   </programme>
   <programme channel="FRBB39000020C" start="20260911213937 +0000" stop="20260911232427 +0000">
@@ -1425,10 +1453,18 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme channel="FRBB39000020C" start="20260912020217 +0000" stop="20260912035117 +0000">
+  <programme channel="FRBB39000020C" start="20260912020217 +0000" stop="20260912035111 +0000">
     <title>The Terminators</title>
     <desc>Une poignée de résistants combattent des terminators extra-terrestres ayant pris le contrôle de la planète après que leur vaisseau se soit crashé sur la Terre.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_496809655_1_20240627T145452703Z_1.jpeg" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="FRBB39000020C" start="20260912035111 +0000" stop="20260912054929 +0000">
+    <title>Force of Execution</title>
+    <desc>Un patron du crime envoie son meilleur homme pour tuer un prisonnier. Il se trompe d'homme et en paie le prix. 6 mois plus tard, il est de nouveau sur pied. Son ex-patron se fait maintenant évincer par Ice Man, qui est responsable de l'affaire de la "mauvaise personne".</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_496811021_1_20240627T145452703Z_155.jpeg" />
     <rating>
       <value>12</value>
     </rating>
@@ -1453,14 +1489,6 @@
     <desc>À Montréal, une enseignante du primaire meurt subitement. Bachir Lazhar, un immigrant algérien, est rapidement embauché pour la remplacer alors qu'il nage lui-même en pleine tragédie personnelle. Il apprend peu à peu à connaître un groupe d'enfants attachants, malgré le fossé culturel qui se manifeste dès la première leçon. Pendant que la classe amorce un processus de guérison, personne à l'école ne soupçonne le passé douloureux de Bachir, qui risque l'expulsion du pays à tout moment. Adapté d'une pièce de théâtre d'Evelyne de la Chenelière, Monsieur Lazhar met en images la rencontre de deux mondes et la puissance de la parole. Philippe Falardeau y suit avec humour et sensibilité un homme humble prêt à transcender sa propre perte pour aider les écoliers à vaincre le silence qui les emmure.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQO570425A_991612146_0_20250619T120908545Z_88_imageprocessorclient-tvplus-linear-5db7c6bc99-s56jx.jpeg" />
     <episode-num system="onscreen">S05E06</episode-num>
-  </programme>
-  <programme channel="FR2600007CB" start="20260911195148 +0000" stop="20260911213412 +0000">
-    <title>La fureur d'une mère</title>
-    <desc>Suite au meurtre de son fils avec qui elle n'entretenait plus de contact, une journaliste forme une alliance improbable avec la petite amie enceinte de ce dernier afin de traquer les responsables de sa mort, affrontant ensemble un monde de drogue et de corruption.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_DEQY451056A_1893769296_0_20260531T061411587Z_43_imageprocessorclient-tvplus-linear-66fc4d58c8-ptkl9.jpeg" />
-    <rating>
-      <value>16</value>
-    </rating>
   </programme>
   <programme channel="FR2600007CB" start="20260911213412 +0000" stop="20260911234107 +0000">
     <title>30 Days of Night</title>
@@ -1527,13 +1555,10 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme channel="FRAJ3800002W5" start="20260911193340 +0000" stop="20260911220540 +0000">
-    <title>Coach Carter</title>
-    <desc>Le récit inspirant de l'entraîneur de basket-ball Ken Carter, qui reçut des éloges aussi bien que des critiques pour avoir annulé tous les matches de son équipe, alors invaincue, en raison de leurs mauvais résultats scolaires.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQU352135A_1973554468_0_20260629T200051231Z_151_imageprocessorclient-tvplus-linear-66fc4d58c8-qslt2.jpeg" />
-    <rating>
-      <value>10</value>
-    </rating>
+  <programme channel="FR42000023H" start="20260912034205 +0000" stop="20260912052837 +0000">
+    <title>Hercule à New York</title>
+    <desc>Banni du mont Olympe, Hercule (Arnold Schwarzenegger) est envoyé sur Terre où il trouve le véritable amour et entame une carrière prometteuse dans le secteur des culturistes.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQO570425A_1288301466_0_20251029T081158808Z_77_imageprocessorclient-tvplus-linear-5db7c6bc99-ztbvg.jpeg" />
   </programme>
   <programme channel="FRAJ3800002W5" start="20260911220540 +0000" stop="20260912004840 +0000">
     <title>Le droit de tuer?</title>
@@ -1553,19 +1578,6 @@
     <desc>Débordé de boulot, un conseiller financier accorde peu d'attention à sa fillette, qu'il élève seul. Jusqu'au jour où celle-ci, par le biais de ses amis imaginaires, lui fournit de précieux tuyaux qui font sa fortune.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQU352135A_1994898513_0_20260707T074551676Z_32_imageprocessorclient-tvplus-linear-66fc4d58c8-xkrsg.jpeg" />
   </programme>
-  <programme channel="FRBC9000041F" start="20260911194400 +0000" stop="20260911214100 +0000">
-    <title>The Big Ugly</title>
-    <desc>Les relations anglo-américaines se détériorent quand des mafieux londoniens investissent en Virginie.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQO570425A_733576369_0_20250321T055214946Z_1_imageprocessorclient-tvplus-linear-6fb5b47f79-jlmsc.jpeg" />
-    <rating>
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme channel="FRBC9000041F" start="20260911214100 +0000" stop="20260911220400 +0000">
-    <title>Écran Large Ep.2</title>
-    <desc>Écran Large : actu ciné, séries, comics, jeux vidéo</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQO570425A_1378214555_0_20251126T034034860Z_1_imageprocessorclient-tvplus-linear-85d7d49859-twtwh.jpeg" />
-  </programme>
   <programme channel="FRBC9000041F" start="20260911220400 +0000" stop="20260911234700 +0000">
     <title>Le Chemin du passé</title>
     <desc>Des années après la disparition d'un scientifique, sa famille trouve un indice pouvant le ramener chez lui.</desc>
@@ -1583,6 +1595,19 @@
     <title>The Big Ugly</title>
     <desc>Les relations anglo-américaines se détériorent quand des mafieux londoniens investissent en Virginie.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQO570425A_733576369_0_20250321T055214946Z_1_imageprocessorclient-tvplus-linear-6fb5b47f79-jlmsc.jpeg" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="FRBC9000041F" start="20260912033500 +0000" stop="20260912040300 +0000">
+    <title>Écran Large Ep.9</title>
+    <desc>Écran Large : actu ciné, séries, comics, jeux vidéo</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQO570425A_1378214555_0_20251126T034034860Z_1_imageprocessorclient-tvplus-linear-85d7d49859-twtwh.jpeg" />
+  </programme>
+  <programme channel="FRBC9000041F" start="20260912040300 +0000" stop="20260912054600 +0000">
+    <title>Le Chemin du passé</title>
+    <desc>Des années après la disparition d'un scientifique, sa famille trouve un indice pouvant le ramener chez lui.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQO570425A_784528483_0_20250408T155014273Z_1_imageprocessorclient-tvplus-linear-6fb5b47f79-4w9rf.jpeg" />
     <rating>
       <value>12</value>
     </rating>
@@ -1619,6 +1644,14 @@
       <value>16</value>
     </rating>
   </programme>
+  <programme channel="FR2600003OZ" start="20260912035151 +0000" stop="20260912052922 +0000">
+    <title>The Escort</title>
+    <desc>Prêt à tout pour trouver un sujet d'article intéressant, un journaliste suit une prostituée diplômée de Stanford et s'introduit dans le monde des escorts girls de luxe.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_DEQY451056A_521139763_1_20241219T032128807Z_38_imageprocessorclient-tvplus-linear-7cd5d896cc-g6qbr.jpeg" />
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
   <programme channel="FRBB340000115" start="20260911204242 +0000" stop="20260911224101 +0000">
     <title>Un hiver à Central Park</title>
     <desc>L'histoire d'une femme confrontée à la mort de sa fille en bas âge, tout en essayant de préserver son mariage et sa relation avec son beau-fils.</desc>
@@ -1649,22 +1682,6 @@
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_1610680671_0_20260209T024746618Z_1_imageprocessorclient-tvplus-linear-85d7d49859-zhg42.jpeg" />
     <rating>
       <value>10</value>
-    </rating>
-  </programme>
-  <programme channel="FRBB50000016B" start="20260911200000 +0000" stop="20260911214500 +0000">
-    <title>Kill me Later</title>
-    <desc>Shawn Holloway a vécu une vie misérable depuis que son père a quitté sa mère.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_1578475785_0_20260127T093229155Z_48_imageprocessorclient-tvplus-linear-retry-868f7c4d64-28n8z.jpeg" />
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme>
-  <programme channel="FRBB50000016B" start="20260911214500 +0000" stop="20260911220000 +0000">
-    <title>Dans la Tête d'Alan Moore</title>
-    <desc>La vie d'une légende de la BD et de la contre-culture.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_1914712613_122_20260608T020127854Z_1_imageprocessorclient-tvplus-linear-66fc4d58c8-htdx9.jpeg" />
-    <rating>
-      <value>NA</value>
     </rating>
   </programme>
   <programme channel="FRBB50000016B" start="20260911220000 +0000" stop="20260911233000 +0000">
@@ -1754,6 +1771,14 @@
       <value>16</value>
     </rating>
   </programme>
+  <programme channel="FR26000068C" start="20260912033124 +0000" stop="20260912053601 +0000">
+    <title>Made in America</title>
+    <desc>La famille que l'on cherche n'est pas toujours celle que l'on imaginait.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_DEQY451056A_1489521644_0_20251229T065520898Z_62_imageprocessorclient-tvplus-linear-85d7d49859-5pt4p.jpeg" />
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
   <programme channel="FRBD19000095S" start="20260911204515 +0000" stop="20260911230125 +0000">
     <title>Le Banni</title>
     <desc>Les légendes occidentales Pat Garrett, Doc Holliday et Billy the Kid s'affrontent pour prévaloir sur la loi et pour gagner les attentions de la vive renarde de campagne, Rio McDonald.</desc>
@@ -1774,6 +1799,14 @@
     <title>La mort était au rendez-vous</title>
     <desc>Un jeune tireur forme une alliance ténue avec un ancien hors-la-loi vieillissant pour traquer et éliminer les bandits qui ont tué sa famille, jusqu'à la fin surprenante.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_496704327_21_20240626T122616316Z_71.jpeg" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="FRBD19000095S" start="20260912035436 +0000" stop="20260912054758 +0000">
+    <title>Texas</title>
+    <desc>A Dallas, un ancien soldat de l'Union tente de démasquer une conspiration de Sudistes qui ont assassiné son père, son ami et le Président.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_1189329904_0_20250912T231317076Z_147_imageprocessorclient-tvplus-linear-5db7c6bc99-8fzp6.jpeg" />
     <rating>
       <value>12</value>
     </rating>
@@ -1802,10 +1835,18 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme channel="FRBB4600002K5" start="20260912020138 +0000" stop="20260912034638 +0000">
+  <programme channel="FRBB4600002K5" start="20260912020138 +0000" stop="20260912034611 +0000">
     <title>Mass Murderer</title>
     <desc>Eva est une jeune femme flic chargée des affaires de vols au sein de la ville de Barcelone. Un jour, elle est appelée en urgence pour rejoindre l'unité qui traque une tueuse en série ayant pour cible les vieilles femmes. Alors qu'un vent de panique s'abat sur la ville, la jeune femme pourtant novice dans ce genre d'affaires, va tenter de mettre la main sur la meurtrière… C'est sans ompter la bataille personnelle qu'elle va devoir mener de front contre son inspecteur en chef, qui passe son temps à lui fermer la porte au nez et lui compliquer la tâche au sein de l'unité.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_496705926_14_20240626T122616602Z_63.jpeg" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="FRBB4600002K5" start="20260912034611 +0000" stop="20260912053211 +0000">
+    <title>Lacérés</title>
+    <desc>La légende locale veut qu'une femme parcoure les bois à la recherche d'un joli visage pour remplacer le trou vide où le sien a été brutalement arraché. Ce soir, une famille a installé son campement dans ces mêmes bois, et ils sont sur le point de découvrir que l'histoire du tueur sans visage n'est pas un simple récit de feu de camp... Peuvent-ils échapper à la puissance d'arrachage violente de leur visage ?</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_496703596_12_20240626T122614560Z_49.jpeg" />
     <rating>
       <value>12</value>
     </rating>
@@ -1842,12 +1883,12 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme channel="FR4600001FK" start="20260911205726 +0000" stop="20260911214726 +0000">
-    <title>Helix Plan B</title>
-    <desc>Walker veut implanter le bébé de Jordan dans Amy, tandis que la marine prépare une solution radicale pour l'île.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQO570425A_1580253761_0_20260128T005437470Z_33_imageprocessorclient-tvplus-linear-85d7d49859-6vm6g.jpeg" />
+  <programme channel="FR4100001D0" start="20260912033250 +0000" stop="20260912052605 +0000">
+    <title>UFO</title>
+    <desc>Une horde d'OVNIS envahit le ciel de Londres dans le but d'anéantir toute forme de vie humaine.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_DEQY451056A_1283534823_0_20251027T053648291Z_127_imageprocessorclient-tvplus-linear-5db7c6bc99-q6tkt.jpeg" />
     <rating>
-      <value>10</value>
+      <value>16</value>
     </rating>
   </programme>
   <programme channel="FR4600001FK" start="20260911214726 +0000" stop="20260911222026 +0000">
@@ -1894,12 +1935,12 @@
     <desc>Un ancien partenaire d'Augur trahit la Résistance pour Da'an, tandis que Sandoval souffre d'une maladie sanguine mortelle.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQO570425A_715568613_0_20250314T191419825Z_80_imageprocessorclient-tvplus-linear-6fb5b47f79-fqksw.jpeg" />
   </programme>
-  <programme channel="FR3700003N4" start="20260911200000 +0000" stop="20260911220000 +0000">
-    <title>The Education of Charlie Banks</title>
-    <desc>Charlie Banks affronte son ancien tyran du lycée lorsque celui-ci revient sur son campus.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_1636343675_0_20260219T055517393Z_1_imageprocessorclient-tvplus-linear-retry-868f7c4d64-28n8z.jpeg" />
+  <programme channel="FR4600001FK" start="20260912035223 +0000" stop="20260912044223 +0000">
+    <title>Helix Plan B</title>
+    <desc>Walker veut implanter le bébé de Jordan dans Amy, tandis que la marine prépare une solution radicale pour l'île.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQO570425A_1580253761_0_20260128T005437470Z_33_imageprocessorclient-tvplus-linear-85d7d49859-6vm6g.jpeg" />
     <rating>
-      <value>NA</value>
+      <value>10</value>
     </rating>
   </programme>
   <programme channel="FR3700003N4" start="20260911220000 +0000" stop="20260911234500 +0000">
@@ -1926,6 +1967,14 @@
       <value>NA</value>
     </rating>
   </programme>
+  <programme channel="FR3700003N4" start="20260912040000 +0000" stop="20260912053000 +0000">
+    <title>Le combat d'une femme</title>
+    <desc>Après avoir été violée, Debbie Smith n'a pas pris la justice en main. Elle a créé sa propre loi.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_1628405257_0_20260216T033017398Z_87_imageprocessorclient-tvplus-linear-retry-868f7c4d64-khnsl.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
   <programme channel="FR2600005LH" start="20260911205951 +0000" stop="20260911231140 +0000">
     <title>Touchback</title>
     <desc>Scott Murphy (Brian Presley), un agriculteur en difficulté, réfléchit à ses rêves brisés après qu'une blessure au football en 1996 ait mis fin à sa chance de devenir une légende. Un accident le transporte à la semaine précédant le match de championnat, lui offrant une chance de changer son destin.</desc>
@@ -1946,6 +1995,14 @@
     <title>Rogue agent</title>
     <desc>Focus sur le parcours Robert Hendy-Freegard. Cet ancien barman s'est fait passer pendant près de dix ans pour un agent des services secrets britanniques. Il parvenait à convaincre ses victimes qu'elles étaient les proies de terroristes de l'IRA.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_DEQY451056A_2155069509_0_20260901T033424868Z_103_imageprocessorclient-tvplus-linear-b5879c6c6-zkq88.jpeg" />
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="FR2600005LH" start="20260912033927 +0000" stop="20260912052429 +0000">
+    <title>Hours</title>
+    <desc>Eté 2005. L'ouragan Katrina dévaste la Nouvelle-Orléans. Nolan Hayes emmène aux urgences son épouse enceinte. Sa vie bascule lorsqu'il apprend son décès et découvre son enfant prématuré. Nolan se retrouve seul et doit veiller sur sa fille, maintenue en vie dans une couveuse...</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_DEQY451056A_1287734324_0_20251029T034035366Z_128_imageprocessorclient-tvplus-linear-5db7c6bc99-8fmg9.jpeg" />
     <rating>
       <value>16</value>
     </rating>
@@ -1982,6 +2039,22 @@
       <value>NA</value>
     </rating>
   </programme>
+  <programme channel="FR3700001AG" start="20260912034500 +0000" stop="20260912040000 +0000">
+    <title>En ce moment sur Box Office Action</title>
+    <desc>Découvrez les bandes annonces des films à l'affiche sur les chaînes Box Office</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_1031336560_0_20250705T003158869Z_70_imageprocessorclient-tvplus-linear-5db7c6bc99-q9lf2.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="FR3700001AG" start="20260912040000 +0000" stop="20260912061500 +0000">
+    <title>The Endless</title>
+    <desc>Deux frères retournent dans la secte qu'ils ont fui des années auparavant...</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_1253710438_0_20251013T113303608Z_1_imageprocessorclient-tvplus-linear-retry-69bdc5c75f-rfqr2.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
   <programme channel="FR2600002X9" start="20260911210017 +0000" stop="20260911224716 +0000">
     <title>Killing Salazar</title>
     <desc>Une équipe d'élite d'agents est chargée de protéger un dangereux baron de la drogue. Ils se réfugient dans un hôtel de luxe en attendant leur extraction. Ils se retrouvent bientôt au centre d'une embuscade alors que les anciens associés du baron de la drogue lancent un assaut explosif sur l'hôtel.</desc>
@@ -2014,20 +2087,12 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme channel="FR1800003VF" start="20260911195914 +0000" stop="20260911214057 +0000">
-    <title>Hitcher</title>
-    <desc>Jim Halsey accepte de convoyer une voiture à travers les États-Unis pour s'éviter des frais de voyage onéreux. Par une nuit pluvieuse il prend en auto-stop un dénommé John Ryder, un personnage étrange et inquiétant. Jim comprend très rapidement qu'il a affaire à un tueur psychopathe...</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_2159975062_42_20260902T181720523Z_19_imageprocessorclient-tvplus-linear-b5879c6c6-n9nsv.jpeg" />
+  <programme channel="FR2600002X9" start="20260912035149 +0000" stop="20260912054732 +0000">
+    <title>Daredevil</title>
+    <desc>Un avocat aveuglé par des déchets radioactifs combat le crime comme un superhéros acrobate des arts martiaux, en utilisant ses autres sens, qui ont été affûtés.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_DEQY451056A_1396021902_0_20251201T072735564Z_44_imageprocessorclient-tvplus-linear-85d7d49859-779xr.jpeg" />
     <rating>
-      <value>NA</value>
-    </rating>
-  </programme>
-  <programme channel="FR1800003VF" start="20260911214057 +0000" stop="20260911215249 +0000">
-    <title>Au Prix de la Chair</title>
-    <desc>Alice est une adolescente paralysée qui ne peut communiquer qu'à travers les mouvements de ses yeux. Son frère et sa sœur sont prêts à tout pour la guérir, y compris en ayant recours aux méthodes les plus obscures...</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_1944604370_2_20260619T074006863Z_1_imageprocessorclient-tvplus-linear-66fc4d58c8-vgbll.jpeg" />
-    <rating>
-      <value>NA</value>
+      <value>16</value>
     </rating>
   </programme>
   <programme channel="FR1800003VF" start="20260911215249 +0000" stop="20260911221124 +0000">
@@ -2094,12 +2159,12 @@
       <value>NA</value>
     </rating>
   </programme>
-  <programme channel="FR4000002JN" start="20260911191635 +0000" stop="20260911211639 +0000">
-    <title>Jamesy Boy</title>
-    <desc>Un jeune délinquant incarcéré dans une prison de haute sécurité se lie d'amitié avec un meurtrier qui devient son mentor.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_DEQY451056A_1770295078_0_20260412T044333791Z_151_imageprocessorclient-tvplus-linear-74d4c47476-qgk7g.jpeg" />
+  <programme channel="FR1800003VF" start="20260912031228 +0000" stop="20260912044923 +0000">
+    <title>L'Au-delà</title>
+    <desc>Une jeune femme hérite d'un hôtel à la Nouvelle Orléans. Alors qu'elle entreprend des travaux de rénovation, des phénomènes étranges font de sa vie un véritable enfer.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_1944642494_1_20260619T074007374Z_37_imageprocessorclient-tvplus-linear-66fc4d58c8-txs4t.jpeg" />
     <rating>
-      <value>12</value>
+      <value>NA</value>
     </rating>
   </programme>
   <programme channel="FR4000002JN" start="20260911211639 +0000" stop="20260911224726 +0000">
@@ -2130,6 +2195,14 @@
     <title>La Malédiction des Profondeurs</title>
     <desc>Après des décennies de silence, des esprits malveillants refont surface et terrorisent les habitants de la ville.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_DEQY451056A_1920272644_0_20260610T035600188Z_48_imageprocessorclient-tvplus-linear-66fc4d58c8-jc97r.jpeg" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="FR4000002JN" start="20260912040258 +0000" stop="20260912054733 +0000">
+    <title>Rottweiler</title>
+    <desc>Laissé pour mort, un chien particulièrement féroce est réanimé et transformé par les laboratoires de l'armée en véritable cyborg.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_DEQY451056A_1893773195_0_20260531T061411587Z_122_imageprocessorclient-tvplus-linear-66fc4d58c8-ptkl9.jpeg" />
     <rating>
       <value>12</value>
     </rating>
@@ -2188,6 +2261,14 @@
     <title>Transfert</title>
     <desc>Une ex-agent de la CIA cherche à savoir ce qui est arrivé à son mari, blessé lors d'une mission.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_525225751_0_20241221T001419854Z_54_imageprocessorclient-tvplus-linear-7cd5d896cc-zljw4.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="FR370000288" start="20260912040000 +0000" stop="20260912054500 +0000">
+    <title>Kronos, le soulèvement des machines</title>
+    <desc>En 2020, Kronos, un superordinateur, juge l'humanité dangereuse et veut l'éradiquer.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_1818947173_33_20260502T024903226Z_50_imageprocessorclient-tvplus-linear-74d4c47476-9tgkn.jpeg" />
     <rating>
       <value>NA</value>
     </rating>
@@ -2260,10 +2341,10 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme channel="USBD300012YC" start="20260911210000 +0000" stop="20260911220000 +0000">
-    <title>Rock Out!</title>
-    <desc>From hair metal to hardcore, the guitar-driven videos that kept the decade at top volume!</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3423914367_5_20260903T174839323Z_73_imageprocessorclient-tvplus-linear-6b56cc9f55-hlb7z.png" />
+  <programme channel="USBD300011KQ" start="20260912040000 +0000" stop="20260912060000 +0000">
+    <title>Sounds of the Seventies</title>
+    <desc>From funk to punk, the Me Decade had a song for everyone.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3423914170_1_20260903T174839466Z_43_imageprocessorclient-tvplus-linear-6b56cc9f55-zzrrj.png" />
     <rating>
       <value>TV-14</value>
     </rating>
@@ -2316,6 +2397,22 @@
       <value>TV-14</value>
     </rating>
   </programme>
+  <programme channel="USBD300012YC" start="20260912033000 +0000" stop="20260912040000 +0000">
+    <title>Rhythm &amp; Grooves</title>
+    <desc>R&amp;B and funk that had the '80s dancing and romancing.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3423928118_11_20260903T174840121Z_83_imageprocessorclient-tvplus-linear-6b56cc9f55-rhk9l.png" />
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme channel="USBD300012YC" start="20260912040000 +0000" stop="20260912050000 +0000">
+    <title>Alternative Eighties</title>
+    <desc>From New Romantic to New Wave, modern rock artists that strived to change the musical landscape.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3423914466_0_20260903T174837896Z_43_imageprocessorclient-tvplus-linear-6b56cc9f55-b6b8l.png" />
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
   <programme channel="USBD3000133M" start="20260911210000 +0000" stop="20260911230000 +0000">
     <title>Best of Oasis</title>
     <desc>Videos and performances from the brothers Gallagher and their legendary band.</desc>
@@ -2364,10 +2461,10 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme channel="USBB4400015F5" start="20260911210000 +0000" stop="20260911220000 +0000">
-    <title>Women of the 2000s</title>
-    <desc>Jams and ballads from the ladies who defined the decade.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3423912263_2_20260903T174838795Z_70_imageprocessorclient-tvplus-linear-6b56cc9f55-fngwt.png" />
+  <programme channel="USBD3000133M" start="20260912040000 +0000" stop="20260912060000 +0000">
+    <title>All-Out '90s</title>
+    <desc>Videos from grunge to gangsta.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3423913627_7_20260903T174840390Z_80_imageprocessorclient-tvplus-linear-6b56cc9f55-xsq55.png" />
     <rating>
       <value>TV-14</value>
     </rating>
@@ -2412,10 +2509,10 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme channel="USBC3600001RQ" start="20260911210000 +0000" stop="20260911220000 +0000">
-    <title>Today's Country</title>
-    <desc>The most popular country videos of the week.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3423911880_10_20260903T174840037Z_71_imageprocessorclient-tvplus-linear-6b56cc9f55-jvt28.png" />
+  <programme channel="USBB4400015F5" start="20260912040000 +0000" stop="20260912060000 +0000">
+    <title>Hot 2K Videos</title>
+    <desc>The decade's best Pop, Hip-Hop, Alt and more!</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3423912153_9_20260903T174839722Z_1_imageprocessorclient-tvplus-linear-6b56cc9f55-wff4c.png" />
     <rating>
       <value>TV-14</value>
     </rating>
@@ -2448,6 +2545,14 @@
     <title>Honky-Tonk Energy</title>
     <desc>Songs you'll want to sing at the top of your lungs.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3423911876_15_20260903T174840895Z_115_imageprocessorclient-tvplus-linear-6b56cc9f55-cvmx2.png" />
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme channel="USBC3600001RQ" start="20260912040000 +0000" stop="20260912050000 +0000">
+    <title>Country Rewind</title>
+    <desc>Throwback country hits.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3423912606_12_20260903T174840233Z_40_imageprocessorclient-tvplus-linear-6b56cc9f55-vlfb7.png" />
     <rating>
       <value>TV-14</value>
     </rating>
@@ -2496,27 +2601,6 @@
     <display-name>Ciné Rétro by Pluto TV</display-name>
     <icon src="https://images.pluto.tv/channels/5f8ed168f72fcd0007e56269/colorLogoPNG_1751272859383.png" />
   </channel>
-  <programme channel="5f8ed0f17564a300082b676a" start="20260911173223 +0000" stop="20260911192754 +0000">
-    <title>Boy A</title>
-    <episode-num system="original-air-date">20070824000000 +0000</episode-num>
-    <desc>Jack Burridge, condamné pour le meurtre d'un enfant, trouve un emploi de livreur. Un journal local découvre son passé et Jack se retrouve à essayer de faire face à la colère et à la crainte pour la sécurité de ses enfants.</desc>
-    <icon src="https://images.pluto.tv/episodes/67d306a6917edb24227d6792/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <date>20070824</date>
-    <series-id system="pluto">67d306a5917edb24227d676f</series-id>
-    <category>Inspirational Drama</category>
-    <category>Movie</category>
-    <category>Drama</category>
-  </programme>
-  <programme channel="5f8ed0f17564a300082b676a" start="20260911192754 +0000" stop="20260911205913 +0000">
-    <title>Nick Of Time</title>
-    <episode-num system="original-air-date">19950101000000 +0000</episode-num>
-    <desc>Un modeste comptable se trouve pris dans un terrible piège lorsque sa fille est enlevée sous ses yeux afin de l'obliger à assassiner une femme politique influente. Il se rend compte que les services de sécurité font partie du complot.</desc>
-    <icon src="https://images.pluto.tv/episodes/661e208aa9f2d20013a9ea92/poster_1776895225187.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <date>19950101</date>
-    <series-id system="pluto">661e2088a9f2d20013a9ea72</series-id>
-    <category>Action</category>
-    <category>Movie</category>
-  </programme>
   <programme channel="5f8ed0f17564a300082b676a" start="20260911205913 +0000" stop="20260911232340 +0000">
     <title>Shutter Island</title>
     <episode-num system="original-air-date">20100218000000 +0000</episode-num>
@@ -2564,9 +2648,9 @@
     <icon src="https://images.pluto.tv/episodes/607060528fe583001a4f0be5/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
     <date>20190101</date>
     <series-id system="pluto">607060508fe583001a4f0bdf</series-id>
-    <category>Science fiction</category>
     <category>Adventure</category>
     <category>Movie</category>
+    <category>Science fiction</category>
   </programme>
   <programme channel="5f8ed0f17564a300082b676a" start="20260912061343 +0000" stop="20260912082343 +0000">
     <title>Love, et autres drogues</title>
@@ -2575,8 +2659,8 @@
     <icon src="https://images.pluto.tv/episodes/606eda7b5426cf001a3a8a87/poster_1785919322263.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
     <date>20101019</date>
     <series-id system="pluto">606eda795426cf001a3a8a81</series-id>
-    <category>Romance</category>
     <category>Movie</category>
+    <category>Romance</category>
   </programme>
   <programme channel="5f8ed0f17564a300082b676a" start="20260912082343 +0000" stop="20260912101643 +0000">
     <title>Ghost Town</title>
@@ -2595,27 +2679,27 @@
     <icon src="https://images.pluto.tv/episodes/661e198ebf522d00134fdf8c/poster_1779839281985.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
     <date>20120330</date>
     <series-id system="pluto">661e198dbf522d00134fdf6d</series-id>
-    <category>Movie</category>
     <category>Dramedy</category>
+    <category>Movie</category>
     <category>Drama</category>
   </programme>
-  <programme channel="5f8ed168f72fcd0007e56269" start="20260911171034 +0000" stop="20260911191023 +0000">
-    <title>King Creole</title>
-    <episode-num system="original-air-date">19580702000000 +0000</episode-num>
-    <desc>Un nouveau rythme secoue la Nouvelle-Orléans avec Elvis Presley dans Bagarres au King Créole. Il y incarne un jeune homme en perdition qui enflamme les scènes du quartier français.</desc>
-    <icon src="https://images.pluto.tv/episodes/661d4ac9a9f2d200139f0be9/poster_1779838562049.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <date>19580702</date>
-    <series-id system="pluto">661d4ac8a9f2d200139f0bca</series-id>
-    <category>Musical</category>
+  <programme channel="5f8ed0f17564a300082b676a" start="20260912114105 +0000" stop="20260912131350 +0000">
+    <title>Fantastic Mr. Fox</title>
+    <episode-num system="original-air-date">20091008000000 +0000</episode-num>
+    <desc>M. et Mme Renard vivent heureux jusqu'à ce qu'ils préparent un vol de poules.</desc>
+    <icon src="https://images.pluto.tv/episodes/67d3ddc9f456458f6c80375d/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <date>20091008</date>
+    <series-id system="pluto">67d3ddc8f456458f6c80373a</series-id>
     <category>Movie</category>
+    <category>Drama</category>
   </programme>
-  <programme channel="5f8ed168f72fcd0007e56269" start="20260911191023 +0000" stop="20260911215044 +0000">
-    <title>Amistad</title>
-    <episode-num system="original-air-date">19971225000000 +0000</episode-num>
-    <desc>Amistad raconte une mutinerie à bord d'un navire négrier qui se dirige vers la côte nord-est de l'Amérique en 1839. L'histoire se concentre sur le procès concernant l'esclave qui a mené la révolte.</desc>
-    <icon src="https://images.pluto.tv/episodes/6617d0c2a7a31d00171ec07b/poster_1779904802447.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <date>19971225</date>
-    <series-id system="pluto">6617d0c0a7a31d00171ec05b</series-id>
+  <programme channel="5f8ed0f17564a300082b676a" start="20260912131350 +0000" stop="20260912155650 +0000">
+    <title>Le droit de tuer?</title>
+    <episode-num system="original-air-date">19960724000000 +0000</episode-num>
+    <desc>Après le viol de sa fille de dix ans par deux Blancs qui se croient au dessus de la loi, le père se fait justice en abattant les deux violeurs.</desc>
+    <icon src="https://images.pluto.tv/episodes/6062fff5918e16001a4fbad5/poster_1785849121611.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <date>19960724</date>
+    <series-id system="pluto">6062fff3918e16001a4fbacf</series-id>
     <category>Thriller</category>
     <category>Movie</category>
   </programme>
@@ -2626,8 +2710,8 @@
     <icon src="https://images.pluto.tv/episodes/64e4b9c62daa2c0013e938cf/poster_1781633882122.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
     <date>19950101</date>
     <series-id system="pluto">64e4b9c42daa2c0013e938b0</series-id>
-    <category>Movie</category>
     <category>Comedy</category>
+    <category>Movie</category>
   </programme>
   <programme channel="5f8ed168f72fcd0007e56269" start="20260911234344 +0000" stop="20260912013145 +0000">
     <title>Funny Face</title>
@@ -2656,8 +2740,8 @@
     <icon src="https://images.pluto.tv/episodes/66192eed2fd04d00130c91bb/poster_1780845842440.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
     <date>19840720</date>
     <series-id system="pluto">66192eec2fd04d00130c919b</series-id>
-    <category>Movie</category>
     <category>Comedy</category>
+    <category>Movie</category>
   </programme>
   <programme channel="5f8ed168f72fcd0007e56269" start="20260912052016 +0000" stop="20260912065316 +0000">
     <title>Jackie Chan Le Magnifique</title>
@@ -2676,8 +2760,8 @@
     <icon src="https://images.pluto.tv/episodes/6a6311acfb2bd7ef08d299ae/poster_1784877485465.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
     <date>19720101</date>
     <series-id system="pluto">6a6311abfb2bd7ef08d29990</series-id>
-    <category>Movie</category>
     <category>Independent Drama</category>
+    <category>Movie</category>
     <category>Drama</category>
   </programme>
   <programme channel="5f8ed168f72fcd0007e56269" start="20260912081405 +0000" stop="20260912095325 +0000">
@@ -2700,25 +2784,25 @@
     <category>Thriller</category>
     <category>Movie</category>
   </programme>
-  <programme channel="5f8ed1ff5c39700007e2204a" start="20260911174707 +0000" stop="20260911192628 +0000">
-    <title>Breakwater</title>
-    <episode-num system="original-air-date">20230101000000 +0000</episode-num>
-    <desc>Un ex-détenu part à la recherche de la fille d'un ancien codétenu.</desc>
-    <icon src="https://images.pluto.tv/episodes/693834e58e21e6575ad5f41f/poster_1765291239287.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <date>20230101</date>
-    <series-id system="pluto">693834e28e21e6575ad5f400</series-id>
-    <category>Thriller</category>
+  <programme channel="5f8ed168f72fcd0007e56269" start="20260912114425 +0000" stop="20260912130736 +0000">
+    <title>Conquest of Space</title>
+    <episode-num system="original-air-date">19550420000000 +0000</episode-num>
+    <desc>La Roue, satellite artificiel, se trouve en orbite à près de 1600 kilomètres de la Terre. Six courageux volontaires observent à son bord un régime alimentaire consistant uniquement en diverses gélules.</desc>
+    <icon src="https://images.pluto.tv/episodes/66193a2bacbc680013703308/poster_1779667202931.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <date>19550420</date>
+    <series-id system="pluto">66193a29acbc6800137032e9</series-id>
+    <category>Classic Sci-Fi &amp; Fantasy</category>
     <category>Movie</category>
+    <category>Science fiction</category>
   </programme>
-  <programme channel="5f8ed1ff5c39700007e2204a" start="20260911192628 +0000" stop="20260911211507 +0000">
-    <title>Hierarchy : Braquage au sommet</title>
-    <episode-num system="original-air-date">20250101000000 +0000</episode-num>
-    <desc>Deux frères adoptifs s’apprêtent à réaliser le braquage le plus risqué de leur vie, un coup qui pourrait les libérer à jamais. Mais traqués par une mafia impitoyable et une police prête à tout pour les arrêter, ils devront choisir entre la fuite, la…</desc>
-    <icon src="https://images.pluto.tv/episodes/6a83208b323bf2ec8c7670ff/poster_1786978444163.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <date>20250101</date>
-    <series-id system="pluto">6a83208a323bf2ec8c7670e0</series-id>
-    <category>Action</category>
-    <category>Adventure</category>
+  <programme channel="5f8ed168f72fcd0007e56269" start="20260912130736 +0000" stop="20260912145836 +0000">
+    <title>Blue Steel</title>
+    <episode-num system="original-air-date">19900316000000 +0000</episode-num>
+    <desc>Une nouvelle recrue des forces de police joue au chat et à la souris avec un psychopathe fou de la gâchette, obsédé par elle.</desc>
+    <icon src="https://images.pluto.tv/episodes/624a923d6b411b00137bd213/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <date>19900316</date>
+    <series-id system="pluto">624a923c6b411b00137bd20c</series-id>
+    <category>Thriller</category>
     <category>Movie</category>
   </programme>
   <programme channel="5f8ed1ff5c39700007e2204a" start="20260911211507 +0000" stop="20260911231553 +0000">
@@ -2728,8 +2812,8 @@
     <icon src="https://images.pluto.tv/episodes/6a8321f7cd7852640b3193f1/poster_1786978808595.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
     <date>20240101</date>
     <series-id system="pluto">6a8321f6cd7852640b3193d2</series-id>
-    <category>Action</category>
     <category>Adventure</category>
+    <category>Action</category>
     <category>Movie</category>
   </programme>
   <programme channel="5f8ed1ff5c39700007e2204a" start="20260911231553 +0000" stop="20260912012115 +0000">
@@ -2789,9 +2873,9 @@
     <icon src="https://images.pluto.tv/episodes/60743fd2e85e72001a6591b4/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
     <date>20180330</date>
     <series-id system="pluto">60743fd1e85e72001a6591ae</series-id>
-    <category>Science fiction</category>
     <category>Adventure</category>
     <category>Movie</category>
+    <category>Science fiction</category>
   </programme>
   <programme channel="5f8ed1ff5c39700007e2204a" start="20260912101043 +0000" stop="20260912114543 +0000">
     <title>End of a Gun</title>
@@ -2803,25 +2887,25 @@
     <category>Action</category>
     <category>Movie</category>
   </programme>
-  <programme channel="60812fc8539963000707d1e1" start="20260911172907 +0000" stop="20260911190623 +0000">
-    <title>Un Secret Bien Gardé</title>
-    <episode-num system="original-air-date">20190101000000 +0000</episode-num>
-    <desc>Prise de panique, une jeune femme avoue à un inconnu ses secrets les plus intimes car elle pense que l'avion dans lequel elle voyage est sur le point de s'écraser. Or, elle ignore que cet homme est son nouveau patron.</desc>
-    <icon src="https://images.pluto.tv/episodes/6698baa99322c000136ce1e1/poster_1768344481624.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <date>20190101</date>
-    <series-id system="pluto">6698baa89322c000136ce1c2</series-id>
-    <category>Romance</category>
+  <programme channel="5f8ed1ff5c39700007e2204a" start="20260912114543 +0000" stop="20260912132746 +0000">
+    <title>Hours</title>
+    <episode-num system="original-air-date">20130101000000 +0000</episode-num>
+    <desc>Alors que l’ouragan Katrina frappe la Nouvelle-Orléans, un jeune père doit lutter pour la survie de son bébé prématuré dans un hôpital déserté de tous… ou presque.</desc>
+    <icon src="https://images.pluto.tv/episodes/68e63a59e75d6b4e6ff652d3/poster_1759955656687.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <date>20130101</date>
+    <series-id system="pluto">68e63a58e75d6b4e6ff652b3</series-id>
+    <category>Deadly Disasters</category>
+    <category>Action</category>
     <category>Movie</category>
-    <category>Romantic comedy</category>
   </programme>
-  <programme channel="60812fc8539963000707d1e1" start="20260911190623 +0000" stop="20260911211623 +0000">
-    <title>Love, et autres drogues</title>
-    <episode-num system="original-air-date">20101019000000 +0000</episode-num>
-    <desc>Un commercial de Viagra à qui aucune femme ne résiste tombe amoureux d’une femme très indépendante.</desc>
-    <icon src="https://images.pluto.tv/episodes/606eda7b5426cf001a3a8a87/poster_1785919322263.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <date>20101019</date>
-    <series-id system="pluto">606eda795426cf001a3a8a81</series-id>
-    <category>Romance</category>
+  <programme channel="5f8ed1ff5c39700007e2204a" start="20260912132746 +0000" stop="20260912151309 +0000">
+    <title>Kung Fu Killer</title>
+    <episode-num system="original-air-date">20141012000000 +0000</episode-num>
+    <desc>Un tueur abat les plus grands maîtres d’arts martiaux et laisse derrière lui une arme nommée Moonshadow. Le détenu Hou Mo, expert en kung-fu, reconnaît sa technique et propose d’aider la police à l’arrêter, en échange de sa liberté.</desc>
+    <icon src="https://images.pluto.tv/episodes/68711d1e4f8d4a99171db17d/poster_1777909321697.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <date>20141012</date>
+    <series-id system="pluto">68711d1d4f8d4a99171db15d</series-id>
+    <category>Action</category>
     <category>Movie</category>
   </programme>
   <programme channel="60812fc8539963000707d1e1" start="20260911211623 +0000" stop="20260911225748 +0000">
@@ -2841,8 +2925,8 @@
     <icon src="https://images.pluto.tv/episodes/69397475232b4e31aacff847/poster_1765429436996.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
     <date>20240101</date>
     <series-id system="pluto">69397474232b4e31aacff828</series-id>
-    <category>Romance</category>
     <category>Movie</category>
+    <category>Romance</category>
   </programme>
   <programme channel="60812fc8539963000707d1e1" start="20260912004136 +0000" stop="20260912023936 +0000">
     <title>Chaudes nuits d'été</title>
@@ -2862,8 +2946,8 @@
     <date>20150101</date>
     <series-id system="pluto">6698c04614c6d20013938eb0</series-id>
     <category>Movie</category>
-    <category>Historical Drama</category>
     <category>Drama</category>
+    <category>Historical Drama</category>
   </programme>
   <programme channel="60812fc8539963000707d1e1" start="20260912044211 +0000" stop="20260912070111 +0000">
     <title>The Fighting Temptations</title>
@@ -2872,9 +2956,9 @@
     <icon src="https://images.pluto.tv/episodes/6020f00f87be07001a2a0698/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
     <date>20030101</date>
     <series-id system="pluto">6020f00e87be07001a2a0692</series-id>
-    <category>Movie</category>
     <category>Comedy</category>
     <category>Late Night Comedies</category>
+    <category>Movie</category>
   </programme>
   <programme channel="60812fc8539963000707d1e1" start="20260912070111 +0000" stop="20260912090211 +0000">
     <title>Sex List</title>
@@ -2883,9 +2967,9 @@
     <icon src="https://images.pluto.tv/episodes/606d73dca224c9001bb94894/poster_1779836761952.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
     <date>20110930</date>
     <series-id system="pluto">606d73dba224c9001bb9488e</series-id>
-    <category>Romance</category>
-    <category>Movie</category>
     <category>Romantic comedy</category>
+    <category>Movie</category>
+    <category>Romance</category>
   </programme>
   <programme channel="60812fc8539963000707d1e1" start="20260912090211 +0000" stop="20260912104011 +0000">
     <title>They Came Together</title>
@@ -2894,8 +2978,8 @@
     <icon src="https://images.pluto.tv/episodes/5fbf615499839e0013e069d5/poster_1768267249156.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
     <date>20140209</date>
     <series-id system="pluto">5fbf615499839e0013e069cf</series-id>
-    <category>Romance</category>
     <category>Movie</category>
+    <category>Romance</category>
   </programme>
   <programme channel="60812fc8539963000707d1e1" start="20260912104011 +0000" stop="20260912125011 +0000">
     <title>Love, et autres drogues</title>
@@ -2904,29 +2988,19 @@
     <icon src="https://images.pluto.tv/episodes/606eda7b5426cf001a3a8a87/poster_1785919322263.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
     <date>20101019</date>
     <series-id system="pluto">606eda795426cf001a3a8a81</series-id>
+    <category>Movie</category>
     <category>Romance</category>
-    <category>Movie</category>
   </programme>
-  <programme channel="60c34592c911890007f29a73" start="20260911172412 +0000" stop="20260911190236 +0000">
-    <title>Kronos : Le Soulèvement Des Robots</title>
-    <episode-num system="original-air-date">20171124000000 +0000</episode-num>
-    <desc>En 2020, Elias van Dorne, PDG de VA Industries, lance Kronos, un super-ordinateur censé mettre fin aux guerres. Mais une fois activé, Kronos conclut que l’humanité est la menace principale et déclenche une attaque mondiale pour l’éliminer.</desc>
-    <icon src="https://images.pluto.tv/episodes/6867cc1ea53444ef2a628d78/poster_1776241801350.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <date>20171124</date>
-    <series-id system="pluto">6867cc1da53444ef2a628d59</series-id>
-    <category>Science fiction</category>
+  <programme channel="60812fc8539963000707d1e1" start="20260912125011 +0000" stop="20260912145026 +0000">
+    <title>Père et fille</title>
+    <episode-num system="original-air-date">20151001000000 +0000</episode-num>
+    <desc>Le célèbre romancier Jake Davis et sa fille Katie, étudiante en psychologie, vivent tous les deux à New York et doivent faire face à leurs propres démons à 25 ans d'intervalle.</desc>
+    <icon src="https://images.pluto.tv/episodes/6a282ebd114ca7fcbee6ba8d/poster_1781018325455.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <date>20151001</date>
+    <series-id system="pluto">6a282ebc114ca7fcbee6ba6e</series-id>
+    <category>Independent Drama</category>
     <category>Movie</category>
-  </programme>
-  <programme channel="60c34592c911890007f29a73" start="20260911190236 +0000" stop="20260911205136 +0000">
-    <title>Seuls sur Terre</title>
-    <episode-num system="original-air-date">20180101000000 +0000</episode-num>
-    <desc>Del pense être le dernier homme sur Terre suite à une catastrophe qui a décimé l'humanité. Mais son isolement est contrarié par l'arrivée d'une jeune fille.</desc>
-    <icon src="https://images.pluto.tv/episodes/61f7910e0a7fe8001a15c851/poster_1768512152467.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <date>20180101</date>
-    <series-id system="pluto">61f7910c0a7fe8001a15c84b</series-id>
-    <category>Science fiction</category>
-    <category>Classic Sci-Fi &amp; Fantasy</category>
-    <category>Movie</category>
+    <category>Drama</category>
   </programme>
   <programme channel="60c34592c911890007f29a73" start="20260911205136 +0000" stop="20260911222701 +0000">
     <title>Hell</title>
@@ -2935,8 +3009,8 @@
     <icon src="https://images.pluto.tv/episodes/6979f15900cf117a554111c3/poster_1769599322633.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
     <date>20110101</date>
     <series-id system="pluto">6979f15800cf117a554111a5</series-id>
-    <category>Science fiction</category>
     <category>Movie</category>
+    <category>Science fiction</category>
   </programme>
   <programme channel="60c34592c911890007f29a73" start="20260911222701 +0000" stop="20260912001951 +0000">
     <title>Dead Zone</title>
@@ -2956,9 +3030,9 @@
     <icon src="https://images.pluto.tv/episodes/68f72ca63fb09016dabe9aa4/poster_1761034934239.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
     <date>19900430</date>
     <series-id system="pluto">68f72ca53fb09016dabe9a84</series-id>
-    <category>Science fiction</category>
-    <category>Movie</category>
     <category>Sci-Fi Horror</category>
+    <category>Movie</category>
+    <category>Science fiction</category>
   </programme>
   <programme channel="60c34592c911890007f29a73" start="20260912020303 +0000" stop="20260912044003 +0000">
     <title>Brazil</title>
@@ -2967,9 +3041,9 @@
     <icon src="https://images.pluto.tv/episodes/606d73b0a224c9001bb9462a/poster_1779493682220.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
     <date>19850220</date>
     <series-id system="pluto">606d73aea224c9001bb94624</series-id>
-    <category>Science fiction</category>
     <category>Classic Sci-Fi &amp; Fantasy</category>
     <category>Movie</category>
+    <category>Science fiction</category>
   </programme>
   <programme channel="60c34592c911890007f29a73" start="20260912044003 +0000" stop="20260912063925 +0000">
     <title>G.I. Joe Conspiration</title>
@@ -2989,9 +3063,9 @@
     <icon src="https://images.pluto.tv/episodes/612dfadcdc29d20013b79945/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
     <date>20200101</date>
     <series-id system="pluto">612dfadbdc29d20013b7993f</series-id>
-    <category>Science fiction</category>
     <category>Adventure</category>
     <category>Movie</category>
+    <category>Science fiction</category>
   </programme>
   <programme channel="60c34592c911890007f29a73" start="20260912083625 +0000" stop="20260912103125 +0000">
     <title>Le dernier refuge: Au revoir monde</title>
@@ -3010,19 +3084,30 @@
     <icon src="https://images.pluto.tv/episodes/64d0a491e675cb0013c7f53e/poster_1784533330734.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
     <date>19990101</date>
     <series-id system="pluto">64d0a48fe675cb0013c7f51f</series-id>
-    <category>Science fiction</category>
     <category>Classic Sci-Fi &amp; Fantasy</category>
     <category>Movie</category>
+    <category>Science fiction</category>
   </programme>
-  <programme channel="60c3472a51a2050008dad272" start="20260911183000 +0000" stop="20260911195700 +0000">
-    <title>La maîtresse du diable</title>
-    <episode-num system="original-air-date">20130101000000 +0000</episode-num>
-    <desc>Une ancienne star tente de faire un retour mais elle est menacée par un maître chanteur anonyme.</desc>
-    <icon src="https://images.pluto.tv/episodes/609aaa182959900013994568/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <date>20130101</date>
-    <series-id system="pluto">609aaa172959900013994562</series-id>
-    <category>Thriller</category>
+  <programme channel="60c34592c911890007f29a73" start="20260912122525 +0000" stop="20260912135551 +0000">
+    <title>Au Coeur de l'apocalypse</title>
+    <episode-num system="original-air-date">20181120000000 +0000</episode-num>
+    <desc>Une tempête solaire déclenche des catastrophes dévastatrices à Los Angeles et menace l’humanité entière.</desc>
+    <icon src="https://images.pluto.tv/episodes/6a22bfe40aef1275c63c267e/poster_1781517601834.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <date>20181120</date>
+    <series-id system="pluto">6a22bfe30aef1275c63c265f</series-id>
     <category>Movie</category>
+    <category>Science fiction</category>
+  </programme>
+  <programme channel="60c34592c911890007f29a73" start="20260912135551 +0000" stop="20260912152626 +0000">
+    <title>Maximum Ride</title>
+    <episode-num system="original-air-date">20160830000000 +0000</episode-num>
+    <desc>Maximum Ride raconte la formidable épopée de six jeunes orphelins dont l'ADN a été modifié et qui ont le pouvoir de voler. Ils vont devoir secourir la plus jeune recrue de leur volée et d"couvriront la science diabolique à l'origine de leur création.</desc>
+    <icon src="https://images.pluto.tv/episodes/661e1dc3a7a31d001749f020/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <date>20160830</date>
+    <series-id system="pluto">661e1dc1a7a31d001749f000</series-id>
+    <category>Action</category>
+    <category>Movie</category>
+    <category>Science fiction</category>
   </programme>
   <programme channel="60c3472a51a2050008dad272" start="20260911195700 +0000" stop="20260911220111 +0000">
     <title>Entre las piernas</title>
@@ -3031,8 +3116,8 @@
     <icon src="https://images.pluto.tv/episodes/698457d98c4cf95f2a36a321/poster_1770280922134.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
     <date>19990122</date>
     <series-id system="pluto">698457d88c4cf95f2a36a302</series-id>
-    <category>Movie</category>
     <category>Independent Drama</category>
+    <category>Movie</category>
     <category>Drama</category>
   </programme>
   <programme channel="60c3472a51a2050008dad272" start="20260911220111 +0000" stop="20260911235142 +0000">
@@ -3042,8 +3127,8 @@
     <icon src="https://images.pluto.tv/episodes/6a2ba602aac2f7c6ece77e9d/poster_1781245480955.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
     <date>20160417</date>
     <series-id system="pluto">6a2ba601aac2f7c6ece77e7e</series-id>
-    <category>Action</category>
     <category>Adventure</category>
+    <category>Action</category>
     <category>Movie</category>
   </programme>
   <programme channel="60c3472a51a2050008dad272" start="20260911235142 +0000" stop="20260912014450 +0000">
@@ -3063,8 +3148,8 @@
     <icon src="https://images.pluto.tv/episodes/6980824bec7e3a1f3accdbfd/poster_1770029644725.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
     <date>20160101</date>
     <series-id system="pluto">6980824aec7e3a1f3accdbde</series-id>
-    <category>Movie</category>
     <category>Independent Drama</category>
+    <category>Movie</category>
     <category>Drama</category>
   </programme>
   <programme channel="60c3472a51a2050008dad272" start="20260912033353 +0000" stop="20260912052715 +0000">
@@ -3117,15 +3202,15 @@
     <category>Thriller</category>
     <category>Movie</category>
   </programme>
-  <programme channel="62f3e2d000418d00070f7dbc" start="20260911184622 +0000" stop="20260911211146 +0000">
-    <title>Alana : Déesse de Justice</title>
-    <episode-num system="original-air-date">20220101000000 +0000</episode-num>
-    <desc>Séparée de ses parents à la naissance, Alana grandit dans une société corrompue. Sujette à d’étranges colères, elle découvre qu’elle est la réincarnation de Sri Asih, déesse de justice. Ses pouvoirs vont bientôt changer le cours des choses.</desc>
-    <icon src="https://images.pluto.tv/episodes/68711e8fa53444ef2acdf992/poster_1774607401221.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <date>20220101</date>
-    <series-id system="pluto">68711e8ea53444ef2acdf974</series-id>
-    <category>Science fiction</category>
-    <category>Foreign Sci-Fi &amp; Fantasy</category>
+  <programme channel="60c3472a51a2050008dad272" start="20260912122733 +0000" stop="20260912143426 +0000">
+    <title>Italian Race</title>
+    <episode-num system="original-air-date">20160331000000 +0000</episode-num>
+    <desc>Giulia, jeune championne de course, perd son père et doit compter sur son frère toxicomane, absent depuis dix ans. Ensemble, ils tentent de reconstruire leur vie grâce à leur passion commune : la course automobile.</desc>
+    <icon src="https://images.pluto.tv/episodes/694142bc0c94b06078824f7c/poster_1777551194581.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <date>20160331</date>
+    <series-id system="pluto">694142bb0c94b06078824f5d</series-id>
+    <category>Adventure</category>
+    <category>Action</category>
     <category>Movie</category>
   </programme>
   <programme channel="62f3e2d000418d00070f7dbc" start="20260911211146 +0000" stop="20260911224926 +0000">
@@ -3136,8 +3221,8 @@
     <date>20221125</date>
     <series-id system="pluto">65dee537a3a85800135032f9</series-id>
     <category>Action</category>
-    <category>Movie</category>
     <category>Military &amp; War Action</category>
+    <category>Movie</category>
   </programme>
   <programme channel="62f3e2d000418d00070f7dbc" start="20260911224926 +0000" stop="20260912002426 +0000">
     <title>Warning: Do Not Play</title>
@@ -3147,8 +3232,8 @@
     <date>20190101</date>
     <series-id system="pluto">64538bfcf2a541001b24d86d</series-id>
     <category>Horror</category>
-    <category>Asian Horror</category>
     <category>Movie</category>
+    <category>Asian Horror</category>
   </programme>
   <programme channel="62f3e2d000418d00070f7dbc" start="20260912002426 +0000" stop="20260912020702 +0000">
     <title>Best Of The Best 1</title>
@@ -3157,8 +3242,8 @@
     <icon src="https://images.pluto.tv/episodes/6a22bfea0aef1275c63cfcd0/poster_1780662251325.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
     <date>19891110</date>
     <series-id system="pluto">6a22bfe90aef1275c63cfcb1</series-id>
-    <category>Action</category>
     <category>Adventure</category>
+    <category>Action</category>
     <category>Movie</category>
   </programme>
   <programme channel="62f3e2d000418d00070f7dbc" start="20260912020702 +0000" stop="20260912035341 +0000">
@@ -3168,8 +3253,8 @@
     <icon src="https://images.pluto.tv/episodes/6a22c14a7918fece0144bee0/poster_1780662603288.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
     <date>19930305</date>
     <series-id system="pluto">6a22c1497918fece0144bec0</series-id>
-    <category>Action</category>
     <category>Adventure</category>
+    <category>Action</category>
     <category>Movie</category>
   </programme>
   <programme channel="62f3e2d000418d00070f7dbc" start="20260912035341 +0000" stop="20260912053241 +0000">
@@ -3213,26 +3298,25 @@
     <category>Action</category>
     <category>Movie</category>
   </programme>
-  <programme channel="65a69ef53af63d000825e0ee" start="20260911173403 +0000" stop="20260911190757 +0000">
-    <title>The Reef</title>
-    <episode-num system="original-air-date">20100707000000 +0000</episode-num>
-    <desc>Luke, Matt, Suzie et Kate partent en croisière avec Warren. Tout est parfait jusqu’à ce que leur bateau heurte un récif. Warren veut attendre les secours, mais les quatre autres prennent une décision bien différente…</desc>
-    <icon src="https://images.pluto.tv/episodes/67b36574630794d8beee087c/poster_1776245401235.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <date>20100707</date>
-    <series-id system="pluto">67b36573630794d8beee0858</series-id>
+  <programme channel="62f3e2d000418d00070f7dbc" start="20260912110654 +0000" stop="20260912130241 +0000">
+    <title>Haemoo</title>
+    <episode-num system="original-air-date">20150401000000 +0000</episode-num>
+    <desc>Capitaine d’un bateau de pêche menacé d’être vendu par son propriétaire, Kang décide de racheter lui-même le navire pour sauvegarder son poste et son équipage. Mais la pêche est insuffisante, et l’argent vient à manquer.</desc>
+    <icon src="https://images.pluto.tv/episodes/667e8131fe060c001320d8dd/poster_1785916802151.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <date>20150401</date>
+    <series-id system="pluto">667e8130fe060c001320d8be</series-id>
     <category>Thriller</category>
     <category>Movie</category>
   </programme>
-  <programme channel="65a69ef53af63d000825e0ee" start="20260911190757 +0000" stop="20260911203415 +0000">
-    <title>The Last Wave</title>
-    <episode-num system="original-air-date">20231221000000 +0000</episode-num>
-    <desc>Une catastrophe naturelle menace d’engloutir les États-Unis. Un groupe de scientifiques tente d’arrêter l’inévitable avant qu’il ne soit trop tard.</desc>
-    <icon src="https://images.pluto.tv/episodes/67a48dc109607d687ed4be4b/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <date>20231221</date>
-    <series-id system="pluto">67a48dc009607d687ed4be28</series-id>
-    <category>Science fiction</category>
+  <programme channel="62f3e2d000418d00070f7dbc" start="20260912130241 +0000" stop="20260912150549 +0000">
+    <title>Une Pluie Sans Fin</title>
+    <episode-num system="original-air-date">20180725000000 +0000</episode-num>
+    <desc>1997. À quelques mois de la rétrocession de Hong-Kong, la Chine va vivre de grands changements… Yu Guowei, le chef de la sécurité d’une vieille usine, dans le Sud du pays, enquête sur une série de meurtres commis sur des jeunes femmes.</desc>
+    <icon src="https://images.pluto.tv/episodes/6746df92a7fde50013db540e/poster_1768344142671.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <date>20180725</date>
+    <series-id system="pluto">6746df90a7fde50013db53ef</series-id>
+    <category>Thriller</category>
     <category>Movie</category>
-    <category>Supernatural Sci-Fi</category>
   </programme>
   <programme channel="65a69ef53af63d000825e0ee" start="20260911203415 +0000" stop="20260911220433 +0000">
     <title>Megaquake</title>
@@ -3241,8 +3325,8 @@
     <icon src="https://images.pluto.tv/episodes/67a346359a098f00146e8133/poster_1776980538934.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
     <date>20221130</date>
     <series-id system="pluto">67a346339a098f00146e8112</series-id>
-    <category>Science fiction</category>
     <category>Movie</category>
+    <category>Science fiction</category>
   </programme>
   <programme channel="65a69ef53af63d000825e0ee" start="20260911220433 +0000" stop="20260911234233 +0000">
     <title>Ice Sharks</title>
@@ -3251,9 +3335,9 @@
     <icon src="https://images.pluto.tv/episodes/617fa8c5480b5b001ad68123/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
     <date>20160101</date>
     <series-id system="pluto">617fa8c4480b5b001ad6811d</series-id>
+    <category>B-Movie Horror</category>
     <category>Horror</category>
     <category>Movie</category>
-    <category>B-Movie Horror</category>
   </programme>
   <programme channel="65a69ef53af63d000825e0ee" start="20260911234233 +0000" stop="20260912012133 +0000">
     <title>Mega Shark versus Crocosaurus</title>
@@ -3262,8 +3346,8 @@
     <icon src="https://images.pluto.tv/episodes/6177e034f3593c001aa75ae6/poster_1768348082861.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
     <date>20100101</date>
     <series-id system="pluto">6177e033f3593c001aa75ae0</series-id>
-    <category>Action</category>
     <category>Adventure</category>
+    <category>Action</category>
     <category>Movie</category>
   </programme>
   <programme channel="65a69ef53af63d000825e0ee" start="20260912012133 +0000" stop="20260912030233 +0000">
@@ -3273,8 +3357,8 @@
     <icon src="https://images.pluto.tv/episodes/5ff83c072a97380013422eec/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
     <date>20150101</date>
     <series-id system="pluto">5ff83c052a97380013422ee6</series-id>
-    <category>Science fiction</category>
     <category>Movie</category>
+    <category>Science fiction</category>
   </programme>
   <programme channel="65a69ef53af63d000825e0ee" start="20260912030233 +0000" stop="20260912042654 +0000">
     <title>Alien Siege</title>
@@ -3283,8 +3367,8 @@
     <icon src="https://images.pluto.tv/episodes/66c5934161ac500014aa662d/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
     <date>20180722</date>
     <series-id system="pluto">66c5934061ac500014aa660c</series-id>
-    <category>Science fiction</category>
     <category>Movie</category>
+    <category>Science fiction</category>
   </programme>
   <programme channel="65a69ef53af63d000825e0ee" start="20260912042654 +0000" stop="20260912060054 +0000">
     <title>Périls sur la terre</title>
@@ -3303,9 +3387,9 @@
     <icon src="https://images.pluto.tv/episodes/67a356faacbab1001440fdff/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
     <date>20240418</date>
     <series-id system="pluto">67a356f8acbab1001440fdde</series-id>
-    <category>Science fiction</category>
-    <category>Movie</category>
     <category>Supernatural Sci-Fi</category>
+    <category>Movie</category>
+    <category>Science fiction</category>
   </programme>
   <programme channel="65a69ef53af63d000825e0ee" start="20260912072622 +0000" stop="20260912085222 +0000">
     <title>L’attaque des drones</title>
@@ -3314,9 +3398,9 @@
     <icon src="https://images.pluto.tv/episodes/670f6ce6a2922a0013541817/poster_1776896376003.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
     <date>20160330</date>
     <series-id system="pluto">670f6ce4a2922a00135417f7</series-id>
-    <category>Science fiction</category>
-    <category>Movie</category>
     <category>Sci-Fi Horror</category>
+    <category>Movie</category>
+    <category>Science fiction</category>
   </programme>
   <programme channel="65a69ef53af63d000825e0ee" start="20260912085222 +0000" stop="20260912105122 +0000">
     <title>Inferno</title>
@@ -3335,31 +3419,19 @@
     <icon src="https://images.pluto.tv/episodes/607695ac5426cf001a3b3ecc/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
     <date>20180101</date>
     <series-id system="pluto">607695aa5426cf001a3b3ec6</series-id>
-    <category>Science fiction</category>
     <category>Adventure</category>
     <category>Movie</category>
+    <category>Science fiction</category>
   </programme>
-  <programme channel="65cca3e2ec452d0008af3a65" start="20260911172130 +0000" stop="20260911191129 +0000">
-    <title>Arrowhead</title>
-    <episode-num system="original-air-date">19520101000000 +0000</episode-num>
-    <desc>Dans le désert du Sud-Ouest americain, Ed Bannon, officier de cavalerie qui a grandi chez les apaches, commande une unité chargée de faire la paix avec les guerriers de cette tribu. Forcé au combat, il affronte le chef indien élevé chez les blancs.</desc>
-    <icon src="https://images.pluto.tv/episodes/66261902d1a91700132e7fea/poster_1780398001772.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <date>19520101</date>
-    <series-id system="pluto">66261900d1a91700132e7fcd</series-id>
-    <category>Action</category>
+  <programme channel="65a69ef53af63d000825e0ee" start="20260912123622 +0000" stop="20260912140826 +0000">
+    <title>Independence daysaster</title>
+    <episode-num system="original-air-date">20130627000000 +0000</episode-num>
+    <desc>Le 4 juillet, jour de la fête nationale américaine, la Terre est attaquée par des extraterrestres. Un pompier, une scientifique et deux jeunes geeks forment une équipe improbable pour créer l'arme qui pourrait sauver l'humanité.</desc>
+    <icon src="https://images.pluto.tv/episodes/670f6e4aa88a1900133c6b35/poster_1776891964234.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <date>20130627</date>
+    <series-id system="pluto">670f6e48a88a1900133c6b14</series-id>
     <category>Movie</category>
-    <category>Western</category>
-  </programme>
-  <programme channel="65cca3e2ec452d0008af3a65" start="20260911191129 +0000" stop="20260911204341 +0000">
-    <title>Apache Uprising</title>
-    <episode-num system="original-air-date">19651229000000 +0000</episode-num>
-    <desc>Deux trappeurs se rendant à Apache Wills sont attaqués par des Indiens. Ils ont la vie sauve grâce à l'intervention de la cavalerie. Les deux hommes décident de protéger une diligence transportant 10 000 dollars.</desc>
-    <icon src="https://images.pluto.tv/episodes/6617d0d9a7a31d00171ec688/poster_1780321681890.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <date>19651229</date>
-    <series-id system="pluto">6617d0d7a7a31d00171ec669</series-id>
-    <category>Action</category>
-    <category>Movie</category>
-    <category>Western</category>
+    <category>Science fiction</category>
   </programme>
   <programme channel="65cca3e2ec452d0008af3a65" start="20260911204341 +0000" stop="20260911221614 +0000">
     <title>Hellfire</title>
@@ -3369,8 +3441,8 @@
     <date>19490529</date>
     <series-id system="pluto">661d3029a7a31d00173c4f80</series-id>
     <category>Action</category>
-    <category>Movie</category>
     <category>Western</category>
+    <category>Movie</category>
   </programme>
   <programme channel="65cca3e2ec452d0008af3a65" start="20260911221614 +0000" stop="20260911235056 +0000">
     <title>Posse</title>
@@ -3380,8 +3452,8 @@
     <date>19750822</date>
     <series-id system="pluto">66222320d90eb10013db1e22</series-id>
     <category>Action</category>
-    <category>Movie</category>
     <category>Western</category>
+    <category>Movie</category>
   </programme>
   <programme channel="65cca3e2ec452d0008af3a65" start="20260911235056 +0000" stop="20260912014526 +0000">
     <title>Big Jake</title>
@@ -3391,8 +3463,8 @@
     <date>19710526</date>
     <series-id system="pluto">66192eff2fd04d00130c95e8</series-id>
     <category>Action</category>
-    <category>Movie</category>
     <category>Western</category>
+    <category>Movie</category>
   </programme>
   <programme channel="65cca3e2ec452d0008af3a65" start="20260912014526 +0000" stop="20260912033135 +0000">
     <title>Pony Express</title>
@@ -3402,8 +3474,8 @@
     <date>19530501</date>
     <series-id system="pluto">661e20a0a9f2d20013a9f013</series-id>
     <category>Action</category>
-    <category>Movie</category>
     <category>Western</category>
+    <category>Movie</category>
   </programme>
   <programme channel="65cca3e2ec452d0008af3a65" start="20260912033135 +0000" stop="20260912050131 +0000">
     <title>Pistolets pour un massacre</title>
@@ -3412,8 +3484,8 @@
     <icon src="https://images.pluto.tv/episodes/68db93a6e466f791b5db7b20/poster_1759220648952.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
     <date>19680101</date>
     <series-id system="pluto">68db93a5e466f791b5db7b02</series-id>
-    <category>Movie</category>
     <category>Western</category>
+    <category>Movie</category>
   </programme>
   <programme channel="65cca3e2ec452d0008af3a65" start="20260912050131 +0000" stop="20260912064600 +0000">
     <title>Belle Starr</title>
@@ -3422,8 +3494,8 @@
     <icon src="https://images.pluto.tv/episodes/68db90d6f1f80c8151782a2b/poster_1759219928632.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
     <date>19680315</date>
     <series-id system="pluto">68db90d5f1f80c8151782a0d</series-id>
-    <category>Movie</category>
     <category>Western</category>
+    <category>Movie</category>
   </programme>
   <programme channel="65cca3e2ec452d0008af3a65" start="20260912064600 +0000" stop="20260912083525 +0000">
     <title>Chuka</title>
@@ -3433,8 +3505,8 @@
     <date>19670611</date>
     <series-id system="pluto">66193a2dacbc6800137033c9</series-id>
     <category>Action</category>
-    <category>Movie</category>
     <category>Western</category>
+    <category>Movie</category>
   </programme>
   <programme channel="65cca3e2ec452d0008af3a65" start="20260912083525 +0000" stop="20260912102643 +0000">
     <title>Les Chercheurs D'or D'arkansas</title>
@@ -3443,8 +3515,8 @@
     <icon src="https://images.pluto.tv/episodes/6979f16000cf117a5541e9cf/poster_1769599329002.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
     <date>19640101</date>
     <series-id system="pluto">6979f15e00cf117a5541e9b1</series-id>
-    <category>Movie</category>
     <category>Western</category>
+    <category>Movie</category>
   </programme>
   <programme channel="65cca3e2ec452d0008af3a65" start="20260912102643 +0000" stop="20260912120437 +0000">
     <title>Tire Django, tire</title>
@@ -3453,145 +3525,30 @@
     <icon src="https://images.pluto.tv/episodes/68db93a1e466f791b5daa7ce/poster_1759220642166.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
     <date>19680101</date>
     <series-id system="pluto">68db93a0e466f791b5daa7af</series-id>
-    <category>Movie</category>
     <category>Western</category>
-  </programme>
-  <programme channel="66e1978babec540008ce41ac" start="20260911183303 +0000" stop="20260911190303 +0000">
-    <title>Ciné d'horreur by Pluto TV</title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <episode-num system="pluto">66f6777bd8eb4500085b7665</episode-num>
-    <episode-num system="original-air-date">19700101000000 +0000</episode-num>
-    <desc>Tremblez de peur tout au long du mois d'octobre sur Pluto TV Horreur avec une programmation spéciale dédiée aux âmes les plus courageuses. Des classiques cultes aux nouveautés les plus terrifiantes, préparez-vous à une expérience horrifique inoubliable</desc>
-    <icon src="https://images.pluto.tv/series/66f6775aec9d6d0008104cf8/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">66f6775aec9d6d0008104cf8</series-id>
-    <sub-title>Pluto TV Horreur</sub-title>
-    <category>Series</category>
-    <category>Horror</category>
-    <category>Horror Classics</category>
-  </programme>
-  <programme channel="66e1978babec540008ce41ac" start="20260911190303 +0000" stop="20260911190403 +0000">
-    <title>Ciné d'horreur by Pluto TV</title>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <episode-num system="pluto">66f67781a07d1a0008d9d7fa</episode-num>
-    <episode-num system="original-air-date">19700101000000 +0000</episode-num>
-    <desc>Tremblez de peur tout au long du mois d'octobre sur Pluto TV Horreur avec une programmation spéciale dédiée aux âmes les plus courageuses. Des classiques cultes aux nouveautés les plus terrifiantes, préparez-vous à une expérience horrifique inoubliable</desc>
-    <icon src="https://images.pluto.tv/series/66f6775aec9d6d0008104cf8/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">66f6775aec9d6d0008104cf8</series-id>
-    <sub-title>Pluto TV Horreur</sub-title>
-    <category>Series</category>
-    <category>Horror</category>
-    <category>Horror Classics</category>
-  </programme>
-  <programme channel="66e1978babec540008ce41ac" start="20260911190403 +0000" stop="20260911190503 +0000">
-    <title>Ciné d'horreur by Pluto TV</title>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <episode-num system="pluto">66f67781a07d1a0008d9d7fa</episode-num>
-    <episode-num system="original-air-date">19700101000000 +0000</episode-num>
-    <desc>Tremblez de peur tout au long du mois d'octobre sur Pluto TV Horreur avec une programmation spéciale dédiée aux âmes les plus courageuses. Des classiques cultes aux nouveautés les plus terrifiantes, préparez-vous à une expérience horrifique inoubliable</desc>
-    <icon src="https://images.pluto.tv/series/66f6775aec9d6d0008104cf8/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">66f6775aec9d6d0008104cf8</series-id>
-    <sub-title>Pluto TV Horreur</sub-title>
-    <category>Series</category>
-    <category>Horror</category>
-    <category>Horror Classics</category>
-  </programme>
-  <programme channel="66e1978babec540008ce41ac" start="20260911190503 +0000" stop="20260911191003 +0000">
-    <title>Ciné d'horreur by Pluto TV</title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <episode-num system="pluto">66f6778063292d00081cfdaf</episode-num>
-    <episode-num system="original-air-date">19700101000000 +0000</episode-num>
-    <desc>Tremblez de peur tout au long du mois d'octobre sur Pluto TV Horreur avec une programmation spéciale dédiée aux âmes les plus courageuses. Des classiques cultes aux nouveautés les plus terrifiantes, préparez-vous à une expérience horrifique inoubliable</desc>
-    <icon src="https://images.pluto.tv/series/66f6775aec9d6d0008104cf8/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">66f6775aec9d6d0008104cf8</series-id>
-    <sub-title>Pluto TV Horreur</sub-title>
-    <category>Series</category>
-    <category>Horror</category>
-    <category>Horror Classics</category>
-  </programme>
-  <programme channel="66e1978babec540008ce41ac" start="20260911191003 +0000" stop="20260911191503 +0000">
-    <title>Ciné d'horreur by Pluto TV</title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <episode-num system="pluto">66f6778063292d00081cfdaf</episode-num>
-    <episode-num system="original-air-date">19700101000000 +0000</episode-num>
-    <desc>Tremblez de peur tout au long du mois d'octobre sur Pluto TV Horreur avec une programmation spéciale dédiée aux âmes les plus courageuses. Des classiques cultes aux nouveautés les plus terrifiantes, préparez-vous à une expérience horrifique inoubliable</desc>
-    <icon src="https://images.pluto.tv/series/66f6775aec9d6d0008104cf8/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">66f6775aec9d6d0008104cf8</series-id>
-    <sub-title>Pluto TV Horreur</sub-title>
-    <category>Series</category>
-    <category>Horror</category>
-    <category>Horror Classics</category>
-  </programme>
-  <programme channel="66e1978babec540008ce41ac" start="20260911191503 +0000" stop="20260911192003 +0000">
-    <title>Ciné d'horreur by Pluto TV</title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <episode-num system="pluto">66f6778063292d00081cfdaf</episode-num>
-    <episode-num system="original-air-date">19700101000000 +0000</episode-num>
-    <desc>Tremblez de peur tout au long du mois d'octobre sur Pluto TV Horreur avec une programmation spéciale dédiée aux âmes les plus courageuses. Des classiques cultes aux nouveautés les plus terrifiantes, préparez-vous à une expérience horrifique inoubliable</desc>
-    <icon src="https://images.pluto.tv/series/66f6775aec9d6d0008104cf8/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">66f6775aec9d6d0008104cf8</series-id>
-    <sub-title>Pluto TV Horreur</sub-title>
-    <category>Series</category>
-    <category>Horror</category>
-    <category>Horror Classics</category>
-  </programme>
-  <programme channel="66e1978babec540008ce41ac" start="20260911192003 +0000" stop="20260911192503 +0000">
-    <title>Ciné d'horreur by Pluto TV</title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <episode-num system="pluto">66f6778063292d00081cfdaf</episode-num>
-    <episode-num system="original-air-date">19700101000000 +0000</episode-num>
-    <desc>Tremblez de peur tout au long du mois d'octobre sur Pluto TV Horreur avec une programmation spéciale dédiée aux âmes les plus courageuses. Des classiques cultes aux nouveautés les plus terrifiantes, préparez-vous à une expérience horrifique inoubliable</desc>
-    <icon src="https://images.pluto.tv/series/66f6775aec9d6d0008104cf8/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">66f6775aec9d6d0008104cf8</series-id>
-    <sub-title>Pluto TV Horreur</sub-title>
-    <category>Series</category>
-    <category>Horror</category>
-    <category>Horror Classics</category>
-  </programme>
-  <programme channel="66e1978babec540008ce41ac" start="20260911192503 +0000" stop="20260911193003 +0000">
-    <title>Ciné d'horreur by Pluto TV</title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <episode-num system="pluto">66f6778063292d00081cfdaf</episode-num>
-    <episode-num system="original-air-date">19700101000000 +0000</episode-num>
-    <desc>Tremblez de peur tout au long du mois d'octobre sur Pluto TV Horreur avec une programmation spéciale dédiée aux âmes les plus courageuses. Des classiques cultes aux nouveautés les plus terrifiantes, préparez-vous à une expérience horrifique inoubliable</desc>
-    <icon src="https://images.pluto.tv/series/66f6775aec9d6d0008104cf8/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">66f6775aec9d6d0008104cf8</series-id>
-    <sub-title>Pluto TV Horreur</sub-title>
-    <category>Series</category>
-    <category>Horror</category>
-    <category>Horror Classics</category>
-  </programme>
-  <programme channel="66e1978babec540008ce41ac" start="20260911193003 +0000" stop="20260911200003 +0000">
-    <title>Ciné d'horreur by Pluto TV</title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <episode-num system="pluto">66f6777bd8eb4500085b7665</episode-num>
-    <episode-num system="original-air-date">19700101000000 +0000</episode-num>
-    <desc>Tremblez de peur tout au long du mois d'octobre sur Pluto TV Horreur avec une programmation spéciale dédiée aux âmes les plus courageuses. Des classiques cultes aux nouveautés les plus terrifiantes, préparez-vous à une expérience horrifique inoubliable</desc>
-    <icon src="https://images.pluto.tv/series/66f6775aec9d6d0008104cf8/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">66f6775aec9d6d0008104cf8</series-id>
-    <sub-title>Pluto TV Horreur</sub-title>
-    <category>Series</category>
-    <category>Horror</category>
-    <category>Horror Classics</category>
-  </programme>
-  <programme channel="66e1978babec540008ce41ac" start="20260911200003 +0000" stop="20260911213427 +0000">
-    <title>The Boy Behind the Door</title>
-    <episode-num system="original-air-date">20200927000000 +0000</episode-num>
-    <desc>C’est une nuit d’horreur qui attend Bobby et Kevin, 12 ans, lorsqu’ils sont kidnappés en rentrant de l’école. Bobby parvient miraculeusement à échapper à leur ravisseur, mais l’arrivée dans la maison où ils sont séquestrés d’un nouveau protagoniste...</desc>
-    <icon src="https://images.pluto.tv/episodes/6a3cf24a7918fece01c86205/poster_1782379083024.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <date>20200927</date>
-    <series-id system="pluto">6a3cf2487918fece01c861e5</series-id>
-    <category>Horror</category>
     <category>Movie</category>
-    <category>B-Movie Horror</category>
+  </programme>
+  <programme channel="65cca3e2ec452d0008af3a65" start="20260912120437 +0000" stop="20260912135237 +0000">
+    <title>Lady Gun Fighter</title>
+    <episode-num system="original-air-date">20170101000000 +0000</episode-num>
+    <desc>Une mère prend sur elle et s'aventure dans la rude frontière pour retrouver son fils dérobé.</desc>
+    <icon src="https://images.pluto.tv/episodes/607695b65426cf001a3b3f88/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <date>20170101</date>
+    <series-id system="pluto">607695b55426cf001a3b3f82</series-id>
+    <category>Adventure</category>
+    <category>Action</category>
+    <category>Movie</category>
+  </programme>
+  <programme channel="65cca3e2ec452d0008af3a65" start="20260912135237 +0000" stop="20260912155010 +0000">
+    <title>Blue</title>
+    <episode-num system="original-air-date">19680510000000 +0000</episode-num>
+    <desc>Elevé par un chef de gang mexicain, Blue tombe amoureux de la fille d'un docteur texan. Blue est alors tiraillé entre le désir de se rapprocher de ses racines américaines et la fidélité qu'il doit à sa famille d'adoption.</desc>
+    <icon src="https://images.pluto.tv/episodes/66192ef72fd04d00130c93e9/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <date>19680510</date>
+    <series-id system="pluto">66192ef62fd04d00130c93c9</series-id>
+    <category>Action</category>
+    <category>Western</category>
+    <category>Movie</category>
   </programme>
   <programme channel="66e1978babec540008ce41ac" start="20260911213427 +0000" stop="20260911231925 +0000">
     <title>Salem Games</title>
@@ -3600,9 +3557,9 @@
     <icon src="https://mam-assets.clusters.pluto.tv/assets/54886fe9-1b28-4003-a67b-f47559f47770.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
     <date>20230901</date>
     <series-id system="pluto">6a3cfc2c812ca10016c2349d</series-id>
+    <category>B-Movie Horror</category>
     <category>Horror</category>
     <category>Movie</category>
-    <category>B-Movie Horror</category>
   </programme>
   <programme channel="66e1978babec540008ce41ac" start="20260911231925 +0000" stop="20260912005046 +0000">
     <title>The Price we Pay</title>
@@ -3611,9 +3568,9 @@
     <icon src="https://images.pluto.tv/episodes/6941415b63f946a2ce70586a/poster_1765884810685.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
     <date>20230110</date>
     <series-id system="pluto">6941415a63f946a2ce70584b</series-id>
+    <category>B-Movie Horror</category>
     <category>Horror</category>
     <category>Movie</category>
-    <category>B-Movie Horror</category>
   </programme>
   <programme channel="66e1978babec540008ce41ac" start="20260912005046 +0000" stop="20260912023143 +0000">
     <title>Psycho Goreman</title>
@@ -3622,9 +3579,9 @@
     <icon src="https://images.pluto.tv/episodes/6a8321f4cd7852640b311fa9/poster_1786978805187.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
     <date>20200101</date>
     <series-id system="pluto">6a8321f3cd7852640b311f8b</series-id>
+    <category>B-Movie Horror</category>
     <category>Horror</category>
     <category>Movie</category>
-    <category>B-Movie Horror</category>
   </programme>
   <programme channel="66e1978babec540008ce41ac" start="20260912023143 +0000" stop="20260912035802 +0000">
     <title>Torment</title>
@@ -3633,9 +3590,9 @@
     <icon src="https://images.pluto.tv/episodes/6895f208baa646038d3707fc/poster_1768343189303.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
     <date>20130101</date>
     <series-id system="pluto">6895f206baa646038d3707dd</series-id>
-    <category>Slashers and Serial Killers</category>
     <category>Horror</category>
     <category>Movie</category>
+    <category>Slashers and Serial Killers</category>
   </programme>
   <programme channel="66e1978babec540008ce41ac" start="20260912035802 +0000" stop="20260912042802 +0000">
     <title>Ciné d'horreur by Pluto TV</title>
@@ -3647,9 +3604,9 @@
     <date>19700101</date>
     <series-id system="pluto">66f6775aec9d6d0008104cf8</series-id>
     <sub-title>Pluto TV Horreur</sub-title>
-    <category>Series</category>
     <category>Horror</category>
     <category>Horror Classics</category>
+    <category>Series</category>
   </programme>
   <programme channel="66e1978babec540008ce41ac" start="20260912042802 +0000" stop="20260912045802 +0000">
     <title>Ciné d'horreur by Pluto TV</title>
@@ -3661,9 +3618,9 @@
     <date>19700101</date>
     <series-id system="pluto">66f6775aec9d6d0008104cf8</series-id>
     <sub-title>Pluto TV Horreur</sub-title>
-    <category>Series</category>
     <category>Horror</category>
     <category>Horror Classics</category>
+    <category>Series</category>
   </programme>
   <programme channel="66e1978babec540008ce41ac" start="20260912045802 +0000" stop="20260912052802 +0000">
     <title>Ciné d'horreur by Pluto TV</title>
@@ -3675,9 +3632,9 @@
     <date>19700101</date>
     <series-id system="pluto">66f6775aec9d6d0008104cf8</series-id>
     <sub-title>Pluto TV Horreur</sub-title>
-    <category>Series</category>
     <category>Horror</category>
     <category>Horror Classics</category>
+    <category>Series</category>
   </programme>
   <programme channel="66e1978babec540008ce41ac" start="20260912052802 +0000" stop="20260912055802 +0000">
     <title>Ciné d'horreur by Pluto TV</title>
@@ -3689,9 +3646,9 @@
     <date>19700101</date>
     <series-id system="pluto">66f6775aec9d6d0008104cf8</series-id>
     <sub-title>Pluto TV Horreur</sub-title>
-    <category>Series</category>
     <category>Horror</category>
     <category>Horror Classics</category>
+    <category>Series</category>
   </programme>
   <programme channel="66e1978babec540008ce41ac" start="20260912055802 +0000" stop="20260912062802 +0000">
     <title>Ciné d'horreur by Pluto TV</title>
@@ -3703,9 +3660,9 @@
     <date>19700101</date>
     <series-id system="pluto">66f6775aec9d6d0008104cf8</series-id>
     <sub-title>Pluto TV Horreur</sub-title>
-    <category>Series</category>
     <category>Horror</category>
     <category>Horror Classics</category>
+    <category>Series</category>
   </programme>
   <programme channel="66e1978babec540008ce41ac" start="20260912062802 +0000" stop="20260912065802 +0000">
     <title>Ciné d'horreur by Pluto TV</title>
@@ -3717,9 +3674,9 @@
     <date>19700101</date>
     <series-id system="pluto">66f6775aec9d6d0008104cf8</series-id>
     <sub-title>Pluto TV Horreur</sub-title>
-    <category>Series</category>
     <category>Horror</category>
     <category>Horror Classics</category>
+    <category>Series</category>
   </programme>
   <programme channel="66e1978babec540008ce41ac" start="20260912065802 +0000" stop="20260912072802 +0000">
     <title>Ciné d'horreur by Pluto TV</title>
@@ -3731,9 +3688,9 @@
     <date>19700101</date>
     <series-id system="pluto">66f6775aec9d6d0008104cf8</series-id>
     <sub-title>Pluto TV Horreur</sub-title>
-    <category>Series</category>
     <category>Horror</category>
     <category>Horror Classics</category>
+    <category>Series</category>
   </programme>
   <programme channel="66e1978babec540008ce41ac" start="20260912072802 +0000" stop="20260912075802 +0000">
     <title>Ciné d'horreur by Pluto TV</title>
@@ -3745,9 +3702,9 @@
     <date>19700101</date>
     <series-id system="pluto">66f6775aec9d6d0008104cf8</series-id>
     <sub-title>Pluto TV Horreur</sub-title>
-    <category>Series</category>
     <category>Horror</category>
     <category>Horror Classics</category>
+    <category>Series</category>
   </programme>
   <programme channel="66e1978babec540008ce41ac" start="20260912075802 +0000" stop="20260912082802 +0000">
     <title>Ciné d'horreur by Pluto TV</title>
@@ -3759,9 +3716,9 @@
     <date>19700101</date>
     <series-id system="pluto">66f6775aec9d6d0008104cf8</series-id>
     <sub-title>Pluto TV Horreur</sub-title>
-    <category>Series</category>
     <category>Horror</category>
     <category>Horror Classics</category>
+    <category>Series</category>
   </programme>
   <programme channel="66e1978babec540008ce41ac" start="20260912082802 +0000" stop="20260912085802 +0000">
     <title>Ciné d'horreur by Pluto TV</title>
@@ -3773,9 +3730,9 @@
     <date>19700101</date>
     <series-id system="pluto">66f6775aec9d6d0008104cf8</series-id>
     <sub-title>Pluto TV Horreur</sub-title>
-    <category>Series</category>
     <category>Horror</category>
     <category>Horror Classics</category>
+    <category>Series</category>
   </programme>
   <programme channel="66e1978babec540008ce41ac" start="20260912085802 +0000" stop="20260912092802 +0000">
     <title>Ciné d'horreur by Pluto TV</title>
@@ -3787,9 +3744,9 @@
     <date>19700101</date>
     <series-id system="pluto">66f6775aec9d6d0008104cf8</series-id>
     <sub-title>Pluto TV Horreur</sub-title>
-    <category>Series</category>
     <category>Horror</category>
     <category>Horror Classics</category>
+    <category>Series</category>
   </programme>
   <programme channel="66e1978babec540008ce41ac" start="20260912092802 +0000" stop="20260912095802 +0000">
     <title>Ciné d'horreur by Pluto TV</title>
@@ -3801,9 +3758,9 @@
     <date>19700101</date>
     <series-id system="pluto">66f6775aec9d6d0008104cf8</series-id>
     <sub-title>Pluto TV Horreur</sub-title>
-    <category>Series</category>
     <category>Horror</category>
     <category>Horror Classics</category>
+    <category>Series</category>
   </programme>
   <programme channel="66e1978babec540008ce41ac" start="20260912095802 +0000" stop="20260912102802 +0000">
     <title>Ciné d'horreur by Pluto TV</title>
@@ -3815,9 +3772,9 @@
     <date>19700101</date>
     <series-id system="pluto">66f6775aec9d6d0008104cf8</series-id>
     <sub-title>Pluto TV Horreur</sub-title>
-    <category>Series</category>
     <category>Horror</category>
     <category>Horror Classics</category>
+    <category>Series</category>
   </programme>
   <programme channel="66e1978babec540008ce41ac" start="20260912102802 +0000" stop="20260912105802 +0000">
     <title>Ciné d'horreur by Pluto TV</title>
@@ -3829,9 +3786,9 @@
     <date>19700101</date>
     <series-id system="pluto">66f6775aec9d6d0008104cf8</series-id>
     <sub-title>Pluto TV Horreur</sub-title>
-    <category>Series</category>
     <category>Horror</category>
     <category>Horror Classics</category>
+    <category>Series</category>
   </programme>
   <programme channel="66e1978babec540008ce41ac" start="20260912105802 +0000" stop="20260912112802 +0000">
     <title>Ciné d'horreur by Pluto TV</title>
@@ -3843,65 +3800,93 @@
     <date>19700101</date>
     <series-id system="pluto">66f6775aec9d6d0008104cf8</series-id>
     <sub-title>Pluto TV Horreur</sub-title>
-    <category>Series</category>
     <category>Horror</category>
     <category>Horror Classics</category>
+    <category>Series</category>
   </programme>
-  <programme channel="6823648580b2665220d9e69a" start="20260911185824 +0000" stop="20260911192824 +0000">
-    <title>Ciné 666 by Pluto TV</title>
+  <programme channel="66e1978babec540008ce41ac" start="20260912112802 +0000" stop="20260912115802 +0000">
+    <title>Ciné d'horreur by Pluto TV</title>
     <episode-num system="onscreen">S01E01</episode-num>
-    <episode-num system="pluto">68c04526508ba507f0d83e68</episode-num>
+    <episode-num system="pluto">66f6777bd8eb4500085b7665</episode-num>
     <episode-num system="original-air-date">19700101000000 +0000</episode-num>
-    <desc>Vous avez déjà rêvé d’assister à un exorcisme? Découvrez ce qu’est vraiment la terreur sur Ciné 666 by Pluto TV. Des cas de possession aux malédictions démoniaques en passant par des prêtres, soyez prêts à sauver votre âme… ou à la vendre au diable!</desc>
-    <icon src="https://images.pluto.tv/series/68c0431974f43c4c1f9f3cb7/tile-1757430641108.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <desc>Tremblez de peur tout au long du mois d'octobre sur Pluto TV Horreur avec une programmation spéciale dédiée aux âmes les plus courageuses. Des classiques cultes aux nouveautés les plus terrifiantes, préparez-vous à une expérience horrifique inoubliable</desc>
+    <icon src="https://images.pluto.tv/series/66f6775aec9d6d0008104cf8/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
-    <series-id system="pluto">68c0431974f43c4c1f9f3cb7</series-id>
-    <sub-title>Ciné 666 by Pluto TV Daytime Card</sub-title>
-    <category>Series</category>
+    <series-id system="pluto">66f6775aec9d6d0008104cf8</series-id>
+    <sub-title>Pluto TV Horreur</sub-title>
     <category>Horror</category>
-    <category>Cult Horror</category>
-  </programme>
-  <programme channel="6823648580b2665220d9e69a" start="20260911192824 +0000" stop="20260911192924 +0000">
-    <title>Ciné 666 by Pluto TV</title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <episode-num system="pluto">68c045fa00a2f063fd39c331</episode-num>
-    <episode-num system="original-air-date">19700101000000 +0000</episode-num>
-    <desc>Vous avez déjà rêvé d’assister à un exorcisme? Découvrez ce qu’est vraiment la terreur sur Ciné 666 by Pluto TV. Des cas de possession aux malédictions démoniaques en passant par des prêtres, soyez prêts à sauver votre âme… ou à la vendre au diable!</desc>
-    <icon src="https://images.pluto.tv/series/68c0431974f43c4c1f9f3cb7/tile-1757430641108.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">68c0431974f43c4c1f9f3cb7</series-id>
-    <sub-title>Ciné 666 by Pluto TV Daytime Card</sub-title>
+    <category>Horror Classics</category>
     <category>Series</category>
-    <category>Horror</category>
-    <category>Cult Horror</category>
   </programme>
-  <programme channel="6823648580b2665220d9e69a" start="20260911192924 +0000" stop="20260911193024 +0000">
-    <title>Ciné 666 by Pluto TV</title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <episode-num system="pluto">68c045fa00a2f063fd39c331</episode-num>
-    <episode-num system="original-air-date">19700101000000 +0000</episode-num>
-    <desc>Vous avez déjà rêvé d’assister à un exorcisme? Découvrez ce qu’est vraiment la terreur sur Ciné 666 by Pluto TV. Des cas de possession aux malédictions démoniaques en passant par des prêtres, soyez prêts à sauver votre âme… ou à la vendre au diable!</desc>
-    <icon src="https://images.pluto.tv/series/68c0431974f43c4c1f9f3cb7/tile-1757430641108.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">68c0431974f43c4c1f9f3cb7</series-id>
-    <sub-title>Ciné 666 by Pluto TV Daytime Card</sub-title>
-    <category>Series</category>
-    <category>Horror</category>
-    <category>Cult Horror</category>
-  </programme>
-  <programme channel="6823648580b2665220d9e69a" start="20260911193024 +0000" stop="20260911200024 +0000">
-    <title>Ciné 666 by Pluto TV</title>
+  <programme channel="66e1978babec540008ce41ac" start="20260912115802 +0000" stop="20260912122802 +0000">
+    <title>Ciné d'horreur by Pluto TV</title>
     <episode-num system="onscreen">S01E01</episode-num>
-    <episode-num system="pluto">68c04526508ba507f0d83e68</episode-num>
+    <episode-num system="pluto">66f6777bd8eb4500085b7665</episode-num>
     <episode-num system="original-air-date">19700101000000 +0000</episode-num>
-    <desc>Vous avez déjà rêvé d’assister à un exorcisme? Découvrez ce qu’est vraiment la terreur sur Ciné 666 by Pluto TV. Des cas de possession aux malédictions démoniaques en passant par des prêtres, soyez prêts à sauver votre âme… ou à la vendre au diable!</desc>
-    <icon src="https://images.pluto.tv/series/68c0431974f43c4c1f9f3cb7/tile-1757430641108.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <desc>Tremblez de peur tout au long du mois d'octobre sur Pluto TV Horreur avec une programmation spéciale dédiée aux âmes les plus courageuses. Des classiques cultes aux nouveautés les plus terrifiantes, préparez-vous à une expérience horrifique inoubliable</desc>
+    <icon src="https://images.pluto.tv/series/66f6775aec9d6d0008104cf8/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
-    <series-id system="pluto">68c0431974f43c4c1f9f3cb7</series-id>
-    <sub-title>Ciné 666 by Pluto TV Daytime Card</sub-title>
-    <category>Series</category>
+    <series-id system="pluto">66f6775aec9d6d0008104cf8</series-id>
+    <sub-title>Pluto TV Horreur</sub-title>
     <category>Horror</category>
-    <category>Cult Horror</category>
+    <category>Horror Classics</category>
+    <category>Series</category>
+  </programme>
+  <programme channel="66e1978babec540008ce41ac" start="20260912122802 +0000" stop="20260912125802 +0000">
+    <title>Ciné d'horreur by Pluto TV</title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <episode-num system="pluto">66f6777bd8eb4500085b7665</episode-num>
+    <episode-num system="original-air-date">19700101000000 +0000</episode-num>
+    <desc>Tremblez de peur tout au long du mois d'octobre sur Pluto TV Horreur avec une programmation spéciale dédiée aux âmes les plus courageuses. Des classiques cultes aux nouveautés les plus terrifiantes, préparez-vous à une expérience horrifique inoubliable</desc>
+    <icon src="https://images.pluto.tv/series/66f6775aec9d6d0008104cf8/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">66f6775aec9d6d0008104cf8</series-id>
+    <sub-title>Pluto TV Horreur</sub-title>
+    <category>Horror</category>
+    <category>Horror Classics</category>
+    <category>Series</category>
+  </programme>
+  <programme channel="66e1978babec540008ce41ac" start="20260912125802 +0000" stop="20260912132802 +0000">
+    <title>Ciné d'horreur by Pluto TV</title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <episode-num system="pluto">66f6777bd8eb4500085b7665</episode-num>
+    <episode-num system="original-air-date">19700101000000 +0000</episode-num>
+    <desc>Tremblez de peur tout au long du mois d'octobre sur Pluto TV Horreur avec une programmation spéciale dédiée aux âmes les plus courageuses. Des classiques cultes aux nouveautés les plus terrifiantes, préparez-vous à une expérience horrifique inoubliable</desc>
+    <icon src="https://images.pluto.tv/series/66f6775aec9d6d0008104cf8/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">66f6775aec9d6d0008104cf8</series-id>
+    <sub-title>Pluto TV Horreur</sub-title>
+    <category>Horror</category>
+    <category>Horror Classics</category>
+    <category>Series</category>
+  </programme>
+  <programme channel="66e1978babec540008ce41ac" start="20260912132802 +0000" stop="20260912135802 +0000">
+    <title>Ciné d'horreur by Pluto TV</title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <episode-num system="pluto">66f6777bd8eb4500085b7665</episode-num>
+    <episode-num system="original-air-date">19700101000000 +0000</episode-num>
+    <desc>Tremblez de peur tout au long du mois d'octobre sur Pluto TV Horreur avec une programmation spéciale dédiée aux âmes les plus courageuses. Des classiques cultes aux nouveautés les plus terrifiantes, préparez-vous à une expérience horrifique inoubliable</desc>
+    <icon src="https://images.pluto.tv/series/66f6775aec9d6d0008104cf8/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">66f6775aec9d6d0008104cf8</series-id>
+    <sub-title>Pluto TV Horreur</sub-title>
+    <category>Horror</category>
+    <category>Horror Classics</category>
+    <category>Series</category>
+  </programme>
+  <programme channel="66e1978babec540008ce41ac" start="20260912135802 +0000" stop="20260912142802 +0000">
+    <title>Ciné d'horreur by Pluto TV</title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <episode-num system="pluto">66f6777bd8eb4500085b7665</episode-num>
+    <episode-num system="original-air-date">19700101000000 +0000</episode-num>
+    <desc>Tremblez de peur tout au long du mois d'octobre sur Pluto TV Horreur avec une programmation spéciale dédiée aux âmes les plus courageuses. Des classiques cultes aux nouveautés les plus terrifiantes, préparez-vous à une expérience horrifique inoubliable</desc>
+    <icon src="https://images.pluto.tv/series/66f6775aec9d6d0008104cf8/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">66f6775aec9d6d0008104cf8</series-id>
+    <sub-title>Pluto TV Horreur</sub-title>
+    <category>Horror</category>
+    <category>Horror Classics</category>
+    <category>Series</category>
   </programme>
   <programme channel="6823648580b2665220d9e69a" start="20260911200024 +0000" stop="20260911220027 +0000">
     <title>The Devil's Conspiracy</title>
@@ -3911,8 +3896,8 @@
     <date>20220101</date>
     <series-id system="pluto">6822114d30b839eca547b1a4</series-id>
     <category>Horror</category>
-    <category>Movie</category>
     <category>Satanic Stories</category>
+    <category>Movie</category>
   </programme>
   <programme channel="6823648580b2665220d9e69a" start="20260911220027 +0000" stop="20260912000832 +0000">
     <title>Mirrors</title>
@@ -3921,9 +3906,9 @@
     <icon src="https://images.pluto.tv/episodes/606eda875426cf001a3a8b6b/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
     <date>20080815</date>
     <series-id system="pluto">606eda855426cf001a3a8b65</series-id>
-    <category>Science fiction</category>
     <category>Adventure</category>
     <category>Movie</category>
+    <category>Science fiction</category>
   </programme>
   <programme channel="6823648580b2665220d9e69a" start="20260912000832 +0000" stop="20260912014143 +0000">
     <title>The Seventh Day</title>
@@ -3942,9 +3927,9 @@
     <icon src="https://images.pluto.tv/episodes/6915fc5405e444b5edfbfd62/poster_1763055760893.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
     <date>20150227</date>
     <series-id system="pluto">6915fc5305e444b5edfbfd43</series-id>
-    <category>Supernatural Horror</category>
     <category>Horror</category>
     <category>Movie</category>
+    <category>Supernatural Horror</category>
   </programme>
   <programme channel="6823648580b2665220d9e69a" start="20260912032147 +0000" stop="20260912035147 +0000">
     <title>Ciné 666 by Pluto TV</title>
@@ -3956,8 +3941,8 @@
     <date>19700101</date>
     <series-id system="pluto">68c0431974f43c4c1f9f3cb7</series-id>
     <sub-title>Ciné 666 by Pluto TV Daytime Card</sub-title>
-    <category>Series</category>
     <category>Horror</category>
+    <category>Series</category>
     <category>Cult Horror</category>
   </programme>
   <programme channel="6823648580b2665220d9e69a" start="20260912035147 +0000" stop="20260912042147 +0000">
@@ -3970,8 +3955,8 @@
     <date>19700101</date>
     <series-id system="pluto">68c0431974f43c4c1f9f3cb7</series-id>
     <sub-title>Ciné 666 by Pluto TV Daytime Card</sub-title>
-    <category>Series</category>
     <category>Horror</category>
+    <category>Series</category>
     <category>Cult Horror</category>
   </programme>
   <programme channel="6823648580b2665220d9e69a" start="20260912042147 +0000" stop="20260912045147 +0000">
@@ -3984,8 +3969,8 @@
     <date>19700101</date>
     <series-id system="pluto">68c0431974f43c4c1f9f3cb7</series-id>
     <sub-title>Ciné 666 by Pluto TV Daytime Card</sub-title>
-    <category>Series</category>
     <category>Horror</category>
+    <category>Series</category>
     <category>Cult Horror</category>
   </programme>
   <programme channel="6823648580b2665220d9e69a" start="20260912045147 +0000" stop="20260912052147 +0000">
@@ -3998,8 +3983,8 @@
     <date>19700101</date>
     <series-id system="pluto">68c0431974f43c4c1f9f3cb7</series-id>
     <sub-title>Ciné 666 by Pluto TV Daytime Card</sub-title>
-    <category>Series</category>
     <category>Horror</category>
+    <category>Series</category>
     <category>Cult Horror</category>
   </programme>
   <programme channel="6823648580b2665220d9e69a" start="20260912052147 +0000" stop="20260912055147 +0000">
@@ -4012,8 +3997,8 @@
     <date>19700101</date>
     <series-id system="pluto">68c0431974f43c4c1f9f3cb7</series-id>
     <sub-title>Ciné 666 by Pluto TV Daytime Card</sub-title>
-    <category>Series</category>
     <category>Horror</category>
+    <category>Series</category>
     <category>Cult Horror</category>
   </programme>
   <programme channel="6823648580b2665220d9e69a" start="20260912055147 +0000" stop="20260912062147 +0000">
@@ -4026,8 +4011,8 @@
     <date>19700101</date>
     <series-id system="pluto">68c0431974f43c4c1f9f3cb7</series-id>
     <sub-title>Ciné 666 by Pluto TV Daytime Card</sub-title>
-    <category>Series</category>
     <category>Horror</category>
+    <category>Series</category>
     <category>Cult Horror</category>
   </programme>
   <programme channel="6823648580b2665220d9e69a" start="20260912062147 +0000" stop="20260912065147 +0000">
@@ -4040,8 +4025,8 @@
     <date>19700101</date>
     <series-id system="pluto">68c0431974f43c4c1f9f3cb7</series-id>
     <sub-title>Ciné 666 by Pluto TV Daytime Card</sub-title>
-    <category>Series</category>
     <category>Horror</category>
+    <category>Series</category>
     <category>Cult Horror</category>
   </programme>
   <programme channel="6823648580b2665220d9e69a" start="20260912065147 +0000" stop="20260912072147 +0000">
@@ -4054,8 +4039,8 @@
     <date>19700101</date>
     <series-id system="pluto">68c0431974f43c4c1f9f3cb7</series-id>
     <sub-title>Ciné 666 by Pluto TV Daytime Card</sub-title>
-    <category>Series</category>
     <category>Horror</category>
+    <category>Series</category>
     <category>Cult Horror</category>
   </programme>
   <programme channel="6823648580b2665220d9e69a" start="20260912072147 +0000" stop="20260912075147 +0000">
@@ -4068,8 +4053,8 @@
     <date>19700101</date>
     <series-id system="pluto">68c0431974f43c4c1f9f3cb7</series-id>
     <sub-title>Ciné 666 by Pluto TV Daytime Card</sub-title>
-    <category>Series</category>
     <category>Horror</category>
+    <category>Series</category>
     <category>Cult Horror</category>
   </programme>
   <programme channel="6823648580b2665220d9e69a" start="20260912075147 +0000" stop="20260912082147 +0000">
@@ -4082,8 +4067,8 @@
     <date>19700101</date>
     <series-id system="pluto">68c0431974f43c4c1f9f3cb7</series-id>
     <sub-title>Ciné 666 by Pluto TV Daytime Card</sub-title>
-    <category>Series</category>
     <category>Horror</category>
+    <category>Series</category>
     <category>Cult Horror</category>
   </programme>
   <programme channel="6823648580b2665220d9e69a" start="20260912082147 +0000" stop="20260912085147 +0000">
@@ -4096,8 +4081,8 @@
     <date>19700101</date>
     <series-id system="pluto">68c0431974f43c4c1f9f3cb7</series-id>
     <sub-title>Ciné 666 by Pluto TV Daytime Card</sub-title>
-    <category>Series</category>
     <category>Horror</category>
+    <category>Series</category>
     <category>Cult Horror</category>
   </programme>
   <programme channel="6823648580b2665220d9e69a" start="20260912085147 +0000" stop="20260912092147 +0000">
@@ -4110,8 +4095,8 @@
     <date>19700101</date>
     <series-id system="pluto">68c0431974f43c4c1f9f3cb7</series-id>
     <sub-title>Ciné 666 by Pluto TV Daytime Card</sub-title>
-    <category>Series</category>
     <category>Horror</category>
+    <category>Series</category>
     <category>Cult Horror</category>
   </programme>
   <programme channel="6823648580b2665220d9e69a" start="20260912092147 +0000" stop="20260912095147 +0000">
@@ -4124,8 +4109,8 @@
     <date>19700101</date>
     <series-id system="pluto">68c0431974f43c4c1f9f3cb7</series-id>
     <sub-title>Ciné 666 by Pluto TV Daytime Card</sub-title>
-    <category>Series</category>
     <category>Horror</category>
+    <category>Series</category>
     <category>Cult Horror</category>
   </programme>
   <programme channel="6823648580b2665220d9e69a" start="20260912095147 +0000" stop="20260912102147 +0000">
@@ -4138,8 +4123,8 @@
     <date>19700101</date>
     <series-id system="pluto">68c0431974f43c4c1f9f3cb7</series-id>
     <sub-title>Ciné 666 by Pluto TV Daytime Card</sub-title>
-    <category>Series</category>
     <category>Horror</category>
+    <category>Series</category>
     <category>Cult Horror</category>
   </programme>
   <programme channel="6823648580b2665220d9e69a" start="20260912102147 +0000" stop="20260912105147 +0000">
@@ -4152,8 +4137,8 @@
     <date>19700101</date>
     <series-id system="pluto">68c0431974f43c4c1f9f3cb7</series-id>
     <sub-title>Ciné 666 by Pluto TV Daytime Card</sub-title>
-    <category>Series</category>
     <category>Horror</category>
+    <category>Series</category>
     <category>Cult Horror</category>
   </programme>
   <programme channel="6823648580b2665220d9e69a" start="20260912105147 +0000" stop="20260912112147 +0000">
@@ -4166,8 +4151,92 @@
     <date>19700101</date>
     <series-id system="pluto">68c0431974f43c4c1f9f3cb7</series-id>
     <sub-title>Ciné 666 by Pluto TV Daytime Card</sub-title>
-    <category>Series</category>
     <category>Horror</category>
+    <category>Series</category>
+    <category>Cult Horror</category>
+  </programme>
+  <programme channel="6823648580b2665220d9e69a" start="20260912112147 +0000" stop="20260912115147 +0000">
+    <title>Ciné 666 by Pluto TV</title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <episode-num system="pluto">68c04526508ba507f0d83e68</episode-num>
+    <episode-num system="original-air-date">19700101000000 +0000</episode-num>
+    <desc>Vous avez déjà rêvé d’assister à un exorcisme? Découvrez ce qu’est vraiment la terreur sur Ciné 666 by Pluto TV. Des cas de possession aux malédictions démoniaques en passant par des prêtres, soyez prêts à sauver votre âme… ou à la vendre au diable!</desc>
+    <icon src="https://images.pluto.tv/series/68c0431974f43c4c1f9f3cb7/tile-1757430641108.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">68c0431974f43c4c1f9f3cb7</series-id>
+    <sub-title>Ciné 666 by Pluto TV Daytime Card</sub-title>
+    <category>Horror</category>
+    <category>Series</category>
+    <category>Cult Horror</category>
+  </programme>
+  <programme channel="6823648580b2665220d9e69a" start="20260912115147 +0000" stop="20260912122147 +0000">
+    <title>Ciné 666 by Pluto TV</title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <episode-num system="pluto">68c04526508ba507f0d83e68</episode-num>
+    <episode-num system="original-air-date">19700101000000 +0000</episode-num>
+    <desc>Vous avez déjà rêvé d’assister à un exorcisme? Découvrez ce qu’est vraiment la terreur sur Ciné 666 by Pluto TV. Des cas de possession aux malédictions démoniaques en passant par des prêtres, soyez prêts à sauver votre âme… ou à la vendre au diable!</desc>
+    <icon src="https://images.pluto.tv/series/68c0431974f43c4c1f9f3cb7/tile-1757430641108.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">68c0431974f43c4c1f9f3cb7</series-id>
+    <sub-title>Ciné 666 by Pluto TV Daytime Card</sub-title>
+    <category>Horror</category>
+    <category>Series</category>
+    <category>Cult Horror</category>
+  </programme>
+  <programme channel="6823648580b2665220d9e69a" start="20260912122147 +0000" stop="20260912125147 +0000">
+    <title>Ciné 666 by Pluto TV</title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <episode-num system="pluto">68c04526508ba507f0d83e68</episode-num>
+    <episode-num system="original-air-date">19700101000000 +0000</episode-num>
+    <desc>Vous avez déjà rêvé d’assister à un exorcisme? Découvrez ce qu’est vraiment la terreur sur Ciné 666 by Pluto TV. Des cas de possession aux malédictions démoniaques en passant par des prêtres, soyez prêts à sauver votre âme… ou à la vendre au diable!</desc>
+    <icon src="https://images.pluto.tv/series/68c0431974f43c4c1f9f3cb7/tile-1757430641108.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">68c0431974f43c4c1f9f3cb7</series-id>
+    <sub-title>Ciné 666 by Pluto TV Daytime Card</sub-title>
+    <category>Horror</category>
+    <category>Series</category>
+    <category>Cult Horror</category>
+  </programme>
+  <programme channel="6823648580b2665220d9e69a" start="20260912125147 +0000" stop="20260912132147 +0000">
+    <title>Ciné 666 by Pluto TV</title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <episode-num system="pluto">68c04526508ba507f0d83e68</episode-num>
+    <episode-num system="original-air-date">19700101000000 +0000</episode-num>
+    <desc>Vous avez déjà rêvé d’assister à un exorcisme? Découvrez ce qu’est vraiment la terreur sur Ciné 666 by Pluto TV. Des cas de possession aux malédictions démoniaques en passant par des prêtres, soyez prêts à sauver votre âme… ou à la vendre au diable!</desc>
+    <icon src="https://images.pluto.tv/series/68c0431974f43c4c1f9f3cb7/tile-1757430641108.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">68c0431974f43c4c1f9f3cb7</series-id>
+    <sub-title>Ciné 666 by Pluto TV Daytime Card</sub-title>
+    <category>Horror</category>
+    <category>Series</category>
+    <category>Cult Horror</category>
+  </programme>
+  <programme channel="6823648580b2665220d9e69a" start="20260912132147 +0000" stop="20260912135147 +0000">
+    <title>Ciné 666 by Pluto TV</title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <episode-num system="pluto">68c04526508ba507f0d83e68</episode-num>
+    <episode-num system="original-air-date">19700101000000 +0000</episode-num>
+    <desc>Vous avez déjà rêvé d’assister à un exorcisme? Découvrez ce qu’est vraiment la terreur sur Ciné 666 by Pluto TV. Des cas de possession aux malédictions démoniaques en passant par des prêtres, soyez prêts à sauver votre âme… ou à la vendre au diable!</desc>
+    <icon src="https://images.pluto.tv/series/68c0431974f43c4c1f9f3cb7/tile-1757430641108.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">68c0431974f43c4c1f9f3cb7</series-id>
+    <sub-title>Ciné 666 by Pluto TV Daytime Card</sub-title>
+    <category>Horror</category>
+    <category>Series</category>
+    <category>Cult Horror</category>
+  </programme>
+  <programme channel="6823648580b2665220d9e69a" start="20260912135147 +0000" stop="20260912142147 +0000">
+    <title>Ciné 666 by Pluto TV</title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <episode-num system="pluto">68c04526508ba507f0d83e68</episode-num>
+    <episode-num system="original-air-date">19700101000000 +0000</episode-num>
+    <desc>Vous avez déjà rêvé d’assister à un exorcisme? Découvrez ce qu’est vraiment la terreur sur Ciné 666 by Pluto TV. Des cas de possession aux malédictions démoniaques en passant par des prêtres, soyez prêts à sauver votre âme… ou à la vendre au diable!</desc>
+    <icon src="https://images.pluto.tv/series/68c0431974f43c4c1f9f3cb7/tile-1757430641108.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">68c0431974f43c4c1f9f3cb7</series-id>
+    <sub-title>Ciné 666 by Pluto TV Daytime Card</sub-title>
+    <category>Horror</category>
+    <category>Series</category>
     <category>Cult Horror</category>
   </programme>
   </tv>
